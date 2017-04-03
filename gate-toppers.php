@@ -515,21 +515,6 @@
                     </div>
                     <div class="col-md-3">
                         <div class="topper-image">
-                            <a href="gate-2017-toppers.php#air164">
-                                <img src="assets/images/testimonials/2017-toppers/Rajesh-Koritela-AIR-164.jpg"
-                                     alt="gate-topper">
-                        </div>
-                        <div class="topper-text">
-
-
-                            <h2>AIR-164</h2>
-                            <h3>Rajesh Koritela</h3>
-                            </a>
-
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="topper-image">
                             <a href="gate-2017-toppers.php#air160">
                                 <img src="assets/images/testimonials/2017-toppers/Asis-kumar-panda--160.jpg"
                                      alt="gate-topper">
@@ -543,6 +528,22 @@
 
                         </div>
                     </div>
+                    <div class="col-md-3">
+                        <div class="topper-image">
+                            <a href="gate-2017-toppers.php#air164">
+                                <img src="assets/images/testimonials/2017-toppers/Rajesh-Koritela-AIR-164.jpg"
+                                     alt="gate-topper">
+                        </div>
+                        <div class="topper-text">
+
+
+                            <h2>AIR-164</h2>
+                            <h3>Rajesh Koritela</h3>
+                            </a>
+
+                        </div>
+                    </div>
+
 
 
                 </div>

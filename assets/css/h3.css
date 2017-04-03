@@ -218,6 +218,7 @@ ol.carousel-indicators li {
 }
 .carousel-control.right{
     background: none;
+    right: 35px;
 }
 .carousel-control{
     width: 0;

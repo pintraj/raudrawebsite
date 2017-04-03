@@ -815,34 +815,6 @@ include "header.php";
     </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <?php
 include "previous-testi.php";
 include "footer.php";

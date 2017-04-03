@@ -36,10 +36,8 @@
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
-
                 <div class="item active">
                     <!--1st row -->
-
                     <!--last change from here-->
                     <div class="col-md-3">
                         <div class="topper-image">
@@ -48,7 +46,6 @@
                                      alt="gate-topper">
                         </div>
                         <div class="topper-text">
-
                             <h2>AIR-9</h2>
                             <h3> Nihar Ranjan Sahoo</h3>
                             </a>
@@ -625,15 +622,16 @@
                         </div>
                     </div>
                 </div>
-                </div>2
-            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                <span class="fa fa-chevron-left controllers" aria-hidden="true"></span>
-                <!--                    <span class="sr-only">Previous</span>-->
-            </a>
-            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                <span class="fa fa-chevron-right controllers" aria-hidden="true"></span>
-                <!--                    <span class="sr-only">Next</span>-->
-            </a>
+                <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                    <span class="fa fa-chevron-left controllers" aria-hidden="true"></span>
+                    <!--                    <span class="sr-only">Previous</span>-->
+                </a>
+                <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                    <span class="fa fa-chevron-right controllers" aria-hidden="true"></span>
+                    <!--                    <span class="sr-only">Next</span>-->
+                </a>
+                </div>
+
             </div>
         </div>
 
