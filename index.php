@@ -119,7 +119,7 @@ $_SESSION['user_id']='';
             <h2>CONGRATULATIONS to our GATE-2017 Toppers</h2>
             <?php
             include "gate-toppers.php";
-            include "mobile-testi.php";
+            
             ?>
         </div>
     </div>
@@ -406,7 +406,7 @@ $_SESSION['user_id']='';
 
 <!--3rd column starts here-->
 
-</div>
+
 <?php
 include "featuredvideos.php";
 ?>

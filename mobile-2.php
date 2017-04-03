@@ -10,7 +10,7 @@
 
 
 <div class="row">
-    <div class="hidden-lg hidden-md hidden-sm ">
+    <div class="hidden-md hidden-lg hidden-sm">
         <br>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
@@ -534,23 +534,22 @@
                         </div>
                     </div>
                 </div>
-                <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                    <span class="fa fa-chevron-left controllers" aria-hidden="true"></span>
-                    <!--                    <span class="sr-only">Previous</span>-->
-                </a>
-                <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                    <span class="fa fa-chevron-right controllers" aria-hidden="true"></span>
-                    <!--                    <span class="sr-only">Next</span>-->
-                </a>
             </div>
-
-
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="fa fa-chevron-left controllers" aria-hidden="true"></span>
+                <!--                    <span class="sr-only">Previous</span>-->
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="fa fa-chevron-right controllers" aria-hidden="true"></span>
+                <!--                    <span class="sr-only">Next</span>-->
+            </a>
         </div>
 
         <!-- Left and right controls -->
 
     </div>
 </div>
+
 
 
 
