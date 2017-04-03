@@ -11,7 +11,7 @@
 
 
 <div class="row">
-    <div class="col-xs-12">
+    <div class="hidden-xs">
         <br>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->

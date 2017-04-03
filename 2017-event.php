@@ -13,13 +13,7 @@ include "header.php";
             <div class="col-md-6">
                 <form>
                     <div class="form-group">
-                        <div class="col-md-6">
-
-                            <label for="first-name">First Name</label>
-                        </div>
-                        <div class="col-md-6">
-
-                        </div>
+                        <label for="first-name">First Name</label>
                         <input type="text" class="form-control" id="first-name">
                     </div>
                     <div class="form-group">

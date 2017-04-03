@@ -119,6 +119,7 @@ $_SESSION['user_id']='';
             <h2>CONGRATULATIONS to our GATE-2017 Toppers</h2>
             <?php
             include "gate-toppers.php";
+            include "mobile-2.php";
 
             ?>
         </div>
