@@ -1,0 +1,147 @@
+Application path: /livechat/php/app.php?install-wizard-2
+2017-03-17 10:47:08 Undefined index: smtp on line 162 in /var/www/html/livechat/views/admin/install-wizard.html
+Application path: /livechat/php/app.php?install-wizard-2
+2017-03-17 10:47:41 [error] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+Stack trace:
+/var/www/html/livechat/php/service/Database.php:45 (Logger:error())
+/var/www/html/livechat/php/service/Database.php:63 (Database:connect())
+/var/www/html/livechat/php/service/Database.php:25 (Database:reconnect())
+/var/www/html/livechat/php/lib/Service.php:17 (Database:onRegister())
+/var/www/html/livechat/php/lib/ServiceContainer.php:47 (Service:setServiceContainer())
+/var/www/html/livechat/php/lib/Controller.php:33 (ServiceContainer:get())
+/var/www/html/livechat/php/controller/InstallController.php:74 (Controller:get())
+/var/www/html/livechat/php/app/Application.php:155 (InstallController:wizard2Action())
+/var/www/html/livechat/php/app/Application.php:79 (Application:runAction())
+/var/www/html/livechat/php/app.php:26 (Application:run())
+
+Application path: /livechat/php/app.php?install-wizard-2
+2017-03-17 10:47:41 Undefined index: smtp on line 78 in /var/www/html/livechat/views/admin/install-wizard-2.html
+2017-03-17 10:47:41 Undefined index: smtp on line 151 in /var/www/html/livechat/views/admin/install-wizard-2.html
+Application path: /livechat/php/app.php?install-wizard-2
+2017-03-17 10:49:45 Undefined index: smtp on line 162 in /var/www/html/livechat/views/admin/install-wizard.html
+Application path: /livechat/php/app.php?install-wizard-2
+2017-03-17 10:49:55 Undefined index: smtp on line 78 in /var/www/html/livechat/views/admin/install-wizard-2.html
+2017-03-17 10:49:55 Undefined index: smtp on line 151 in /var/www/html/livechat/views/admin/install-wizard-2.html
+Application path: /livechat/php/app.php?install-wizard-2
+2017-03-17 10:56:31 Undefined index: smtp on line 78 in /var/www/html/livechat/views/admin/install-wizard-2.html
+2017-03-17 10:56:31 Undefined index: smtp on line 151 in /var/www/html/livechat/views/admin/install-wizard-2.html
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:21 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-list
+2017-03-17 11:04:21 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:29 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-list
+2017-03-17 11:04:29 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:34 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-is-online
+2017-03-17 11:04:37 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+2017-03-17 11:04:37 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:39 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:44 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:49 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:54 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:04:59 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:04 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:09 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:14 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:19 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-is-online
+2017-03-17 11:05:22 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+2017-03-17 11:05:22 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:24 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:29 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:34 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:39 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:44 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:49 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:54 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:05:59 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:04 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:09 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:14 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:19 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:24 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:29 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:34 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:39 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:44 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-is-online
+2017-03-17 11:06:45 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+2017-03-17 11:06:45 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:49 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:06:55 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:00 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:05 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:10 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-is-online
+2017-03-17 11:07:12 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+2017-03-17 11:07:12 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:15 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:19 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:24 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:30 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:34 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:39 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:44 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:49 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:54 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:07:59 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:08:04 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:08:09 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-update
+2017-03-17 11:08:14 Undefined variable: result on line 88 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:08:14 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?operator-online-users
+2017-03-17 11:08:19 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+Application path: /livechat/php/app.php?install-wizard-2
+2017-03-17 11:08:39 Undefined index: smtp on line 78 in /var/www/html/livechat/views/admin/install-wizard-2.html
+2017-03-17 11:08:39 Undefined index: smtp on line 151 in /var/www/html/livechat/views/admin/install-wizard-2.html
+Application path: /livechat/php/app.php?operator-is-online
+2017-03-20 10:48:54 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
+2017-03-20 10:48:54 Undefined variable: result on line 126 in /var/www/html/livechat/php/service/Database.php
