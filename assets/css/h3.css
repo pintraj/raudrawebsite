@@ -227,3 +227,8 @@ ol.carousel-indicators li {
     text-align: center;
     /*background: mintcream;*/
 }
+.carousel-inner > .item {
+
+    /*transition: transform 0.2s ease-in-out !important;*/
+
+}
