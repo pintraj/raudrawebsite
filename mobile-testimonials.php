@@ -22,22 +22,19 @@ I feel very much lucky that I got chance to learn from you. You are doing a fabu
                         <img src="assets/images/testimonials/2017-toppers/Nihar-Ranjan-Sahoo-AIR-9.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Shivank Gupta: AIR 11" data-content=" Sir your are just simple awesome and the way you had taught each subjects is more interesting.. After watching videos of each subjects I hardly found any doubt and the concepts are really taught by you in simple and elegant way..along with your course videos your motivational videos, I must say a must watch for everyone and they had a great impact on me also... I used you watch them whenever I feel demotivated and get off track.. 'You were my inspiration' as I too doing my  bachelors in Electronics..
+      --><div class="testimonial test-mobi" data-author="Shivank Gupta: AIR 11" data-content=" Sir your are just simple awesome and the way you had taught each subjects is more interesting.. After watching videos of each subjects I hardly found any doubt and the concepts are really taught by you in simple and elegant way..along with your course videos your motivational videos, I must say a must watch for everyone and they had a great impact on me also... I used you watch them whenever I feel demotivated and get off track.. 'You were my inspiration' as I too doing my  bachelors in Electronics..
             ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Shivank-Gupta-AIR-11.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Himadri Banerjee: AIR 15" data-content="I sincerely thank Ravindrababu Ravula Sir and his team for such amazing classes and explanation.His lectures and test series are the biggest reason I secured AIR 15 in GATE 2017 though I pursued my Bachelors in Electronics.
+      --><div class="testimonial test-mobi" data-author="Himadri Banerjee: AIR 15" data-content="I sincerely thank Ravindrababu Ravula Sir and his team for such amazing classes and explanation.His lectures and test series are the biggest reason I secured AIR 15 in GATE 2017 though I pursued my Bachelors in Electronics.
 ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Himadri-BanerjeeAIR-15.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Anirban Biswas: AIR 19"
+      --><div class="testimonial test-mobi" data-author="Anirban Biswas: AIR 19"
                      data-content="Tutorial videos of Ravindrababu are excellent. It really helped me understand concepts of various topics very clearly. His way of teaching is absolutely fantastic. I loved it. Videos on Computer Network and ToC were superb. Also test series was very helpful. Quality of questions were excellent.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Anirban-Biswas-AIR-19.jpg" alt="">
@@ -56,8 +53,7 @@ I feel very much lucky that I got chance to learn from you. You are doing a fabu
                         <img src="assets/images/testimonials/2017-toppers/ABHISHEK-BHARDWAJ--RANK-20.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Monish Keswani: AIR 21" data-content="My dream of getting into IISc would have remained a dream had I not come across Ravi sir's video tutorials on YouTube. The day that changed my destiny. After watching the first video itself, I was certain I wanted to watch every gate tutorial Ravi sir has ever made. He is a one man army, delivering the kind of knowledge and training no classes will ever be able to provide. The videos not only cover the breadth of the syllabus but also the depth, so it is a complete package. He has been the catalyst during my preparation whenever i felt I'm slowing down i used to watch his video 'How to get AIR 1 in GATE' and get paced up. He is the best mentor anyone could ever ask for and no words will ever be able to express how grateful I'm.
+      --><div class="testimonial test-mobi" data-author="Monish Keswani: AIR 21" data-content="My dream of getting into IISc would have remained a dream had I not come across Ravi sir's video tutorials on YouTube. The day that changed my destiny. After watching the first video itself, I was certain I wanted to watch every gate tutorial Ravi sir has ever made. He is a one man army, delivering the kind of knowledge and training no classes will ever be able to provide. The videos not only cover the breadth of the syllabus but also the depth, so it is a complete package. He has been the catalyst during my preparation whenever i felt I'm slowing down i used to watch his video 'How to get AIR 1 in GATE' and get paced up. He is the best mentor anyone could ever ask for and no words will ever be able to express how grateful I'm.
 
             Thank you sir!
 ">
@@ -65,8 +61,7 @@ I feel very much lucky that I got chance to learn from you. You are doing a fabu
                         <img src="assets/images/testimonials/2017-toppers/Sai-Prasad-Koushika-AIR-37.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Tapan Bhardwaj: AIR 22" data-content="I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will open different wonderful opportunities and that is how and why I wanted to give GATE.
+      --><div class="testimonial test-mobi" data-author="Tapan Bhardwaj: AIR 22" data-content="I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will open different wonderful opportunities and that is how and why I wanted to give GATE.
 
 Then I came across Ravi Sir's lectures in YouTube and after watching the first couple of lectures I got to know that this is what I want to study and from whom I want to study from. The confidence that Ravi sir instills in people with even the lowest self esteem is what makes him a great guru.
 
@@ -75,16 +70,14 @@ He lays a path for people who like to work hard and achieve things in life with 
                         <img src="assets/images/testimonials/2017-toppers/Jatin-Mittal-AIR-43.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Sunandini Sanyal: AIR 24
+      --><div class="testimonial test-mobi" data-author="Sunandini Sanyal: AIR 24
 " data-content="I would like to thank Ravindrababu Ravula Sir for my success. I watched his video lectures which helped me understand the concepts in depth. Some of his videos were truly inspiring as well. I had taken the test series which contained questions right from basic to advanced level that not only helped me analyze and learn from my mistakes but also improved my time management skills. Thanks a lot Sir!
 ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Sudheer-Chandra-M-AIR-60.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
+      --></div>
             <div id="testimonial-display"></div>
         </div>
         <div class="testminioals-group">
@@ -95,16 +88,14 @@ He lays a path for people who like to work hard and achieve things in life with 
                         <img src="assets/images/testimonials/2017-toppers/Manish-joshi-AIR-28.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Amit Patil: AIR 31" data-content="Hello all,
+      --><div class="testimonial test-mobi" data-author="Amit Patil: AIR 31" data-content="Hello all,
 
 I am Amit Patil, from Mumbai. I studied all the subjects just from Ravindrababu Sir's video lectures, without using any standard reference books. Only his videos, practice questions and GATExcel Test Series are self-sufficient to get a good rank in GATE.   ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Amit-Patil-AIR-31.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Sai Prasad Koushika: AIR 37" data-content="I am Sai Prasad Kousika, I secured All India Rank 37 in GATE-2017 in Computer Science. Initially, I thought GATE was the toughest exam and it is possible to crack it only with 2 or 3 years of continuous coaching. During that time, I got to know about Ravindra sir from my seniors. They suggested me to watch his demo videos. After watching sir’s GATE introduction videos, I came to a conclusion that it(GATE) is not tough anymore. In fact, it changed my complete thought process about GATE and they taught me the way of life. That day itself I joined GATExcel 135 and practiced each and every paper. Believe me, I almost explored all concepts of the subject in depth from each question and it made me fall in love with subjects. This is what made me crack GATE in final year itself.
+      --><div class="testimonial test-mobi" data-author="Sai Prasad Koushika: AIR 37" data-content="I am Sai Prasad Kousika, I secured All India Rank 37 in GATE-2017 in Computer Science. Initially, I thought GATE was the toughest exam and it is possible to crack it only with 2 or 3 years of continuous coaching. During that time, I got to know about Ravindra sir from my seniors. They suggested me to watch his demo videos. After watching sir’s GATE introduction videos, I came to a conclusion that it(GATE) is not tough anymore. In fact, it changed my complete thought process about GATE and they taught me the way of life. That day itself I joined GATExcel 135 and practiced each and every paper. Believe me, I almost explored all concepts of the subject in depth from each question and it made me fall in love with subjects. This is what made me crack GATE in final year itself.
 
 The way sir designed and maintained that standard is Awesome.
 
@@ -113,8 +104,7 @@ Thanks a lot sir, for making my dream come true.">
                         <img src="assets/images/testimonials/2017-toppers/Sai-Prasad-Koushika-AIR-37.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Kantikumar Lahoti: AIR 39"
+      --><div class="testimonial test-mobi" data-author="Kantikumar Lahoti: AIR 39"
                      data-content="All I have achieved today, Ravindra Babu sir has a big contribution in it. Tutorials of Ravindra Babu sir were excellent. It helped me understand the concepts clearly and easily. The way he teaches is fantastic.  The Test series was challenging and helped a lot in preparation. Thank you Sir for guiding me.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Kantikumar-Lahoti--AIR-39.jpg" alt="">
@@ -131,15 +121,13 @@ Thanks a lot sir, for making my dream come true.">
                         <img src="assets/images/testimonials/2017-toppers/Jatin-Mittal-AIR-43.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Sudheer Chandra M: AIR 60"
+      --><div class="testimonial test-mobi" data-author="Sudheer Chandra M: AIR 60"
                      data-content="Ravi sir is a multi talented individual, a great motivational speaker and obviously CS genius. My Bachelors degree is in Electrical and Electronics engineering, but out of my enthusiasm towards algorithms, computer vision and AI, I decided to do Masters in CS. Ravi sir is the first person to create confidence in me from his YouTube videos that gate CS is not difficult and can be cracked with little effort. I enrolled for his classes and thoroughly enjoyed them. I loved CN, TOC and DBMS personally. Sir kept in adding motivational videos to boost confidence. Also I like sir's confidence. I see these days sir is also teaching other than gate stuff. I hope people get benefited from that also. I'm excited to share this happiness with him.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Sudheer-Chandra-M-AIR-60.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Rahul sharma: AIR 72" data-content="
+      --><div class="testimonial test-mobi" data-author="Rahul sharma: AIR 72" data-content="
                     I would like to start with a big THANKS!!!! Although we were not connected physically but I always felt sir’s presence while watching the videos. I decided to prepare for GATE examination after the end of my 2nd year (B.Tech). I saw his general videos on YouTube and that inspired me to go for higher studies. I saw his demo videos of Algorithms and Computer Networks and I was satisfied with the way of teaching. Few of my college seniors too had taken up your courses so they ensured me about the quality of his teaching.
 
                     I started completing all the subjects one by one and after completing a subject I practiced all the previous year GATE questions related to that subject. Once I covered the entire syllabus (85-90 percent) I started revising the subjects and towards the last months I appeared for test series that helped me to figure out my preparation.
@@ -169,8 +157,7 @@ Thanks a lot sir, for making my dream come true.">
                         <img src="assets/images/testimonials/2017-toppers/Rahul-sharma-AIR-72.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Ravi shankar Karanam:AIR-76" data-content="Ravindra sir has been an exemplary and visionary mentor, whom you would rarely come across. Sir, your encouragement and advice has led me to places I never thought I would go.
+      --><div class="testimonial test-mobi" data-author="Ravi shankar Karanam:AIR-76" data-content="Ravindra sir has been an exemplary and visionary mentor, whom you would rarely come across. Sir, your encouragement and advice has led me to places I never thought I would go.
 
 The knowledge you have imparted to me will always remain as a great asset throughout my career. My success today is due to your support and mentorship.
 
@@ -179,8 +166,7 @@ The knowledge you have imparted to me will always remain as a great asset throug
                         <img src="assets/images/testimonials/2017-toppers/Ravi-shankar-Karanam-76.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
+      --></div>
             <div id="testimonial-display"></div>
         </div>
         <div class="testminioals-group">
@@ -198,15 +184,13 @@ Moreover, his exam tips and motivational videos were the icing on the cake, they
                         <img src="assets/images/testimonials/2017-toppers/Shiva-Kulshreshtha-AIR-77.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Rasna Goyal:AIR-79"
+      --><div class="testimonial test-mobi" data-author="Rasna Goyal:AIR-79"
                      data-content="Ravindra Sir is one of the best teachers I have ever studied from. It's not what he teaches makes him so favorite ... It’s the way he teaches. Studying from him makes everything just so simple...easy…logical and interesting.... I feel so lucky to have joined his online classes. Since I started studying along with job...ease of watching anytime and anywhere helped me a lot as I could manage studying daily along with office... Without his help I don’t think it would have been possible to secure a good rank.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Rasna-Goyal--79.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Anupama vijjapu:AIR-90" data-content="I came to know about Ravi Sir's lectures from a friend of mine who was preparing for GATE and this is how my journey towards cracking the exam started. He teaches with great passion from the very basic concepts of the subjects that even a B.Tech Electrical student like me can now say that I know CS much better than I ever knew Electrical.
+      --><div class="testimonial test-mobi" data-author="Anupama vijjapu:AIR-90" data-content="I came to know about Ravi Sir's lectures from a friend of mine who was preparing for GATE and this is how my journey towards cracking the exam started. He teaches with great passion from the very basic concepts of the subjects that even a B.Tech Electrical student like me can now say that I know CS much better than I ever knew Electrical.
 
 His subject lectures cover each every minute concept that could be asked in the exam. His test series are unique and cover every exceptional detail possible in the exam.
 
@@ -217,8 +201,7 @@ So I had a great learning experience throughout the preparation time.">
                         <img src="assets/images/testimonials/2017-toppers/Anupama-vijjapu-AIR-90.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Vaishali jhalani:AIR-97" data-content="I want to thank Ravi sir and his whole team for such wonderful classes.
+      --><div class="testimonial test-mobi" data-author="Vaishali jhalani:AIR-97" data-content="I want to thank Ravi sir and his whole team for such wonderful classes.
 
 A big part of my success is Ravi sir’s lectures.
 
@@ -243,8 +226,7 @@ Your proud student!">
                         <img src="assets/images/testimonials/2017-toppers/Sruthi-Goyal-AIR-109.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Shashank Pal: AIR 117" data-content="Hi friends.... I am Shashank Pal, I got Gate AIR 117 and a huge credit for this goes to Ravindra Sir. I did my B.Tech in Civil Engineering and had zero knowledge in CS but Ravindra Sir's lectures made it very easy and interesting for me.
+      --><div class="testimonial test-mobi" data-author="Shashank Pal: AIR 117" data-content="Hi friends.... I am Shashank Pal, I got Gate AIR 117 and a huge credit for this goes to Ravindra Sir. I did my B.Tech in Civil Engineering and had zero knowledge in CS but Ravindra Sir's lectures made it very easy and interesting for me.
 
 His lectures are self sufficient for gate. He has taught each and every topic in such an easy manner that anyone can understand.
 
@@ -259,16 +241,14 @@ He even suggested some books like 'The magic of thinking big', 'Good to great' w
                         <img src="assets/images/testimonials/2017-toppers/Shashank-Pal-AIR-117.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Murali Krishna: AIR 119" data-content="My journey towards getting into one of the top IITs wouldn't be possible without your guidance sir. I had a strong motivation in life and it was your guidance that channelized it in right direction. Your e-lectures are precise for gate, complete with respect to syllabus and deep enough to thoroughly understand the concepts. I enjoyed learning. Thanks for all your effort to make concepts understandable even for below average students. I am sure your effort will bring light in millions of students life. It's an honor to have you sir ...Thank you
+      --><div class="testimonial test-mobi" data-author="Murali Krishna: AIR 119" data-content="My journey towards getting into one of the top IITs wouldn't be possible without your guidance sir. I had a strong motivation in life and it was your guidance that channelized it in right direction. Your e-lectures are precise for gate, complete with respect to syllabus and deep enough to thoroughly understand the concepts. I enjoyed learning. Thanks for all your effort to make concepts understandable even for below average students. I am sure your effort will bring light in millions of students life. It's an honor to have you sir ...Thank you
 
 ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Murali-Krishna-AIR-119.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Nagesh: AIR 119" data-content="Hello, this is Nagesh I got AIR 119. The journey of gate started when I was in my 5th semester. I started searching what to do and while searching landed upon Ravindrababu Ravula’s video lecture. That video inspired me a lot and that was one of the factors for me to do GATE.
+      --><div class="testimonial test-mobi" data-author="Nagesh: AIR 119" data-content="Hello, this is Nagesh I got AIR 119. The journey of gate started when I was in my 5th semester. I started searching what to do and while searching landed upon Ravindrababu Ravula’s video lecture. That video inspired me a lot and that was one of the factors for me to do GATE.
 
 This is my second attempt. I got 1025 rank in 2016(first attempt).But I was not satisfied. I wanted to get into top IITs. So I decided to drop an year and take up the exam next year. I had watched Ravi sir’s free video lectures before. I felt they were good, so I registered for his GATE course this time and finally got a rank of 119.
 
@@ -277,9 +257,7 @@ Now when I look back I can tell you that it was the best decision that I made. I
                         <img src="assets/images/testimonials/2017-toppers/Nagesh--AIR-119.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-
-            </div>
+      --></div>
             <div id="testimonial-display"></div>
         </div>
         <div class="testminioals-group">
@@ -298,8 +276,7 @@ Nothing wrong in following someone who can make your journey easy and confident 
                         <img src="assets/images/testimonials/2017-toppers/Meet-sheth-132.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Sonu Dixit: AIR 136" data-content="Ravi Sir’s tutorial videos are excellent in terms of depth of information/concept it contains, as well as the way you have prepared them. I mean at several occasions in the duration of full course you could have skipped some concepts, but you chose to repeat the same concept again and again while solving every related question so that every student can understand the core concepts. I must say truly, this course is self-sufficient for gate aspirants. You have covered CN at extra depth. I wish I could keep them with me for my future reference. I just enjoyed watching your lectures, at times I could spend the whole day learning from your lectures. You have done a tremendous job in preparing those lectures with utmost care.
+      --><div class="testimonial test-mobi" data-author="Sonu Dixit: AIR 136" data-content="Ravi Sir’s tutorial videos are excellent in terms of depth of information/concept it contains, as well as the way you have prepared them. I mean at several occasions in the duration of full course you could have skipped some concepts, but you chose to repeat the same concept again and again while solving every related question so that every student can understand the core concepts. I must say truly, this course is self-sufficient for gate aspirants. You have covered CN at extra depth. I wish I could keep them with me for my future reference. I just enjoyed watching your lectures, at times I could spend the whole day learning from your lectures. You have done a tremendous job in preparing those lectures with utmost care.
 
 Apart from Gate Lectures, your motivational talks also helped me a lot. As far as I have seen you in the lectures, you are a very nice, humble, down to earth person, with extraordinary determination (I am saying this because in one of the videos I got to know about your childhood struggles, true example of hard work always pay off).
 
@@ -309,15 +286,13 @@ Thanks a lot Sir.
                         <img src="assets/images/testimonials/2017-toppers/sonu-dixit-136.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Akash rana: AIR 137" data-content="Sir’s lectures were crucial in helping me prepare for GATE 2017. It not only allowed me to make my concepts crystal clear but also provided me with nifty tricks that bumped my overall score by couple of marks easily. The video explanation for the previous year questions were super helpful. His way of teaching is awesome. And especially the way he taught Networking was too good. I can't thank him enough for my success.
+      --><div class="testimonial test-mobi" data-author="Akash rana: AIR 137" data-content="Sir’s lectures were crucial in helping me prepare for GATE 2017. It not only allowed me to make my concepts crystal clear but also provided me with nifty tricks that bumped my overall score by couple of marks easily. The video explanation for the previous year questions were super helpful. His way of teaching is awesome. And especially the way he taught Networking was too good. I can't thank him enough for my success.
 ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Akash-rana-AIR--137.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Vicky Agarwal: AIR 142" data-content="I'm very thankful to Ravindra Sir for providing such a quality lectures. He is the real motivating force that helped me in cracking GATE.
+      --><div class="testimonial test-mobi" data-author="Vicky Agarwal: AIR 142" data-content="I'm very thankful to Ravindra Sir for providing such a quality lectures. He is the real motivating force that helped me in cracking GATE.
 
 To be honest I started preparing for GATE in October and it was his teaching which made it possible for me to get this rank in just 90 days. The best thing about his lectures is that I never found a necessity to go through standard books as his lectures have already done that for me. One last thing I would like to add is sir’s motivation is at par. It was only you who motivated me to go for GATE and kept me motivated throughout my preparations.
 
@@ -338,8 +313,7 @@ Thank you for everything Sir!
                         <img src="assets/images/testimonials/2017-toppers/Kalpesh-Dusane-air-150.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Asis kumar panda: AIR 160" data-content="When I saw Ravindra Sir's videos for the first time, I felt some X-factor in him which differentiates him from others. His way of looking at the problems, analyzing them and solving them helped me in my GATE preparation.
+      --><div class="testimonial test-mobi" data-author="Asis kumar panda: AIR 160" data-content="When I saw Ravindra Sir's videos for the first time, I felt some X-factor in him which differentiates him from others. His way of looking at the problems, analyzing them and solving them helped me in my GATE preparation.
 
 Apart from studies, he also teaches lessons for life. In short, he is a complete personality. The best thing about Ravindra Sir's lectures is that he gives real time examples and co-relates the concepts with them which makes it easy for a student to understand.
 
@@ -349,8 +323,7 @@ Ravindra Sir makes superstars from normal talent and that is his specialty. More
                         <img src="assets/images/testimonials/2017-toppers/Asis-kumar-panda--160.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Rajesh Koritela: AIR 164" data-content="A big Thanks to you and to your team Sir. As eclasses take very less time to prepare for the examination and with your awesome classes on Algorithms, DS and CN helped me to reach my goal very quickly and with accuracy.
+      --><div class="testimonial test-mobi" data-author="Rajesh Koritela: AIR 164" data-content="A big Thanks to you and to your team Sir. As eclasses take very less time to prepare for the examination and with your awesome classes on Algorithms, DS and CN helped me to reach my goal very quickly and with accuracy.
 
 Once again thank you very much for your vision of online coaching and wish you all the best to take the future of youth aspirations forward.
 ">
@@ -358,15 +331,13 @@ Once again thank you very much for your vision of online coaching and wish you a
                         <img src="assets/images/testimonials/2017-toppers/Rajesh-Koritela-AIR-164.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Kaushal Dubey: AIR 165" data-content="Concepts are written in books but you need someone to teach these concepts to you, that person is a Teacher. Ravindrababu Ravula sir is the best among all teachers I had ever been taught by. His language is so simple and he makes tough looking topics look extremely simple. I have been working at TCS during GATE preparation, so due to lack of time I had to study in very efficient way, his lectures turned out to be most efficient for me. Whatever he teaches is sufficient and enough for GATE. He is the hero of My JOURNEY from nowhere to AIR-165. He is not only a great teacher but also a great motivator. Thank you sir.
+      --><div class="testimonial test-mobi" data-author="Kaushal Dubey: AIR 165" data-content="Concepts are written in books but you need someone to teach these concepts to you, that person is a Teacher. Ravindrababu Ravula sir is the best among all teachers I had ever been taught by. His language is so simple and he makes tough looking topics look extremely simple. I have been working at TCS during GATE preparation, so due to lack of time I had to study in very efficient way, his lectures turned out to be most efficient for me. Whatever he teaches is sufficient and enough for GATE. He is the hero of My JOURNEY from nowhere to AIR-165. He is not only a great teacher but also a great motivator. Thank you sir.
 ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Kaushal-Dubey-AIR-165.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
+      --></div>
             <div id="testimonial-display"></div>
         </div>
         <div class="testminioals-group">
@@ -378,8 +349,7 @@ Ravindra Sir personally is very approachable and helpful.">
                         <img src="assets/images/testimonials/2017-toppers/Siddhant-bhatt-AIR-169.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Abhishek Uppar: AIR 200" data-content="Ravi sir’s videos are well made. In terms of their pace and content they are the best and subjects like OS, DBMS, Digital, Calculus, Computer Architecture, Computer Networks are too good. Since, I did not like all the subjects in the syllabus, your videos were really helpful in getting over them. Also your videos are useful for anybody to make notes of their own. The topics in a video are well oriented towards connecting concepts and hence help having a total idea. He knows the contents of the syllabus very well and always stick to it. But also you make it a point to always give something extra. And above all, the amount of motivation you flush through all the student minds is amazing and is much needed. India certainly needs lot more of your kind.
+      --><div class="testimonial test-mobi" data-author="Abhishek Uppar: AIR 200" data-content="Ravi sir’s videos are well made. In terms of their pace and content they are the best and subjects like OS, DBMS, Digital, Calculus, Computer Architecture, Computer Networks are too good. Since, I did not like all the subjects in the syllabus, your videos were really helpful in getting over them. Also your videos are useful for anybody to make notes of their own. The topics in a video are well oriented towards connecting concepts and hence help having a total idea. He knows the contents of the syllabus very well and always stick to it. But also you make it a point to always give something extra. And above all, the amount of motivation you flush through all the student minds is amazing and is much needed. India certainly needs lot more of your kind.
 
 The topics tests for some subjects are really good (like TOC, Engineering mathematics, Database, Digital Design), and they did certainly help me in clearing my doubts and concepts. The test series were useful in knowing various types of questions and managing time.
 
@@ -390,8 +360,7 @@ You have a wonderful purpose which is the pursuit of serving the student with qu
                         <img src="assets/images/testimonials/2017-toppers/Abhishek-Uppar-AIR-200.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Debanjan ghatak: AIR 205" data-content="The e-classes of Ravindrababu Ravula helped me a lot...each and every subject and each and every topic have been covered taking care about all the minute details. The very exciting thing is that after covering each topic ravula sir takes up some previous year examples or some good questions which helps in understanding the concepts more clearly..moreover if I got stuck at any concept I mailed him the doubts and got reply within a couple of days..that’s great...his general tips about how to crack gate also motivated me a lot.
+      --><div class="testimonial test-mobi" data-author="Debanjan ghatak: AIR 205" data-content="The e-classes of Ravindrababu Ravula helped me a lot...each and every subject and each and every topic have been covered taking care about all the minute details. The very exciting thing is that after covering each topic ravula sir takes up some previous year examples or some good questions which helps in understanding the concepts more clearly..moreover if I got stuck at any concept I mailed him the doubts and got reply within a couple of days..that’s great...his general tips about how to crack gate also motivated me a lot.
 
 Regarding test series- its filled with beautiful questions on some really good concepts...each and every test should be given with pure sincerity...it gives a good practice and trains you for the gate exam. Ravula sir is great..I wanted to get less than 100 rank but I made a couple of silly mistakes..but I would like to say anyone who watches all the videos with sincerity and takes all the tests...coming under 100 is not a difficult task.
 
@@ -400,8 +369,7 @@ Thank you.">
                         <img src="assets/images/testimonials/2017-toppers/Debanjan%20ghatak%20AIR%20205.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Aman Omer: AIR 245" data-content="GATE 2017 AIR 245. All credit goes to you, Sir. Coming this far (thinking about IIT/IISc) would have never been possible without him. His way of explaining the concept is more than superb. Once again thank you very much sir.
+      --><div class="testimonial test-mobi" data-author="Aman Omer: AIR 245" data-content="GATE 2017 AIR 245. All credit goes to you, Sir. Coming this far (thinking about IIT/IISc) would have never been possible without him. His way of explaining the concept is more than superb. Once again thank you very much sir.
 
 Your student,
 
@@ -421,22 +389,19 @@ Aman Omer.">
                         <img src="assets/images/testimonials/2017-toppers/Abhinav-Arora-AIR-255.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Sagar Tikore: AIR 283"
+      --><div class="testimonial test-mobi" data-author="Sagar Tikore: AIR 283"
                      data-content="Ravindra Sir- Undoubtedly the best teacher I ever had..!! The best part of Ravindra sir's coaching is the Journey which has wonderful learning experience and of course a great success standing at the destination. Entire syllabus has been covered in the GATE course and I understood each and every subject with so much ease. I got my every doubt cleared within a day or two. I owe this success to wonderful teacher like you. Thank you for making a beautiful impact on my life.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Sagar-Tikore-AIR-283.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Samujjal das: AIR 302"
+      --><div class="testimonial test-mobi" data-author="Samujjal das: AIR 302"
                      data-content="I consider it my proud privilege to write about you. I took your classes for GATE 2017 and got a decent rank (AIR 302). I felt that you have this amazing quality which made even the difficult topics simpler to someone having no knowledge of Computer Science. Your lectures helped me by building my base of CS subjects stronger. Thank you Sir for your support and guidance. You are awesome!!">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Samujjal-das-AIR-302.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="preyashi agarwal: AIR 312"
+      --><div class="testimonial test-mobi" data-author="preyashi agarwal: AIR 312"
                      data-content="I've got AIR-312 and a score of 772, I would like to thank Ravi Sir for your lectures and everything. It really helped me a lot in my preparation. I have focused on the development of concepts and practicing as many questions as possible. The test series from Ravindra sir covers the basics which is the heart of GATE. It helps building up the knowledge from understanding the basics to implementing it to various questions and scenarios. After learning basics I have focused on giving tests assuming its GATE exam and giving the GATE exam considering it another test series. Apart from this stay focused and aim high and always take motivation from your loved ones.This really help to keep a positive attitude.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/preyashi-agarwal-AIR-312.jpg" alt="">
@@ -454,24 +419,21 @@ Thanks a lot sir 🙂">
                         <img src="assets/images/testimonials/2017-toppers/Ravi-singh-312.jpg " alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Viral Shah AIR 326" data-content="I started seriously preparing after mid October for Gate and sir's videos helped me to achieve my dream within a short span of time. I secured AIR-326 in GATE-2017. Ravi sir is not only just a great teacher but also a great motivator and guide. He makes things very easy and also taught about how to look at different approaches of the questions and how to tackle pressure of the examination. This may seem like exaggeration but
+      --><div class="testimonial test-mobi" data-author="Viral Shah AIR 326" data-content="I started seriously preparing after mid October for Gate and sir's videos helped me to achieve my dream within a short span of time. I secured AIR-326 in GATE-2017. Ravi sir is not only just a great teacher but also a great motivator and guide. He makes things very easy and also taught about how to look at different approaches of the questions and how to tackle pressure of the examination. This may seem like exaggeration but
 
 ‘He is and always will be my best teacher of life.’ ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Viral-Shah-AIR-326.jpg " alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Shashank Shanker khare: AIR 420" data-content="First of all, nothing can be compared to Ravula sir's dedication and approach towards making his students understand even the minute details of the subject that most students fail upon.
+      --><div class="testimonial test-mobi" data-author="Shashank Shanker khare: AIR 420" data-content="First of all, nothing can be compared to Ravula sir's dedication and approach towards making his students understand even the minute details of the subject that most students fail upon.
 
 General videos are also very helpful as they guide us the way through tough topics. A profuse collection of questions is provided in the test series to tackle with all possible questions.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Shashank-Shanker-khare-AIR-420.jpg " alt="">
                     </div>
                 </div><!--
-      -->
-                <div class="testimonial test-mobi" data-author="Ravi singh: AIR 316" data-content="Ravindrababu Ravula Sir is not only just a teacher, he is truly a complete guide for students. While coming to GATE, I had enrolled for his e-classes and test series. All the lectures were very helpful and are enough to get good understanding to crack GATE with good marks. Test series was very well scheduled and if one regularly attempts his test series which had a plenty of questions that are sufficient for practice.
+      --><div class="testimonial test-mobi" data-author="Ravi singh: AIR 316" data-content="Ravindrababu Ravula Sir is not only just a teacher, he is truly a complete guide for students. While coming to GATE, I had enrolled for his e-classes and test series. All the lectures were very helpful and are enough to get good understanding to crack GATE with good marks. Test series was very well scheduled and if one regularly attempts his test series which had a plenty of questions that are sufficient for practice.
 
 Thanks a lot sir 🙂">
                     <div class="testimonial-inner-box">

@@ -4,7 +4,6 @@
     <list default="true" id="55b0e963-d8e0-422c-a66e-6710e289aa97" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete-testi.php" afterPath="$PROJECT_DIR$/delete-testi.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile-testimonials.php" afterPath="$PROJECT_DIR$/mobile-testimonials.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testimonials.php" afterPath="$PROJECT_DIR$/testimonials.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,33 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testimonials.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testimonials.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delete-testi.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/delete-testi.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="e#6#86#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mobile-testimonials.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mobile-testimonials.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile-testimonials.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="473" column="21" lean-forward="false" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
+            <state relative-caret-position="585">
+              <caret line="449" column="9" lean-forward="true" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -314,12 +291,12 @@
       <workItem from="1491028791385" duration="10169000" />
       <workItem from="1491145420042" duration="6793000" />
       <workItem from="1491195077361" duration="17800000" />
-      <workItem from="1491287992237" duration="8159000" />
+      <workItem from="1491287992237" duration="8654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112138000" />
+    <option name="totallyTimeSpent" value="112633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="-11" width="1303" height="780" extended-state="6" />
@@ -693,7 +670,7 @@
         <state relative-caret-position="210">
           <caret line="14" column="93" lean-forward="false" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -722,26 +699,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testimonials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new-test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile-testimonials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="473" column="21" lean-forward="false" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -756,11 +717,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/delete-testi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="17" />
           <folding>
             <element signature="e#6#86#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testimonials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-testimonials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="449" column="9" lean-forward="true" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
