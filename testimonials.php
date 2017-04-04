@@ -411,6 +411,21 @@ Thanks a lot sir 🙂">
                     <img src="assets/images/testimonials/2017-toppers/Shivani-karnewar-AIR-494.jpg" alt="">
                 </div>
             </div><!--
+      --><div class="testimonial" data-author="Monica Joshi." data-content="This is to inform you that I am placed @ Daffodil Software Pvt Ltd, which is a USA based company. In India it has branch in Gurgaon.  I had 3 rounds 1.  Online coding round 2.  Technical Round 3.  HR. It was a tough competition, out of 400 students only 5 were selected and I am one of them. I wrote DBMS as my area of interest and j​u​st repared from ​you​r lectures it was really very helpful.
+
+">
+                <div class="testimonial-inner-box">
+                    <img src="assets/images/testimonials/Monica%20Joshi.jpg" alt="">
+                </div>
+
+            </div><!--
+      --><div class="testimonial" data-author="Tamanna Singla." data-content="I cannot say enough about Ravindra sir , how excellent he is as a teacher and human as a whole. I started taking his online classes in Febraury 2015 and I topped in DBMS and Computer networks in the college just because of those classes. And I have got placed in ‘Deloitte’ , the first company to have come in the campus , again because of him. Now I am looking forward to score a very good rank in GATE. So I would say my career took a significant direction since I started with his classes. I owe him everything "
+            >
+                <div class="testimonial-inner-box">
+                    <img src="assets/images/testimonials/Tamanna%20Singla.jpg" alt="">
+                </div>
+
+            </div><!--
       --><!--
       --><!--
       -->
@@ -809,21 +824,8 @@ Thanks a lot sir 🙂">
                 </div>
 
             </div><!--
-      --><div class="testimonial" data-author="Monica Joshi." data-content="This is to inform you that I am placed @ Daffodil Software Pvt Ltd, which is a USA based company. In India it has branch in Gurgaon.  I had 3 rounds 1.  Online coding round 2.  Technical Round 3.  HR. It was a tough competition, out of 400 students only 5 were selected and I am one of them. I wrote DBMS as my area of interest and j​u​st repared from ​you​r lectures it was really very helpful.
-
-">
-                <div class="testimonial-inner-box">
-                    <img src="assets/images/testimonials/Monica%20Joshi.jpg" alt="">
-                </div>
-
-            </div><!--
-      --><div class="testimonial" data-author="Tamanna Singla." data-content="I cannot say enough about Ravindra sir , how excellent he is as a teacher and human as a whole. I started taking his online classes in Febraury 2015 and I topped in DBMS and Computer networks in the college just because of those classes. And I have got placed in ‘Deloitte’ , the first company to have come in the campus , again because of him. Now I am looking forward to score a very good rank in GATE. So I would say my career took a significant direction since I started with his classes. I owe him everything "
->
-                <div class="testimonial-inner-box">
-                    <img src="assets/images/testimonials/Tamanna%20Singla.jpg" alt="">
-                </div>
-
-            </div><!--
+      --><!--
+      --><!--
       -->
 
 
