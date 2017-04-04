@@ -838,13 +838,6 @@ Thanks a lot sir 🙂">
 
 
 </section>
-<script>
-    $("#air9").click(function() {
-        $('html, body').animate({
-            scrollTop: $("#gate-rank").offset().top
-        }, 2000);
-    });
-</script>
 
 
 
