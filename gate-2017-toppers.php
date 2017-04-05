@@ -1110,6 +1110,23 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
+                <h2>Angelic Goyal : AIR-473</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Angelic-Goyal-(-AIR-473).jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>My rank in Gate examination is AIR 473, all Thanks to Ravindra Sir. It is said that for succeeding in such exams, include 30% of your teacher's dedication and 70% of yours, then I would say that Sir gave his 100% out of that 30% and I gave only 20% of my hard work as I never took Gate so seriously. I was one of his YouTube fan for his teaching skills, the way he gave an in depth knowledge of the CS topics starting from basics, and then I enrolled for full course out of which I watched few subject's videos. Even without completing the syllabus or revision I got a decent rank, the whole credit goes to Sir who has the capability of planting the concepts in your brain for long time through his teaching. I also practiced few tests just days before the Gate exam and in my opinion the test series is also perfect, creating exact environment like actual exam, covering all important and potential topics with proper explanation.</p>
+                        <p>I can't thank you enough Sir for keeping this journey of Gate preparation interesting for us through your academic as well as motivational lectures.
+
+
+                    </p>
+
+                </div>
+            </div>
+            <div class="row" id="air255">
                 <h2>Shivani karnewar: AIR 494</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
@@ -1126,6 +1143,22 @@ include "header.php";
                         the test series kept pushing my boundary each and every time. I am glad that I got a chance to
                         learn from you. I will always be thankful to you for being an excellent teacher and a great
                         motivational speaker.
+
+
+                    </p>
+
+                </div>
+            </div>
+            <div class="row" id="air255">
+                <h2>Abhishek Dhiman: AIR 510</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Abhishek-dhiman-AIR-510.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>The course provided by Ravula sir was very very helpful for my gate preparation. Teaching methods and video technology used is just awesome. Also there is this test series which was given free of cost to us but was worth many Rupees. All I can say is it was one of my best decisions in my life that I had purchased this course.
 
 
                     </p>
@@ -1184,6 +1217,24 @@ include "header.php";
                     <p>Rabindrababu Ravula's lectures and videos are not only detailed but also superfluous, this man is
                         the epitome of a teacher, and a teacher is the epitome of knowledge. It is more than enough to
                         tediously go through all his videos to get a satisfactory rank in GATE examination.
+
+                    </p>
+
+                </div>
+            </div>
+            <div class="row" id="air255">
+                <h2>Nirav Bhavsar : AIR-660</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Nirav-bhavsar--660.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>I completely devote my success to Ravindrababu Ravula. It all started when I first watched his “What to do after B.Tech” video on YouTube. I was working in Infosys & every single word he said about service based company were 100% true and I was also feeling the same working there. So, even though I did my B.E in Electronics & Communication, it inspired me to give GATE in Computer Science and follow my interest & dream to do Master’s in IISc/IIT. He teaches every single subject from scratch so that even B.E EC student can easily understand. His way of teaching is really good & you will never feel disinterested. He first explains concepts and after that he solves lot of examples on that topic, So I never had any doubts on any topic. Only thing I can say is the amount of knowledge I gained from watching his videos is far more than the knowledge i gained from my school to college days combined. I secured AIR 660 but I feel I could have done better. I could not give my 100% in those 3 hrs and made some silly mistakes in easiest questions. But I will give GATE again next year & pursue my dream.</p>
+
+                        <p>Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.
+
 
                     </p>
 

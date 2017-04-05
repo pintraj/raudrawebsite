@@ -107,10 +107,10 @@ session_start();
                             </ul>
                         </li>
 
-                        <li class="hidden-sm hidden-xs"><a href="testimonial.php" class="main-menu">Testimonials</a></li>
+                        <li ><a href="testimonial.php" class="main-menu">Testimonials</a></li>
                         <li ><a href="register.php" class="main-menu">Register</a></li>
                         <li ><a href="feedback.php" class="main-menu">Career Guidance</a></li>
-                        <li ><a href="faq.php" class="main-menu">FAQ</a></li>
+                        <li class="hidden-sm hidden-xs"><a href="faq.php" class="main-menu">FAQ</a></li>
                         <li ><a href="about.php" class="main-menu">About</a></li>
                    <!--     <li ><a href="contact.php" class="main-menu">Contact us</a></li>-->
                     </ul>
