@@ -58,14 +58,10 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p> A few months ago while searching for Gate I stumbled upon Ravindra Sir’s demo lectures on
-                        YouTube. I watched a couple of his Networking lectures and was awed by the way he had made
-                        everything seem so simple and interesting. At that very moment I decided to opt for his full
-                        course. His knowledge, dedication and hard work reflect in his videos as they are really good in
-                        content. They help you prepare not only for GATE but also in general, develop an interest in the
-                        field of Computer Science. </p>
+                    <p>
+                        A few months ago while searching for Gate I stumbled upon Ravindra Sir’s demo lectures on YouTube. I watched a couple of his Networking lectures and was awed by the way he had made everything seem so simple and interesting. At that very moment I decided to opt for his full course. His knowledge, dedication and hard work reflect in his videos as they are really good in content. They help you prepare not only for GATE but also in general, develop an interest in the field of Computer Science. </p>
 
-                    <p>Thank you so much Sir. You are a motivation for millions!</p>
+                        <p>Thank you so much Sir. You are a motivation for millions!</p>
 
                 </div>
             </div>
@@ -113,13 +109,7 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>Ravindra Sir is an extra ordinary teacher with gifted talents and an amazing public speaker. I
-                        decided to prepare for GATE by watching his inspirational videos. I watched his free videos of
-                        all subjects on YouTube. These videos are enough for creating interest in the subjects. Moreover
-                        I also joined Ravindra Sir's test series, which contains many good questions with solution
-                        especially for computer networks and theory of computation. I learnt many concepts from test
-                        series alone. I would like to suggest any future aspirant to join Ravindra Sir's coaching and I
-                        am sure he will make you perform your best.
+                    <p>Ravindra Sir is an extra ordinary teacher with gifted talents and an amazing public speaker. I decided to prepare for GATE by watching his inspirational videos. I watched his free videos of all subjects on YouTube. These videos are enough for creating interest in the subjects. Moreover I also joined Ravindra Sir's test series, which contains many good questions with solution especially for computer networks and theory of computation. I learnt many concepts from test series alone. I would like to suggest any future aspirant to join Ravindra Sir's coaching and I am sure he will make you perform your best.
 
                     </p>
 
@@ -155,17 +145,9 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is
-                        what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will
-                        open different wonderful opportunities and that is how and why I wanted to give GATE.</p>
-                    <p>Then I came across Ravi Sir's lectures in YouTube and after watching the first couple of lectures
-                        I got to know that this is what I want to study and from whom I want to study from. The
-                        confidence that Ravi sir instills in people with even the lowest self esteem is what makes him a
-                        great guru.</p>
-                    <p>He lays a path for people who like to work hard and achieve things in life with his awesome
-                        lectures and motivational videos. To achieve something great you need hardwork and right path.
-                        Hard work is something that depends on your motivation but Ravi sir lectures will provide you a
-                        right path.</p>
+                    <p>I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will open different wonderful opportunities and that is how and why I wanted to give GATE.</p>
+                    <p>Then I came across Ravi Sir's lectures in YouTube and after watching the first couple of lectures I got to know that this is what I want to study and from whom I want to study from. The confidence that Ravi sir instills in people with even the lowest self esteem is what makes him a great guru.</p>
+                        <p>He lays a path for people who like to work hard and achieve things in life with his awesome lectures and motivational videos. To achieve something great you need hardwork and right path. Hard work is something that depends on your motivation but Ravi sir lectures will provide you a right path.</p>
 
                 </div>
             </div>
@@ -178,11 +160,8 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>I would like to thank Ravindrababu Ravula Sir for my success. I watched his video lectures which
-                        helped me understand the concepts in depth. Some of his videos were truly inspiring as well. I
-                        had taken the test series which contained questions right from basic to advanced level that not
-                        only helped me analyze and learn from my mistakes but also improved my time management skills.
-                        Thanks a lot Sir!
+                    <p>I would like to thank Ravindrababu Ravula Sir for my success. I watched his video lectures which helped me understand the concepts in depth. Some of his videos were truly inspiring as well. I had taken the test series which contained questions right from basic to advanced level that not only helped me analyze and learn from my mistakes but also improved my time management skills. Thanks a lot Sir!
+
 
                     </p>
 
@@ -213,9 +192,8 @@ include "header.php";
 
                     <p>Hello all, </p>
 
-                    <p>I am Amit Patil, from Mumbai. I studied all the subjects just from Ravindrababu Sir's video
-                        lectures, without using any standard reference books. Only his videos, practice questions and
-                        GATExcel Test Series are self-sufficient to get a good rank in GATE.   
+                        <p>I am Amit Patil, from Mumbai. I studied all the subjects just from Ravindrababu Sir's video lectures, without using any standard reference books. Only his videos, practice questions and GATExcel Test Series are self-sufficient to get a good rank in GATE.  
+
                     </p>
 
                 </div>
@@ -254,10 +232,9 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>All I have achieved today, Ravindra Babu sir has a big contribution in it. Tutorials of Ravindra
-                        Babu sir were excellent. It helped me understand the concepts clearly and easily. The way he
-                        teaches is fantastic.  The Test series was challenging and helped a lot in preparation. Thank
-                        you Sir for guiding me.
+                    <p>All I have achieved today, Ravindra Babu sir has a big contribution in it. Tutorials of Ravindra Babu sir were excellent. It helped me understand the concepts clearly and easily. The way he teaches is fantastic.  The Test series was challenging and helped a lot in preparation. Thank you Sir for guiding me.
+
+
                     </p>
 
                 </div>
@@ -352,7 +329,6 @@ include "header.php";
                     <li>The course fee was reasonable as compared to other institutes.</li>
 
 
-                    I always waited for the day to meet you and finally I am getting the opportunity
 
 
                     </p>
@@ -368,11 +344,9 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p> Ravindra sir has been an exemplary and visionary mentor, whom you would rarely come across. Sir,
-                        your encouragement and advice has led me to places I never thought I would go.</p>
+                    <p>Ravindra sir has been an exemplary and visionary mentor, whom you would rarely come across. Sir, your encouragement and advice has led me to places I never thought I would go.</p>
 
-                    <p>The knowledge you have imparted to me will always remain as a great asset throughout my career.
-                        My success today is due to your support and mentorship.
+                        <p>The knowledge you have imparted to me will always remain as a great asset throughout my career. My success today is due to your support and mentorship.
 
 
                     </p>
@@ -387,26 +361,15 @@ include "header.php";
                     </div>
                 </div>
                 <div class="col-md-10">
-                    <p> I owe Ravindrababu Ravula sir for my success in GATE 2017. Actually I never really studied very
-                        seriously for GATE till my 7th semester, just that I prepared all the concepts from University
-                        exam and campus point of view.</p>
+                    <p>   I owe Ravindrababu Ravula sir for my success in GATE 2017. Actually I never really studied very seriously for GATE till my 7th semester, just that I prepared all the concepts from University exam and campus point of view.</p>
 
-                    <p>As I was already a fan of Ravindrababu Ravula sir by watching his YouTube videos, I decided to go
-                        for his GATE 2017 full course.</p>
+                    <p>As I was already a fan of Ravindrababu Ravula sir by watching his YouTube videos, I decided to go for his GATE 2017 full course.</p>
 
-                    <p>This course helped me polish my knowledge from GATE point of view in some campus subjects like
-                        DSA, DBMS, etc. While it helped build up even the basics for other subjects which I hadn't even
-                        touched like CO, CD, etc. Especially the CN course I felt was unparalleled as sir has worked in
-                        Cisco and refers to latest RFC developments.</p>
+                    <p>This course helped me polish my knowledge from GATE point of view in some campus subjects like DSA, DBMS, etc. While it helped build up even the basics for other subjects which I hadn't even touched like CO, CD, etc. Especially the CN course I felt was unparalleled as sir has worked in Cisco and refers to latest RFC developments.</p>
 
-                    <p>Apart from the excellent technical course content, I also liked the way he took up aptitude, one
-                        thing I like about sir is that he never tell us to mug up something and explains the concepts
-                        from the basic level.</p>
+                    <p>Apart from the excellent technical course content, I also liked the way he took up aptitude, one thing I like about sir is that he never tell us to mug up something and explains the concepts from the basic level.</p>
 
-                    <p></p>Moreover, his exam tips and motivational videos were the icing on the cake, they made me
-                    believe that I can achieve my dreams, not just in GATE, but in life, and while watching the videos I
-                    felt that he genuinely cared about his students. I felt like I had found a lifelong guru and friend
-                    in sir.
+                        <p>Moreover, his exam tips and motivational videos were the icing on the cake, they made me believe that I can achieve my dreams, not just in GATE, but in life, and while watching the videos I felt that he genuinely cared about his students. I felt like I had found a lifelong guru and friend in sir.
 
 
                     </p>
@@ -444,17 +407,10 @@ include "header.php";
                 <div class="col-md-10">
 
                     <p>
-
-                        I came to know about Ravi Sir's lectures from a friend of mine who was preparing for GATE and
-                        this is how my journey towards cracking the exam started. He teaches with great passion from the
-                        very basic concepts of the subjects that even a B.Tech Electrical student like me can now say
-                        that I know CS much better than I ever knew Electrical.</p>
-                    <p>His subject lectures cover each every minute concept that could be asked in the exam. His test
-                        series are unique and cover every exceptional detail possible in the exam.</p>
-                    <p>His motivational videos that were released periodically few days before exams helped me a lot
-                        because they are exactly what a student wants at that point of time.</p>
-                    <p>So I had a great learning experience throughout the preparation time.
-
+                        I came to know about Ravi Sir's lectures from a friend of mine who was preparing for GATE and this is how my journey towards cracking the exam started. He teaches with great passion from the very basic concepts of the subjects that even a B.Tech Electrical student like me can now say that I know CS much better than I ever knew Electrical.
+                        His subject lectures cover each every minute concept that could be asked in the exam. His test series are unique and cover every exceptional detail possible in the exam.</p>
+                    <p>His motivational videos that were released periodically few days before exams helped me a lot because they are exactly what a student wants at that point of time.</p>
+                        <p>So I had a great learning experience throughout the preparation time.
 
                     </p>
 
@@ -473,9 +429,8 @@ include "header.php";
 
                         I want to thank Ravi sir and his whole team for such wonderful classes.</p>
                     <p>A big part of my success is Ravi sir’s lectures.</p>
-                    <p>All the lectures were somehow clearing all my doubts and it made my basics strong. Apart from
-                        concepts, exam based approach to solve every question was very helpful.
-                    </p>
+                    <p>All the lectures were somehow clearing all my doubts and it made my basics strong. Apart from concepts, exam based approach to solve every question was very helpful.</p>
+
 
                 </div>
             </div>
@@ -559,20 +514,13 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>Hello, this is Nagesh
-                        I got AIR 119. The journey of gate started when I was in my 5th semester. I started searching
-                        what to do and while searching landed upon Ravindrababu Ravula’s video lecture. That video
-                        inspired me a lot and that was one of the factors for me to do GATE.</p>
-                    <p>This is my second attempt. I got 1025 rank in 2016(first attempt).But I was not satisfied. I
-                        wanted to get into top IITs. So I decided to drop an year and take up the exam next year. I had
-                        watched Ravi sir’s free video lectures before. I felt they were good, so I registered for his
-                        GATE course this time and finally got a rank of 119.</p>
-                    <p>Now when I look back I can tell you that it was the best decision that I made. I can proudly tell
-                        everyone that nobody has covered all the topics to the extent to which Ravindrababu sir has
-                        done. The explanations are also very good and I am proud to call myself a student of
-                        Ravindrababu sir. Thank you.
+                    <p>Hello, this is Nagesh</p>
+                    <p>I got AIR 119. The journey of gate started when I was in my 5th semester. I started searching what to do and while searching landed upon Ravindrababu Ravula’s video lecture. That video inspired me a lot and that was one of the factors for me to do GATE.</p>
+                    <p>This is my second attempt. I got 1025 rank in 2016(first attempt).But I was not satisfied. I wanted to get into top IITs. So I decided to drop an year and take up the exam next year. I had watched Ravi sir’s free video lectures before. I felt they were good, so I registered for his GATE course this time and finally got a rank of 119.</p>
+                    <p>Now when I look back I can tell you that it was the best decision that I made. I can proudly tell everyone that nobody has covered all the topics to the extent to which Ravindrababu sir has done. The explanations are also very good and I am proud to call myself a student of Ravindrababu sir. Thank you.</p>
 
-                    </p>
+
+
 
                 </div>
             </div>
@@ -594,8 +542,8 @@ include "header.php";
                         me blindly register for this GATE course ( It doesn't matter whether you want to appear for GATE
                         or not ) , you will not regret your decision. The best thing of this course is you will get very
                         good understanding of basic core subjects of computer science only in 8-9 months of preparation
-                        which many students even don't know after completing their B.Tech.</p>
-                    AND
+                        which many students even don't know after completing their B.Tech. <br>
+                    AND</p>
                     <p>For GATE CS his videos sufficient, you don't need to go to any classes. Just follow his
                         instructions and believe me you will get AIR 1 , I registered for his GATE course in 6th
                         semester and after preparing for 9 months I got AIR 132. I didn't get AIR 1 because I didn't
@@ -618,23 +566,10 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>Ravi Sir’s tutorial videos are excellent in terms of depth of information/concept it contains, as
-                        well as the way you have prepared them. I mean at several occasions in the duration of full
-                        course you could have skipped some concepts, but you chose to repeat the same concept again and
-                        again while solving every related question so that every student can understand the core
-                        concepts. I must say truly, this course is self-sufficient for gate aspirants. You have covered
-                        CN at extra depth. I wish I could keep them with me for my future reference. I just enjoyed
-                        watching your lectures, at times I could spend the whole day learning from your lectures. You
-                        have done a tremendous job in preparing those lectures with utmost care.</p>
-                    <p>Apart from Gate Lectures, your motivational talks also helped me a lot. As far as I have seen you
-                        in the lectures, you are a very nice, humble, down to earth person, with extraordinary
-                        determination (I am saying this because in one of the videos I got to know about your childhood
-                        struggles, true example of hard work always pay off).</p>
+                    <p>Ravi Sir’s tutorial videos are excellent in terms of depth of information/concept it contains, as well as the way you have prepared them. I mean at several occasions in the duration of full course you could have skipped some concepts, but you chose to repeat the same concept again and again while solving every related question so that every student can understand the core concepts. I must say truly, this course is self-sufficient for gate aspirants. You have covered CN at extra depth. I wish I could keep them with me for my future reference. I just enjoyed watching your lectures, at times I could spend the whole day learning from your lectures. You have done a tremendous job in preparing those lectures with utmost care.</p>
+                    <p>Apart from Gate Lectures, your motivational talks also helped me a lot. As far as I have seen you in the lectures, you are a very nice, humble, down to earth person, with extraordinary determination (I am saying this because in one of the videos I got to know about your childhood struggles, true example of hard work always pay off).</p>
 
                     <p>Thanks a lot Sir.</p>
-
-
-                    </p>
 
                 </div>
             </div>
@@ -647,11 +582,7 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>Sir’s lectures were crucial in helping me prepare for GATE 2017. It not only allowed me to make
-                        my concepts crystal clear but also provided me with nifty tricks that bumped my overall score by
-                        couple of marks easily. The video explanation for the previous year questions were super
-                        helpful. His way of teaching is awesome. And especially the way he taught Networking was too
-                        good. I can't thank him enough for my success.
+                    <p>Sir’s lectures were crucial in helping me prepare for GATE 2017. It not only allowed me to make my concepts crystal clear but also provided me with nifty tricks that bumped my overall score by couple of marks easily. The video explanation for the previous year questions were super helpful. His way of teaching is awesome. And especially the way he taught Networking was too good. I can't thank him enough for my success.
 
                     </p>
 
@@ -666,15 +597,10 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p> I'm very thankful to Ravindra Sir for providing such a quality lectures. He is the real
-                        motivating force that helped me in cracking GATE.</p>
-                    <p>To be honest I started preparing for GATE in October and it was his teaching which made it
-                        possible for me to get this rank in just 90 days. The best thing about his lectures is that I
-                        never found a necessity to go through standard books as his lectures have already done that for
-                        me. One last thing I would like to add is sir’s motivation is at par. It was only you who
-                        motivated me to go for GATE and kept me motivated throughout my preparations.</p>
-                    <p>Thank you for everything Sir!
-                    </p>
+                    <p> I'm very thankful to Ravindra Sir for providing such a quality lectures. He is the real motivating force that helped me in cracking GATE.</p>
+                        <p>To be honest I started preparing for GATE in October and it was his teaching which made it possible for me to get this rank in just 90 days. The best thing about his lectures is that I never found a necessity to go through standard books as his lectures have already done that for me. One last thing I would like to add is sir’s motivation is at par. It was only you who motivated me to go for GATE and kept me motivated throughout my preparations.
+                            Thank you for everything Sir!</p>
+
 
                 </div>
             </div>
@@ -732,12 +658,8 @@ include "header.php";
                 <div class="col-md-10">
 
 
-                    <p>A big Thanks to you and to your team Sir. As eclasses take very less time to prepare for the
-                        examination and with your awesome classes on Algorithms, DS and CN helped me to reach my goal
-                        very quickly and with accuracy.</p>
-                    <p>Once again thank you very much for your vision of online coaching and wish you all the best to
-                        take the future of youth aspirations forward.
-
+                    <p>A big Thanks to you and to your team Sir. As eclasses take very less time to prepare for the examination and with your awesome classes on Algorithms, DS and CN helped me to reach my goal very quickly and with accuracy.</p>
+                        <p>Once again thank you very much for your vision of online coaching and wish you all the best to take the future of youth aspirations forward.
                     </p>
 
                 </div>
@@ -773,11 +695,8 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>The advantage of Sir’s video lectures is that I can learn at my own pace, and re-watch the
-                        lectures whenever I feel the need to. GATE lectures by Ravindrababu Ravula clearly explain all
-                        concepts required for the GATE, I recommend them over classroom coaching classes.</p>
-                    <p>Ravindra Sir personally is very approachable and helpful.
-
+                    <p>The advantage of Sir’s video lectures is that I can learn at my own pace, and re-watch the lectures whenever I feel the need to. GATE lectures by Ravindrababu Ravula clearly explain all concepts required for the GATE, I recommend them over classroom coaching classes.</p>
+                        <p>Ravindra Sir personally is very approachable and helpful.
                     </p>
 
                 </div>
@@ -791,26 +710,13 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>Ravi sir’s videos are well made. In terms of their pace and content they are the best and
-                        subjects like OS, DBMS, Digital, Calculus, Computer Architecture, Computer Networks are too
-                        good. Since, I did not like all the subjects in the syllabus, your videos were really helpful in
-                        getting over them. Also your videos are useful for anybody to make notes of their own. The
-                        topics in a video are well oriented towards connecting concepts and hence help having a total
-                        idea. He knows the contents of the syllabus very well and always stick to it. But also you make
-                        it a point to always give something extra. And above all, the amount of motivation you flush
-                        through all the student minds is amazing and is much needed. India certainly needs lot more of
-                        your kind.</p>
+                    <p>Ravi sir’s videos are well made. In terms of their pace and content they are the best and subjects like OS, DBMS, Digital, Calculus, Computer Architecture, Computer Networks are too good. Since, I did not like all the subjects in the syllabus, your videos were really helpful in getting over them. Also your videos are useful for anybody to make notes of their own. The topics in a video are well oriented towards connecting concepts and hence help having a total idea. He knows the contents of the syllabus very well and always stick to it. But also you make it a point to always give something extra. And above all, the amount of motivation you flush through all the student minds is amazing and is much needed. India certainly needs lot more of your kind.</p>
 
-                    <p>The topics tests for some subjects are really good (like TOC, Engineering mathematics, Database,
-                        Digital Design), and they did certainly help me in clearing my doubts and concepts. The test
-                        series were useful in knowing various types of questions and managing time.</p>
+                    <p>The topics tests for some subjects are really good (like TOC, Engineering mathematics, Database, Digital Design), and they did certainly help me in clearing my doubts and concepts. The test series were useful in knowing various types of questions and managing time.</p>
 
-                    <p>The videos are really good for self paced learning and they make us feel that GATE is easily
-                        CRACKABLE (they did say the truth!).I would recommend it to anyone anytime. The videos are
-                        concise and to the point.</p>
+                    <p>The videos are really good for self paced learning and they make us feel that GATE is easily CRACKABLE (they did say the truth!).I would recommend it to anyone anytime. The videos are concise and to the point.</p>
 
-                    <p>You have a wonderful purpose which is the pursuit of serving the student with quality education
-                        online. I wish you all the best.
+                        <p>You have a wonderful purpose which is the pursuit of serving the student with quality education online. I wish you all the best.
                     </p>
 
                 </div>
