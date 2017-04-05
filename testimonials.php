@@ -49,7 +49,7 @@ I feel very much lucky that I got chance to learn from you. You are doing a fabu
             Thank you sir!
 ">
                 <div class="testimonial-inner-box">
-                    <img src="assets/images/testimonials/2017-toppers/Sai-Prasad-Koushika-AIR-37.jpg" alt="">
+                    <img src="assets/images/testimonials/2017-toppers/Monish-Keswani-AIR-21.jpg" alt="">
                 </div>
             </div><!--
       --><div class="testimonial" data-author="Tapan Bhardwaj: AIR 22" data-content="I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will open different wonderful opportunities and that is how and why I wanted to give GATE.
@@ -58,14 +58,14 @@ Then I came across Ravi Sir's lectures in YouTube and after watching the first c
 
 He lays a path for people who like to work hard and achieve things in life with his awesome lectures and motivational videos. To achieve something great you need hardwork and right path. Hard work is something that depends on your motivation but Ravi sir lectures will provide you a right path.">
                 <div class="testimonial-inner-box">
-                    <img src="assets/images/testimonials/2017-toppers/Jatin-Mittal-AIR-43.jpg" alt="">
+                    <img src="assets/images/testimonials/2017-toppers/Tapan-Baradwaj-AIR-22.jpg" alt="">
                 </div>
             </div><!--
       --><div class="testimonial" data-author="Sunandini Sanyal: AIR 24
 " data-content="I would like to thank Ravindrababu Ravula Sir for my success. I watched his video lectures which helped me understand the concepts in depth. Some of his videos were truly inspiring as well. I had taken the test series which contained questions right from basic to advanced level that not only helped me analyze and learn from my mistakes but also improved my time management skills. Thanks a lot Sir!
 ">
                 <div class="testimonial-inner-box">
-                    <img src="assets/images/testimonials/2017-toppers/Sudheer-Chandra-M-AIR-60.jpg" alt="">
+                    <img src="assets/images/testimonials/2017-toppers/SUNANDINI%20SANYAL%20(AIR%2024).JPG" alt="">
                 </div>
             </div><!--
       -->
@@ -394,13 +394,7 @@ General videos are also very helpful as they guide us the way through tough topi
                     <img src="assets/images/testimonials/2017-toppers/Shashank-Shanker-khare-AIR-420.jpg " alt="">
                 </div>
             </div><!--
-      --><div class="testimonial" data-author="Ravi singh: AIR 316" data-content="Ravindrababu Ravula Sir is not only just a teacher, he is truly a complete guide for students. While coming to GATE, I had enrolled for his e-classes and test series. All the lectures were very helpful and are enough to get good understanding to crack GATE with good marks. Test series was very well scheduled and if one regularly attempts his test series which had a plenty of questions that are sufficient for practice.
-
-Thanks a lot sir 🙂">
-                <div class="testimonial-inner-box">
-                    <img src="assets/images/testimonials/2017-toppers/Ravi-singh-312.jpg " alt="">
-                </div>
-            </div><!--
+      --><!--
       --><div class="testimonial" data-author="Vineet Puliparambil: AIR 427" data-content="Attending Ravindrababu's lectures felt more like a joyride where learning was fun. The command he had over all the subjects and the ease with which he would teach even the most difficult concepts was amazing which increased my curiosity to learn more about them. His lectures were motivating as well, which helped me especially on days when I was down. I owe my rank to Sir's teaching more than to my own hard work.">
                 <div class="testimonial-inner-box">
                     <img src="assets/images/testimonials/2017-toppers/Vineet-Puliparambil-427.jpg " alt="">
@@ -426,7 +420,14 @@ Thanks a lot sir 🙂">
                 </div>
 
             </div><!--
-      --><!--
+      --><div class="testimonial" data-author="sourav anand." data-content="With all your dedicated efforts ...your knowledge ...​your eclasses ..i just followed it and i am confident enough that i would be in top 50..also sir i got placed in polaris network (research and development),highest on campus placement only because of you...​ Thank you so much sir.​
+
+">
+                <div class="testimonial-inner-box">
+                    <img src="assets/images/testimonials/sourav%20anand.jpg" alt="">
+                </div>
+
+            </div><!--
       --><!--
       -->
 
@@ -816,14 +817,7 @@ Thanks a lot sir 🙂">
                 </div>
 
             </div><!--
-      --><div class="testimonial" data-author="sourav anand." data-content="With all your dedicated efforts ...your knowledge ...​your eclasses ..i just followed it and i am confident enough that i would be in top 50..also sir i got placed in polaris network (research and development),highest on campus placement only because of you...​ Thank you so much sir.​
-
-">
-                <div class="testimonial-inner-box">
-                    <img src="assets/images/testimonials/sourav%20anand.jpg" alt="">
-                </div>
-
-            </div><!--
+      --><!--
       --><!--
       --><!--
       -->
