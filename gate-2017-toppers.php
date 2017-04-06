@@ -9,6 +9,21 @@ include "header.php";
 ?>
     <div class="section section-padding">
         <div class="container">
+            <div class="row" id="air2">
+
+                <h2>Yashi Gupta: AIR-2</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Yashi%20gupta%20AIR%202.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>I am Yashi Gupta. I secured AIR 2 in GATE 2017. I watched sir's videos on Youtube. They have helped me alot to clear some of my concepts. He puts in alot of efforts and explains everything so nicely and easily. Thanks to Ravindra Sir and his team.
+                    </p>`
+
+                </div>
+            </div>
             <div class="row" id="air9">
 
                 <h2>Nihar Ranjan Sahoo : AIR-9</h2>
@@ -988,6 +1003,21 @@ include "header.php";
                         examination. This may seem like exaggeration but</p>
                     <strong>‘He is and always will be my best teacher of life.’ </strong>
 
+
+                    </p>
+
+                </div>
+            </div>
+            <div class="row" id="air255">
+                <h2>Shaik Masthan:AIR-330</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Shaik-Masthan-AIR-330.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>A good teacher can teach the subject clearly but a great teacher can teach the subject clearly as well as he can teach you how to lead the life effectively  Thank you RAVI sir for your amazing inspiration towards to GATE. " ---- 
 
                     </p>
 
