@@ -285,7 +285,7 @@ include "header.php";
 
                 </div>
             </div>
-            <div class="row" id="air60">
+            <div class="row" id="air62">
                 <h2>Avinash Modi AIR 62</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
