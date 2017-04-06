@@ -285,6 +285,23 @@ include "header.php";
 
                 </div>
             </div>
+            <div class="row" id="air60">
+                <h2>Avinash Modi AIR 62</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Avinash-Modi-AIR-62.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>I did my B.Tech from IIT Roorkee in Computer Science. I am currently working in Visa Inc. from last 1.5 years. I always wanted to go for higher studies. There were two options : some university in USA or IIT/IISc. Due to financial restraint, I decided to give a try to GATE. </p>
+                    <p>I started preparing from Ravi Sir's e-classes around Mid October. His e-classes are precise and well groomed for GATE preparation, especially for aspirants who want to secure under 100 rank. </p>
+                        <p>Test series provided by Ravi sir is comprehensive and cover all topics to the required depth. Test series is a must if you dont want to lose those 5-10 marks in "THE" exam day which could cost you severely. 
+
+                    </p>
+
+                </div>
+            </div>
             <div class="row" id="air72">
                 <h2>Rahul sharma: AIR 72</h2>
                 <div class="col-md-2">
