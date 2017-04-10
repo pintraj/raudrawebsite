@@ -9,21 +9,7 @@ include "header.php";
 ?>
     <div class="section section-padding">
         <div class="container">
-            <div class="row" id="air2">
 
-                <h2>Yashi Gupta: AIR-2</h2>
-                <div class="col-md-2">
-                    <div class="topper-image">
-                        <img src="assets/images/testimonials/2017-toppers/Yashi%20gupta%20AIR%202.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-md-10">
-
-                    <p>I am Yashi Gupta. I secured AIR 2 in GATE 2017. I watched sir's videos. They have helped me alot to clear  my concepts. He puts in alot of efforts and explains everything so nicely and easily. Thanks to Ravindra Sir and his team.
-                    </p>`
-
-                </div>
-            </div>
             <div class="row" id="air9">
 
                 <h2>Nihar Ranjan Sahoo : AIR-9</h2>
@@ -98,6 +84,7 @@ include "header.php";
 
                 </div>
             </div>
+
             <div class="row" id="air19">
                 <h2>Anirban Biswas: AIR 19</h2>
                 <div class="col-md-2">
@@ -151,6 +138,7 @@ include "header.php";
 
                 </div>
             </div>
+
             <div class="row" id="air22">
                 <h2>Tapan Bhardwaj: AIR 22</h2>
                 <div class="col-md-2">
@@ -733,6 +721,24 @@ include "header.php";
 
                 </div>
             </div>
+            <div class="row" id="air169">
+                <h2>Akshat Garg AIR 191</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Akshat-Garg-AIR-191.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>Hi, I'm Akshat Garg. A few months ago while searching for Gate I stumbled upon Ravindra Sir’s channel on YouTube. I watched his lectures and was awed by the way he had made everything seem so simple and interesting. As i started preparation late, i wasn't sure that i'd be able to watch all the videos so i only watched Youtube lectures and opted for his test series which was so helpful. Mocks were so much focused on actual gate. His motivational videos also helped me to stay positive throughout my preparation.
+                        I want to thank Ravindra Sir and his team for all their hardwork.</p>
+
+                        <p>Thank You!
+
+                    </p>
+
+                </div>
+            </div>
             <div class="row" id="air200">
                 <h2>Abhishek Uppar: AIR 200</h2>
                 <div class="col-md-2">
@@ -1246,6 +1252,23 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
+                <h2>Shefali Gupta AIR 539</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/shefali-Gupta-AIR-539.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>Sir I would not have been able to fetch this score with a job ,only you made it possible for me thanks alot for making concepts so clear and always motivating.
+
+
+
+                    </p>
+
+                </div>
+            </div>
+            <div class="row" id="air255">
                 <h2>Rajarshi Banerjee AIR - 579</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
@@ -1282,6 +1305,39 @@ include "header.php";
 
                         <p>Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.
 
+
+                    </p>
+
+                </div>
+            </div>
+            <div class="row" id="air255">
+                <h2>Saurabh-Godse-AIR-746</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Saurabh-Godse-AIR-746.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>I have started preparing for GATE in June 2016. At that time I haven't thought that I'll
+                        get such rank in first attempt only. So during preparation my aim was to just understand
+                        the concepts and study them in depth. Ravindrababu sir taught me all core subjects of
+                        computer science in such great manner that after completing entire syllabus my aim has changed.
+                        I have followed all the tips given by sir and that helped me a lot. Sir is just 'Legend of CSE'
+                        for me. He helped me to become a QUALITY Engineer...due to his teaching i had a good command on all
+                        the important subjects of CSE.</p>
+
+                        <p>The test series of all subjects was just excellent especially of Computer Networks.
+                        I had given all the topic tests as well as all subject tests because of which I got used
+                        to how to tackle a new problem ,how to manage time? When to leave a Q? And how you should
+                            attempt paper to score your best in any competitive examination?</p>
+
+                        <p>All subjects of computer science that I couldn't learn in 4 years, became interesting with Ravindra
+                        sir's lectures which gave me a gut feeling to be a CSE student. All the required and important topics
+                        for GATE has thorougly covered by sir at one place which saves a lot of time and makes it very easy
+                            to crack GATE. He is really a great mentor,tutor and obviously a fitness freak.</p>
+
+                        <p>Thanks a lot!!!
 
                     </p>
 

@@ -34,19 +34,7 @@
                     <!--1st row -->
 
                     <!--last change from here-->
-                    <div class="col-md-3">
-                        <div class="topper-image">
-                            <a href="gate-2017-toppers.php#air2">
-                                <img src="assets/images/testimonials/2017-toppers/Yashi%20gupta%20AIR%202.jpg"
-                                     alt="gate-topper">
-                        </div>
-                        <div class="topper-text">
 
-                            <h2>AIR-2</h2>
-                            <h3> Yashi Gupta</h3>
-                            </a>
-                        </div>
-                    </div>
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air9">
@@ -90,13 +78,6 @@
 
                         </div>
                     </div>
-
-
-
-                </div>
-                <!--2nd row starts Here-->
-
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air15">
@@ -111,6 +92,14 @@
 
                         </div>
                     </div>
+
+
+
+                </div>
+                <!--2nd row starts Here-->
+
+                <div class="item">
+
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air19">
@@ -155,11 +144,6 @@
 
                         </div>
                     </div>
-
-
-
-                </div>
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air22">
@@ -174,6 +158,12 @@
 
                         </div>
                     </div>
+
+
+
+                </div>
+                <div class="item">
+
 
                     <div class="col-md-3">
                         <div class="topper-image">
@@ -221,11 +211,6 @@
 
                         </div>
                     </div>
-
-
-
-                </div>
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air37">
@@ -241,6 +226,12 @@
 
                         </div>
                     </div>
+
+
+
+                </div>
+                <div class="item">
+
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air39">
@@ -287,10 +278,6 @@
 
                         </div>
                     </div>
-
-
-                </div>
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air62">
@@ -306,6 +293,11 @@
 
                         </div>
                     </div>
+
+
+                </div>
+                <div class="item">
+
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air72">
@@ -351,12 +343,6 @@
 
                         </div>
                     </div>
-                    <div class="item">
-
-
-                    </div>
-                </div>
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air79">
@@ -372,6 +358,13 @@
 
                         </div>
                     </div>
+                    <div class="item">
+
+
+                    </div>
+                </div>
+                <div class="item">
+
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air90">
@@ -417,12 +410,6 @@
 
                         </div>
                     </div>
-
-
-
-
-                </div>
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air117">
@@ -438,6 +425,13 @@
 
                         </div>
                     </div>
+
+
+
+
+                </div>
+                <div class="item">
+
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air119">
@@ -484,12 +478,6 @@
 
                         </div>
                     </div>
-
-
-
-
-                </div>
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air136">
@@ -505,6 +493,13 @@
 
                         </div>
                     </div>
+
+
+
+
+                </div>
+                <div class="item">
+
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air137">
@@ -552,13 +547,6 @@
 
                         </div>
                     </div>
-
-
-
-
-
-                </div>
-                <div class="item">
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air160">
@@ -574,6 +562,14 @@
 
                         </div>
                     </div>
+
+
+
+
+
+                </div>
+                <div class="item">
+
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="gate-2017-toppers.php#air164">
@@ -615,6 +611,21 @@
 
                             <h2>AIR-169</h2>
                             <h3>Siddhant Bhatt</h3>
+                            </a>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="topper-image">
+                            <a href="gate-2017-toppers.php#air191">
+                                <img src="assets/images/testimonials/2017-toppers/Akshat-Garg-AIR-191.jpg"
+                                     alt="gate-topper">
+                        </div>
+                        <div class="topper-text">
+
+
+                            <h2>AIR-191</h2>
+                            <h3>Akshat Garg</h3>
                             </a>
 
                         </div>

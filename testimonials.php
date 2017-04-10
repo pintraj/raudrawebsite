@@ -13,13 +13,7 @@
 
         <div class="testminioals-group">
             <div class="testimonial-1">
-                <div class="testimonial" data-author="Yashi Gupta: AIR-2" data-content="I am Yashi Gupta. I secured AIR 2 in GATE 2017. I watched sir's videos. They have helped me alot to clear my concepts. He puts in alot of efforts and explains everything so nicely and easily. Thanks to Ravindra Sir and his team.
-">
-                    <div class="testimonial-inner-box">
-                        <img src="assets/images/testimonials/2017-toppers/Yashi%20gupta%20AIR%202.jpg" alt="">
-                    </div>
-                </div><!--
-      --><div class="testimonial" data-author="Nihar Ranjan Sahoo: AIR 9" data-content="I am Nihar Ranjan Sahoo from IGIT,Sarang,Odisha. I got AIR-9 in GATE-2017. Your lecture videos helped me a lot to clear all my concepts and doubts.
+                <div class="testimonial" data-author="Nihar Ranjan Sahoo: AIR 9" data-content="I am Nihar Ranjan Sahoo from IGIT,Sarang,Odisha. I got AIR-9 in GATE-2017. Your lecture videos helped me a lot to clear all my concepts and doubts.
 Sir, I really appreciate your effort. Your motivativational videos helped me to stay positive throughout my preparation. You are one of the finest teachers I have ever seen.
 I feel very much lucky that I got chance to learn from you. You are doing a fabulous job sir. Keep going. Looking forward to meet you.
 ">
@@ -68,11 +62,7 @@ Thank you so much Sir. You are a motivation for millions!
                         <img src="assets/images/testimonials/2017-toppers/Monish-Keswani-AIR-21.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Tapan Bhardwaj: AIR 22" data-content="I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will open different wonderful opportunities and that is how and why I wanted to give GATE.
+      --><div class="testimonial" data-author="Tapan Bhardwaj: AIR 22" data-content="I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will open different wonderful opportunities and that is how and why I wanted to give GATE.
 
 Then I came across Ravi Sir's lectures in YouTube and after watching the first couple of lectures I got to know that this is what I want to study and from whom I want to study from. The confidence that Ravi sir instills in people with even the lowest self esteem is what makes him a great guru.
 
@@ -81,7 +71,11 @@ He lays a path for people who like to work hard and achieve things in life with 
                         <img src="assets/images/testimonials/2017-toppers/Tapan-Baradwaj-AIR-22.jpg" alt="">
                     </div>
                 </div><!--
-      --><div class="testimonial" data-author="Sunandini Sanyal: AIR 24
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="Sunandini Sanyal: AIR 24
 " data-content="I would like to thank Ravindrababu Ravula Sir for my success. I watched his video lectures which helped me understand the concepts in depth. Some of his videos were truly inspiring as well. I had taken the test series which contained questions right from basic to advanced level that not only helped me analyze and learn from my mistakes but also improved my time management skills. Thanks a lot Sir!
 ">
                     <div class="testimonial-inner-box">
@@ -128,13 +122,7 @@ Thanks a lot sir, for making my dream come true.">
                         <img src="assets/images/testimonials/2017-toppers/Sudheer-Chandra-M-AIR-60.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-        </div>
-        <!-- 2nd row -->
-        <div class="testminioals-group">
-            <div class="testimonial-1">
-                <div class="testimonial" data-author="Avinash Modi AIR 62" data-content="I did my B.Tech from IIT Roorkee in Computer Science. I am currently working in Visa Inc. from last 1.5 years. I always wanted to go for higher studies. There were two options : some university in USA or IIT/IISc. Due to financial restraint, I decided to give a try to GATE.
+      --><div class="testimonial" data-author="Avinash Modi AIR 62" data-content="I did my B.Tech from IIT Roorkee in Computer Science. I am currently working in Visa Inc. from last 1.5 years. I always wanted to go for higher studies. There were two options : some university in USA or IIT/IISc. Due to financial restraint, I decided to give a try to GATE.
 
 I started preparing from Ravi Sir's e-classes around Mid October. His e-classes are precise and well groomed for GATE preparation, especially for aspirants who want to secure under 100 rank.
 
@@ -143,7 +131,13 @@ Test series provided by Ravi sir is comprehensive and cover all topics to the re
                         <img src="assets/images/testimonials/2017-toppers/Avinash-Modi-AIR-62.jpg" alt="">
                     </div>
                 </div><!--
-      --><div class="testimonial" data-author="Rahul sharma: AIR 72" data-content="
+      -->
+            </div>
+        </div>
+        <!-- 2nd row -->
+        <div class="testminioals-group">
+            <div class="testimonial-1">
+                <div class="testimonial" data-author="Rahul sharma: AIR 72" data-content="
                     I would like to start with a big THANKS!!!! Although we were not connected physically but I always felt sir’s presence while watching the videos. I decided to prepare for GATE examination after the end of my 2nd year (B.Tech). I saw his general videos on YouTube and that inspired me to go for higher studies. I saw his demo videos of Algorithms and Computer Networks and I was satisfied with the way of teaching. Few of my college seniors too had taken up your courses so they ensured me about the quality of his teaching.
 
                     I started completing all the subjects one by one and after completing a subject I practiced all the previous year GATE questions related to that subject. Once I covered the entire syllabus (85-90 percent) I started revising the subjects and towards the last months I appeared for test series that helped me to figure out my preparation.
@@ -234,11 +228,7 @@ Your proud student!
                         <img src="assets/images/testimonials/2017-toppers/Sruthi-Goyal-AIR-109.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Shashank Pal: AIR 117" data-content="Hi friends.... I am Shashank Pal, I got Gate AIR 117 and a huge credit for this goes to Ravindra Sir. I did my B.Tech in Civil Engineering and had zero knowledge in CS but Ravindra Sir's lectures made it very easy and interesting for me.
+      --><div class="testimonial" data-author="Shashank Pal: AIR 117" data-content="Hi friends.... I am Shashank Pal, I got Gate AIR 117 and a huge credit for this goes to Ravindra Sir. I did my B.Tech in Civil Engineering and had zero knowledge in CS but Ravindra Sir's lectures made it very easy and interesting for me.
 
 His lectures are self sufficient for gate. He has taught each and every topic in such an easy manner that anyone can understand.
 
@@ -253,7 +243,11 @@ He even suggested some books like 'The magic of thinking big', 'Good to great' w
                         <img src="assets/images/testimonials/2017-toppers/Shashank-Pal-AIR-117.jpg" alt="">
                     </div>
                 </div><!--
-      --><div class="testimonial" data-author="Murali Krishna: AIR 119" data-content="My journey towards getting into one of the top IITs wouldn't be possible without your guidance sir. I had a strong motivation in life and it was your guidance that channelized it in right direction. Your e-lectures are precise for gate, complete with respect to syllabus and deep enough to thoroughly understand the concepts. I enjoyed learning. Thanks for all your effort to make concepts understandable even for below average students. I am sure your effort will bring light in millions of students life. It's an honor to have you sir ...Thank you
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="Murali Krishna: AIR 119" data-content="My journey towards getting into one of the top IITs wouldn't be possible without your guidance sir. I had a strong motivation in life and it was your guidance that channelized it in right direction. Your e-lectures are precise for gate, complete with respect to syllabus and deep enough to thoroughly understand the concepts. I enjoyed learning. Thanks for all your effort to make concepts understandable even for below average students. I am sure your effort will bring light in millions of students life. It's an honor to have you sir ...Thank you
 
 ">
                     <div class="testimonial-inner-box">
@@ -315,13 +309,7 @@ Thank you for everything Sir!
                         <img src="assets/images/testimonials/2017-toppers/Kalpesh-Dusane-air-150.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-        </div>
-        <!-- 3rd row -->
-        <div class="testminioals-group">
-            <div class="testimonial-1">
-                <div class="testimonial" data-author="Asis kumar panda: AIR 160" data-content="When I saw Ravindra Sir's videos for the first time, I felt some X-factor in him which differentiates him from others. His way of looking at the problems, analyzing them and solving them helped me in my GATE preparation.
+      --><div class="testimonial" data-author="Asis kumar panda: AIR 160" data-content="When I saw Ravindra Sir's videos for the first time, I felt some X-factor in him which differentiates him from others. His way of looking at the problems, analyzing them and solving them helped me in my GATE preparation.
 
 Apart from studies, he also teaches lessons for life. In short, he is a complete personality. The best thing about Ravindra Sir's lectures is that he gives real time examples and co-relates the concepts with them which makes it easy for a student to understand.
 
@@ -331,7 +319,13 @@ Ravindra Sir makes superstars from normal talent and that is his specialty. More
                         <img src="assets/images/testimonials/2017-toppers/Asis-kumar-panda--160.jpg" alt="">
                     </div>
                 </div><!--
-      --><div class="testimonial" data-author="Rajesh Koritela: AIR 164" data-content="A big Thanks to you and to your team Sir. As eclasses take very less time to prepare for the examination and with your awesome classes on Algorithms, DS and CN helped me to reach my goal very quickly and with accuracy.
+      -->
+            </div>
+        </div>
+        <!-- 3rd row -->
+        <div class="testminioals-group">
+            <div class="testimonial-1">
+                <div class="testimonial" data-author="Rajesh Koritela: AIR 164" data-content="A big Thanks to you and to your team Sir. As eclasses take very less time to prepare for the examination and with your awesome classes on Algorithms, DS and CN helped me to reach my goal very quickly and with accuracy.
 
 Once again thank you very much for your vision of online coaching and wish you all the best to take the future of youth aspirations forward.
 ">
@@ -388,17 +382,17 @@ Aman Omer.">
                         <img src="assets/images/testimonials/2017-toppers/Aman-Omer-AIR-245.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Abhinav Arora: AIR 255"
-                     data-content="I would like to share my experience with Ravula Sir here. I took Ravula Sir lectures around August when I was still at my first job in a service based company. After studying simultaneously with my Job for around 2 months I decided to give full time preparation for GATE. With just 4 months of preparation from October and following Ravula Sir lectures whole heartedly I was able to crack GATE in my first attempt. He is a great teacher and a perfect motivator. I would highly recommend Ravula Sir lectures to anyone who is serious about cracking GATE.">
+      --><div class="testimonial" data-author="Abhinav Arora: AIR 255"
+              data-content="I would like to share my experience with Ravula Sir here. I took Ravula Sir lectures around August when I was still at my first job in a service based company. After studying simultaneously with my Job for around 2 months I decided to give full time preparation for GATE. With just 4 months of preparation from October and following Ravula Sir lectures whole heartedly I was able to crack GATE in my first attempt. He is a great teacher and a perfect motivator. I would highly recommend Ravula Sir lectures to anyone who is serious about cracking GATE.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Abhinav-Arora-AIR-255.jpg" alt="">
                     </div>
                 </div><!--
-      --><div class="testimonial" data-author="Sagar Tikore: AIR 283"
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="Sagar Tikore: AIR 283"
               data-content="Ravindra Sir- Undoubtedly the best teacher I ever had..!! The best part of Ravindra sir's coaching is the Journey which has wonderful learning experience and of course a great success standing at the destination. Entire syllabus has been covered in the GATE course and I understood each and every subject with so much ease. I got my every doubt cleared within a day or two. I owe this success to wonderful teacher like you. Thank you for making a beautiful impact on my life.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Sagar-Tikore-AIR-283.jpg" alt="">
@@ -443,19 +437,19 @@ Thanks a lot sir 🙂">
                         <img src="assets/images/testimonials/2017-toppers/Viral-Shah-AIR-326.jpg " alt="">
                     </div>
                 </div><!--
-                -->
+                --><div class="testimonial" data-author="Shaik Masthan:AIR-330"
+                        data-content="A good teacher can teach the subject clearly but a great teacher can teach the subject clearly as well as he can teach you how to lead the life effectively  Thank you RAVI sir for your amazing inspiration towards to GATE. ">
+                    <div class="testimonial-inner-box">
+                        <img src="assets/images/testimonials/2017-toppers/Shaik-Masthan-AIR-330.jpg " alt="">
+                    </div>
+                </div><!--
+      -->
             </div>
         </div>
         <!-- 4th row -->
         <div class="testminioals-group">
             <div class="testimonial-1">
-                <div class="testimonial" data-author="Shaik Masthan:AIR-330"
-                     data-content="A good teacher can teach the subject clearly but a great teacher can teach the subject clearly as well as he can teach you how to lead the life effectively  Thank you RAVI sir for your amazing inspiration towards to GATE. ">
-                    <div class="testimonial-inner-box">
-                        <img src="assets/images/testimonials/2017-toppers/Shaik-Masthan-AIR-330.jpg " alt="">
-                    </div>
-                </div><!--
-      --><div class="testimonial" data-author="Srijeet Chajtterjee Air- 344" data-content="Being a 3.5 years experienced IT professional in an MNC that too from ECE background, even thinking of cracking GATE in CS with such an opportunistic rank was unreal when I first thought of it. Then I saw some of Ravindrababu Ravula’s videos and realized, yes it can be done. The most challenging part was Automata and Compiler Design, they used to make me feel like an alien. But I have gone through his videos and that’s all, I came to know these subjects. Ravula is a fabulous teacher and I feel I’m very lucky to receive his guidance that has now put me in a position to accelerate in life and redefine it. A super thanks Mr. Ravula.
+                <div class="testimonial" data-author="Srijeet Chajtterjee Air- 344" data-content="Being a 3.5 years experienced IT professional in an MNC that too from ECE background, even thinking of cracking GATE in CS with such an opportunistic rank was unreal when I first thought of it. Then I saw some of Ravindrababu Ravula’s videos and realized, yes it can be done. The most challenging part was Automata and Compiler Design, they used to make me feel like an alien. But I have gone through his videos and that’s all, I came to know these subjects. Ravula is a fabulous teacher and I feel I’m very lucky to receive his guidance that has now put me in a position to accelerate in life and redefine it. A super thanks Mr. Ravula.
 
 ">
                     <div class="testimonial-inner-box">
@@ -508,17 +502,17 @@ I can't thank you enough Sir for keeping this journey of Gate preparation intere
                         <img src="assets/images/testimonials/2017-toppers/Angelic-Goyal-(-AIR-473).jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Shivani karnewar: AIR 494"
-                     data-content="Firstly a big thank you to Ravindra babu sir whose excellent teaching skills brought me to where I am now. Throughout my journey you were my inspiration and always will be. I would like to share my experience, before watching your videos I was not confident about cracking the GATE exam with good score but your motivation played an important role. Your way of teaching is amazing so that any ordinary student like me can understand concepts easily and clearly. Also the test series kept pushing my boundary each and every time. I am glad that I got a chance to learn from you. I will always be thankful to you for being an excellent teacher and a great motivational speaker.">
+      --><div class="testimonial" data-author="Shivani karnewar: AIR 494"
+              data-content="Firstly a big thank you to Ravindra babu sir whose excellent teaching skills brought me to where I am now. Throughout my journey you were my inspiration and always will be. I would like to share my experience, before watching your videos I was not confident about cracking the GATE exam with good score but your motivation played an important role. Your way of teaching is amazing so that any ordinary student like me can understand concepts easily and clearly. Also the test series kept pushing my boundary each and every time. I am glad that I got a chance to learn from you. I will always be thankful to you for being an excellent teacher and a great motivational speaker.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Shivani-karnewar-AIR-494.jpg" alt="">
                     </div>
                 </div><!--
-      --><div class="testimonial" data-author="Abhishek Dhiman: AIR 510"
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="Abhishek Dhiman: AIR 510"
               data-content="The course provided by Ravula sir was very very helpful for my gate preparation. Teaching methods and video technology used is just awesome. Also there is this test series which was given free of cost to us but was worth many Rupees. All I can say is it was one of my best decisions in my life that I had purchased this course.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Abhishek-dhiman-AIR-510.jpg" alt="">
@@ -574,19 +568,19 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                         <img src="assets/images/testimonials/2017-toppers/Avni-Jain-AIR-983.jpg" alt="">
                     </div>
                 </div><!--
+      --><div class="testimonial" data-author="Vamsi krishna AIR 1191"
+              data-content="I couldn't thank you enough Sir for all the support and motivation you provided through videos and Emails. The moment I watched your lectures on YouTube I have decided that Masters is the path I should choose in my career and it is best decision I have ever taken. You made every topic clear and simple in the best possible way. I'm blessed to have a teacher like you.">
+                    <div class="testimonial-inner-box">
+                        <img src="assets/images/testimonials/2017-toppers/Vamsi-krishna-AIR-1191.jpeg" alt="">
+                    </div>
+                </div><!--
       -->
             </div>
         </div>
         <!-- 5th row -->
         <div class="testminioals-group">
             <div class="testimonial-1">
-                <div class="testimonial" data-author="Vamsi krishna AIR 1191"
-                     data-content="I couldn't thank you enough Sir for all the support and motivation you provided through videos and Emails. The moment I watched your lectures on YouTube I have decided that Masters is the path I should choose in my career and it is best decision I have ever taken. You made every topic clear and simple in the best possible way. I'm blessed to have a teacher like you.">
-                    <div class="testimonial-inner-box">
-                        <img src="assets/images/testimonials/2017-toppers/Vamsi-krishna-AIR-1191.jpeg" alt="">
-                    </div>
-                </div><!--
-      --><div class="testimonial" data-author="Rajesh Kumar Ranjan AIR -1752" data-content="First of all, I am very thankful to Ravula sir.I can say loudly and proudly that whatever concept I groomed and applied it’s only because of his crystal clear videos lecture as well the total GATE standard test series.
+                <div class="testimonial" data-author="Rajesh Kumar Ranjan AIR -1752" data-content="First of all, I am very thankful to Ravula sir.I can say loudly and proudly that whatever concept I groomed and applied it’s only because of his crystal clear videos lecture as well the total GATE standard test series.
 
               I have made few mistakes and so my rank is not very good but I can list my satisfaction with the journey of gate guided by Mr. Ravula sir.
 
@@ -641,18 +635,18 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                              alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Vaijenath" (AIR 13)
-                     data-content="Wow!!! It feels great to write testimonial for you. 1 year before, I was reading the testimonial and thinking that they are now toppers, it’s not my thing. But after watching your free demo lectures on you tube, the way you approach the concept and your motivation I could not stop myself by enrolling at your coaching. And now after 1 year its AIR 13, that is also in the final year itself. Sir you are the only teacher of whom I watched all lectures (not skipped a single one) and some of them twice . My day used to start with your lecture and end with your smile (sometime you taught me in my dreams also). Now I will be the student of best department of best college in the India, and that is possible only because of you. Thanks a lot for changing my life. You are really a Gabbar sir, I will always be a biggest fan of you.">
+      --><div class="testimonial" data-author="Vaijenath" (AIR 13)
+              data-content="Wow!!! It feels great to write testimonial for you. 1 year before, I was reading the testimonial and thinking that they are now toppers, it’s not my thing. But after watching your free demo lectures on you tube, the way you approach the concept and your motivation I could not stop myself by enrolling at your coaching. And now after 1 year its AIR 13, that is also in the final year itself. Sir you are the only teacher of whom I watched all lectures (not skipped a single one) and some of them twice . My day used to start with your lecture and end with your smile (sometime you taught me in my dreams also). Now I will be the student of best department of best college in the India, and that is possible only because of you. Thanks a lot for changing my life. You are really a Gabbar sir, I will always be a biggest fan of you.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Vaijenath%20(AIR%2013-%202016).jpg" alt="">
                     </div>
 
                 </div><!--
-      --><div class="testimonial" data-author="HIMANSHU PANDEY(M.E. IISC)"
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="HIMANSHU PANDEY(M.E. IISC)"
               data-content="GABBAR PADHATA NAHI, AAG LAGA DETA HAI.... Truly speaking, when I joined classes for GATE, I planned to get good rank so that I may get some IIT, but your motivation changed my life which inspired me to do more than getting a good rank and getting admitted in IITs. As a result I got 21st rank in GATE and joined IISc. Whenever I think of you, I am always encouraged to do something new, innovative a nd good for human beings rather than only thinking about grades and money. I found you more as a brother than just a teacher because you have not taught me only subjects rather you taught me way of life and always helped me in my all decisions. I would like to be associated with you in all phases of my life, and would like to work with you... I have a lot to say, but can't express everything in words.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/HIMANSHU%20PANDEY,M.E.%20(IISc).jpg" alt="">
@@ -701,20 +695,20 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                     </div>
 
                 </div><!--
+            --><div class="testimonial" data-author="Nirmalendu Diwakar(IISC)"
+                    data-content="Marking the most important day in my life. Got admission call from IISc ME in CSE. Received the mail at 06:43 p.m. have been thinking that its a dream. All because of the greatest instructor in CS Sir Ravindra Babu Ravula. Would be thankful to you always.">
+                    <div class="testimonial-inner-box">
+                        <img src="assets/images/testimonials/Nirmalendu%20Diwakar.jpg" alt="">
+                    </div>
+
+                </div><!--
             -->
             </div>
         </div>
         <!-- 6th row -->
         <div class="testminioals-group">
             <div class="testimonial-1">
-                <div class="testimonial" data-author="Nirmalendu Diwakar(IISC)"
-                     data-content="Marking the most important day in my life. Got admission call from IISc ME in CSE. Received the mail at 06:43 p.m. have been thinking that its a dream. All because of the greatest instructor in CS Sir Ravindra Babu Ravula. Would be thankful to you always.">
-                    <div class="testimonial-inner-box">
-                        <img src="assets/images/testimonials/Nirmalendu%20Diwakar.jpg" alt="">
-                    </div>
-
-                </div><!--
-            --><div class="testimonial" data-author="Pallavi Chugh, IISc."
+                <div class="testimonial" data-author="Pallavi Chugh, IISc."
                     data-content="I joined Gate coaching with an aim of getting NIT. I was working very hard on subjects, trying to learn concepts until he came in. Just when he started, i learned to enjoy subjects.The only teacher who spends time on motivating students along with teaching concepts. I still remember the line which he said in his first class ‘Mujhe bhi 1 chance de do, just follow what i say and i promise you good rank’. And it was hard to imagine at that time that just by following whatever he said, i would reach here- ‘IISc’ - Dream place for many but i have NOT even dreamed about it. Great teacher, motivator, mentor - does all his work with passion. Makes everything easier and interesting. Lucky to have him as a teacher. Hats off to whatever he does. -Pallavi Chugh, IISc.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Pallavi%20Chugh,%20IISc.jpg" alt="">
@@ -762,17 +756,17 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                         <img src="assets/images/testimonials/Vikrant%20Singh.jpg" alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Naga Raj(AIR 70)"
-                     data-content="I got AIR 70 in GATE 2015. I just attended your classes, read the notes and gave the exam. I didn't read anything else. All the questions I attempted were from your notes and I got everything right. Thank you sir. ">
+      --><div class="testimonial" data-author="Naga Raj(AIR 70)"
+              data-content="I got AIR 70 in GATE 2015. I just attended your classes, read the notes and gave the exam. I didn't read anything else. All the questions I attempted were from your notes and I got everything right. Thank you sir. ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Naga%20Raj.jpg" alt="">
                     </div>
                 </div><!--
-      --><div class="testimonial" data-author="Shivani Agarwal(AIR 71)"
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="Shivani Agarwal(AIR 71)"
               data-content="I am Shivangi.... I got AIR 71 in GATE 2015 in my first attempt..Its only because of ur videos in 4 months. Sir really ur videos are very good...and if someone wants to prepare in final yr,,then ur videos are best. Thank you for all the support and guidance.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Shivani%20Agarwal.jpg" alt="">
@@ -814,6 +808,12 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                         <img src="assets/images/testimonials/Pranjul,%20Mtech%20(IIT%20Kanpur).jpg" alt="">
                     </div>
                 </div><!--
+      --><div class="testimonial" data-author="BALENDER KUMAR IIT KANPUR."
+              data-content="​Today whatever i m just because of u sir i want to touch your feet once . when i do this i feel like that i m in the heaven .sir i tell ur story to my parents they always blessing u sir...my parents proud on me but sir i think i m not able to do this without your inspiration. ">
+                    <div class="testimonial-inner-box">
+                        <img src="assets/images/testimonials/BALENDER%20KUMAR%20IIT%20KANPUR.jpg" alt="">
+                    </div>
+                </div><!--
       -->
             </div>
         </div>
@@ -821,13 +821,7 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
         <!--7th row-->
         <div class="testminioals-group">
             <div class="testimonial-1">
-                <div class="testimonial" data-author="BALENDER KUMAR IIT KANPUR."
-                     data-content="​Today whatever i m just because of u sir i want to touch your feet once . when i do this i feel like that i m in the heaven .sir i tell ur story to my parents they always blessing u sir...my parents proud on me but sir i think i m not able to do this without your inspiration. ">
-                    <div class="testimonial-inner-box">
-                        <img src="assets/images/testimonials/BALENDER%20KUMAR%20IIT%20KANPUR.jpg" alt="">
-                    </div>
-                </div><!--
-      --><div class="testimonial" data-author="Chandan Pandey (MTech, IIT kanpur)"
+                <div class="testimonial" data-author="Chandan Pandey (MTech, IIT kanpur)"
               data-content="​I remember when i first saw your videos on youtube. These videos inspired me to take Gate 2015 seriously and I learned a lot from you after registering for your full course. The best thing is I changed my approach of analysing concepts and solving problems. As a result I got M Tech Admission in IIT Kanpur. Thank you sir for teaching and inspiring">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Chandan%20Pandey%20(MTech,%20IIT%20kanpur).jpg" alt="">
@@ -870,18 +864,18 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                              alt="">
                     </div>
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Srinivas IIT-KHARAGPUR"
-                     data-content="Hi Friends… I am Singam Srinivas Reddy, doing my MTech in IIT KHARAGPUR. I completed my B.Tech in a local college in my state(Andhra Pradesh).I would like to say few words regarding my life . I am very much thankful to the person who is the more respectable after my parents. He is Ravindrababu Ravula, the only person who had changed my negative energy to positive energy . Now I m studying in IIT which is possible only because of his inspiration and teaching. At the time of my B.tech final year I was thinking like entering an IIT is an impossible task to me . In my first attempt I was disqualified in the GATE examination. After this incident my confidence got reduced to zero for cracking GATE. At that situation my life is full of depression and unhappy. Failure is my close friend and success is my enemy. At that phase Ravindra sir motivated a lot. With that inspiration next year I got AIR 203. Now I am studying M.Tech in IITKGP. I didn't see such a person who have passion in teaching. Not only teaching I learned so much from his teachings. Not only studies, but also about life. IMPOSSIBLE is POSIBLE if ravindra sir is there. The days when I spent with him are the most memorable days in my life. I feel he is my own brother he shows that much affection towards me. Finally I owe you a lot in my entire life. Thank you bro, for giving this wonderful life">
+      --><div class="testimonial" data-author="Srinivas IIT-KHARAGPUR"
+              data-content="Hi Friends… I am Singam Srinivas Reddy, doing my MTech in IIT KHARAGPUR. I completed my B.Tech in a local college in my state(Andhra Pradesh).I would like to say few words regarding my life . I am very much thankful to the person who is the more respectable after my parents. He is Ravindrababu Ravula, the only person who had changed my negative energy to positive energy . Now I m studying in IIT which is possible only because of his inspiration and teaching. At the time of my B.tech final year I was thinking like entering an IIT is an impossible task to me . In my first attempt I was disqualified in the GATE examination. After this incident my confidence got reduced to zero for cracking GATE. At that situation my life is full of depression and unhappy. Failure is my close friend and success is my enemy. At that phase Ravindra sir motivated a lot. With that inspiration next year I got AIR 203. Now I am studying M.Tech in IITKGP. I didn't see such a person who have passion in teaching. Not only teaching I learned so much from his teachings. Not only studies, but also about life. IMPOSSIBLE is POSIBLE if ravindra sir is there. The days when I spent with him are the most memorable days in my life. I feel he is my own brother he shows that much affection towards me. Finally I owe you a lot in my entire life. Thank you bro, for giving this wonderful life">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Srinivas%20IIT-KHARAGPUR.jpg" alt="">
                     </div>
 
                 </div><!--
-      --><div class="testimonial" data-author="Sowmya Vempati IIT Kharagpur"
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="Sowmya Vempati IIT Kharagpur"
               data-content="Hi Friends,I am Sowmya Vempati doing my M.Tech 2nd year in IIT Kharagpur C.S.E.I took gate coaching from Ravindra Sir during my 3rd year B.Tech at Guntur.At that time I had no idea about gate and benifits of doing M.Tech in IIT's and NIT's .But at the first day of coaching I was really impressed by sir's motivation about getting good rank in gate and pursuing M.Tech in IIT's .His way of teaching and building concepts is extraordinary.I got 11,000 rank in my first attempt (in 3rd year B.Tech).He is the only person who had belief on me that i will surely get in IIT's and motivated me to not give up gate.As a result i prepared for gate in my 4th year with rigorous efforts and the result is ALL INDIA 228 in GATE CS-2012.Now i am at IIT because of you sir.Thanks is a small word for Thanking you sir……">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Sowmya%20Vempati%20IIT%20Kharagpur.jpg" alt="">
@@ -930,6 +924,13 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                     </div>
 
                 </div><!--
+            --><div class="testimonial" data-author="ANOJ KUMAR"
+                    data-content="I Proudly say, I AM STUDENT OF RAVINDRA SIR..!!!. Ravindra Sir, He is just awesome, best teacher, great mentor, motivational speaker, and fitness freak. Let’s talk about me now, I was in my final year of my Integrated M.tech course and there is no hope for me to get settled with good job with this degree and existing knowledge, I have. After that I devoted my full time learning concepts from ravindra sir videos. These videos helped me understand computer science in depth and  build confidence in me. As a result, I applied for jobs, gate and ugc net and  I cracked all the three in a row. First, In january, I got the job offer from startup company with starting package of 6 lakh and co-founder of companies are ex-googlers. Second, In march, I cleared GATE with decent rank and now in April I got qualified UGC NET. These things happen to me because, I followed ravindra sir videos.">
+                    <div class="testimonial-inner-box">
+                        <img src="assets/images/testimonials/ANOJ%20KUMAR.jpg" alt="">
+                    </div>
+
+                </div><!--
             -->
             </div>
         </div>
@@ -937,14 +938,7 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
         <!--8th row-->
         <div class="testminioals-group">
             <div class="testimonial-1">
-                <div class="testimonial" data-author="ANOJ KUMAR"
-                     data-content="I Proudly say, I AM STUDENT OF RAVINDRA SIR..!!!. Ravindra Sir, He is just awesome, best teacher, great mentor, motivational speaker, and fitness freak. Let’s talk about me now, I was in my final year of my Integrated M.tech course and there is no hope for me to get settled with good job with this degree and existing knowledge, I have. After that I devoted my full time learning concepts from ravindra sir videos. These videos helped me understand computer science in depth and  build confidence in me. As a result, I applied for jobs, gate and ugc net and  I cracked all the three in a row. First, In january, I got the job offer from startup company with starting package of 6 lakh and co-founder of companies are ex-googlers. Second, In march, I cleared GATE with decent rank and now in April I got qualified UGC NET. These things happen to me because, I followed ravindra sir videos.">
-                    <div class="testimonial-inner-box">
-                        <img src="assets/images/testimonials/ANOJ%20KUMAR.jpg" alt="">
-                    </div>
-
-                </div><!--
-            --><div class="testimonial" data-author="Sandeep Kumar (Google)"
+                <div class="testimonial" data-author="Sandeep Kumar (Google)"
                     data-content="I am working  with Google India for the past one year. But I must say that this  is the right platform where we can  study core subject of computer science like algo, data structure, computer network  etc. In totally  different way. Videos are self sufficient  to clear any competitive exam like Amazon, flip-kart, Cisco etc. It open a door into the real world of IT industry. Let's make our dream to come true with the help of this platforms. Sir you are doing good job in this field. Best of luck.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Sandeep%20Kumar%20(Google).jpg" alt="">
@@ -993,18 +987,18 @@ Lastly Ravindrababu Ravula is the best teacher & mentor I have ever met.">
                     </div>
 
                 </div><!--
-      -->
-            </div>
-            <div id="testimonial-display"></div>
-            <div class="testimonial-2">
-                <div class="testimonial" data-author="Deepali Shukla.(CISCO)"
-                     data-content="The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires. Your thoughts and ideas always inspired me. Inspired me to look into myself, look for the potential inside me, my passion. Whatever you taught me just penetrated inside me and made me crack CISCO SYSTEMS( A Dream ) The way you taught me networks was incredible. You are the one who made my interest in networking. Moreover you helped me in being a more energetic person “the morning person”. I never looked beyond your notes and they are like a life savor. Your thoughts act like blessings for others.">
+      --><div class="testimonial" data-author="Deepali Shukla.(CISCO)"
+              data-content="The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires. Your thoughts and ideas always inspired me. Inspired me to look into myself, look for the potential inside me, my passion. Whatever you taught me just penetrated inside me and made me crack CISCO SYSTEMS( A Dream ) The way you taught me networks was incredible. You are the one who made my interest in networking. Moreover you helped me in being a more energetic person “the morning person”. I never looked beyond your notes and they are like a life savor. Your thoughts act like blessings for others.">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Deepali%20Shukla..jpg" alt="">
                     </div>
 
                 </div><!--
-      --><div class="testimonial" data-author="Akshay Jindal.(Aircent)"
+      -->
+            </div>
+            <div id="testimonial-display"></div>
+            <div class="testimonial-2">
+                <div class="testimonial" data-author="Akshay Jindal.(Aircent)"
               data-content="Hello Ravi Sir, Today I got placed at Aricent. Its a networking company.After written Faced 1 hour interview all questions on Computer Networks with a little bit of DS(all easy), and I can say that I nailed the interview (literally) all because of you. The bigger picture in mind is still GATE 2014. While interview I was explaining like a pro to him, and the interviewer was very happy with me. Seriously blessed to be your student sir. May your fan following break all records. Live Long and Prosper Gabbar">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/Akshay%20Jindal..jpg" alt="">
