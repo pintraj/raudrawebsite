@@ -13,7 +13,7 @@
 
         <div class="testminioals-group">
             <div class="testimonial-1">
-                <div class="testimonial" data-author="Yashi Gupta: AIR-2" data-content="I am Yashi Gupta. I secured AIR 2 in GATE 2017. I watched sir's videos on Youtube. They have helped me alot to clear some of my concepts. He puts in alot of efforts and explains everything so nicely and easily. Thanks to Ravindra Sir and his team.
+                <div class="testimonial" data-author="Yashi Gupta: AIR-2" data-content="I am Yashi Gupta. I secured AIR 2 in GATE 2017. I watched sir's videos. They have helped me alot to clear my concepts. He puts in alot of efforts and explains everything so nicely and easily. Thanks to Ravindra Sir and his team.
 ">
                     <div class="testimonial-inner-box">
                         <img src="assets/images/testimonials/2017-toppers/Yashi%20gupta%20AIR%202.jpg" alt="">

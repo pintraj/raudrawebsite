@@ -58,7 +58,7 @@ I feel very much lucky that I got chance to learn from you. You are doing a fabu
             Thank you sir!
 ">
                     <div class="testimonial-inner-box">
-                        <img src="assets/images/testimonials/2017-toppers/Sai-Prasad-Koushika-AIR-37.jpg" alt="">
+                        <img src="assets/images/testimonials/2017-toppers/Monish-Keswani-AIR-21.jpg" alt="">
                     </div>
                 </div><!--
       --><div class="testimonial test-mobi" data-author="Tapan Bhardwaj: AIR 22" data-content="I have done my B.Tech in Electrical and was placed in an IT Company and wasn't sure if this is what I wanted to do in my life. Then I got to know from a friend that M.Tech in IISC CS will open different wonderful opportunities and that is how and why I wanted to give GATE.

@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="55b0e963-d8e0-422c-a66e-6710e289aa97" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete-testi.php" afterPath="$PROJECT_DIR$/delete-testi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile-2.php" afterPath="$PROJECT_DIR$/mobile-2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gate-2017-toppers.php" afterPath="$PROJECT_DIR$/gate-2017-toppers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gate-toppers.php" afterPath="$PROJECT_DIR$/gate-toppers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile-testimonials.php" afterPath="$PROJECT_DIR$/mobile-testimonials.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testimonials.php" afterPath="$PROJECT_DIR$/testimonials.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,45 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gate-2017-toppers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gate-2017-toppers.php">
+      <file leaf-file-name="mobile-testimonials.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile-testimonials.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="1215" column="46" lean-forward="false" selection-start-line="1215" selection-start-column="43" selection-end-line="1215" selection-end-column="46" />
-              <folding>
-                <marker date="1491500170478" expanded="true" signature="81655:81656" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testimonials.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testimonials.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="1066" column="0" lean-forward="true" selection-start-line="1066" selection-start-column="0" selection-end-line="1066" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delete-testi.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/delete-testi.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" column="54" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1071" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#86#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gate-toppers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gate-toppers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="38" column="63" lean-forward="false" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
+            <state relative-caret-position="240">
+              <caret line="60" column="99" lean-forward="false" selection-start-line="60" selection-start-column="99" selection-end-line="60" selection-end-column="99" />
               <folding />
             </state>
           </provider>
@@ -125,12 +92,12 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assets/css/h3.css" />
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/gate-toppers.php" />
-        <option value="$PROJECT_DIR$/gate-2017-toppers.php" />
-        <option value="$PROJECT_DIR$/mobile-testimonials.php" />
         <option value="$PROJECT_DIR$/mobile-2.php" />
         <option value="$PROJECT_DIR$/delete-testi.php" />
+        <option value="$PROJECT_DIR$/gate-2017-toppers.php" />
         <option value="$PROJECT_DIR$/testimonials.php" />
+        <option value="$PROJECT_DIR$/gate-toppers.php" />
+        <option value="$PROJECT_DIR$/mobile-testimonials.php" />
       </list>
     </option>
   </component>
@@ -299,16 +266,16 @@
       <workItem from="1491373238479" duration="6172000" />
       <workItem from="1491463666359" duration="2138000" />
       <workItem from="1491476228914" duration="2040000" />
-      <workItem from="1491497811839" duration="12695000" />
+      <workItem from="1491497811839" duration="13371000" />
+      <workItem from="1491546698958" duration="3560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140839000" />
+    <option name="totallyTimeSpent" value="145075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24596465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -641,14 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gate-toppers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="38" column="63" lean-forward="false" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/old-testimonials.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -661,22 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4095">
           <caret line="574" column="26" lean-forward="false" selection-start-line="574" selection-start-column="26" selection-end-line="574" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile-testimonials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17250">
-          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile-testi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="171" column="38" lean-forward="false" selection-start-line="171" selection-start-column="38" selection-end-line="171" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -713,16 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gate-2017-toppers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="1215" column="46" lean-forward="false" selection-start-line="1215" selection-start-column="43" selection-end-line="1215" selection-end-column="46" />
-          <folding>
-            <marker date="1491500170478" expanded="true" signature="81655:81656" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/delete-testi.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -733,10 +666,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gate-2017-toppers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="129" lean-forward="false" selection-start-line="21" selection-start-column="129" selection-end-line="21" selection-end-column="129" />
+          <folding>
+            <marker date="1491547379245" expanded="true" signature="81637:81638" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gate-toppers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testimonials.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="1066" column="0" lean-forward="true" selection-start-line="1066" selection-start-column="0" selection-end-line="1066" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-testi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="171" column="38" lean-forward="false" selection-start-line="171" selection-start-column="38" selection-end-line="171" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-testimonials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="60" column="99" lean-forward="false" selection-start-line="60" selection-start-column="99" selection-end-line="60" selection-end-column="99" />
           <folding />
         </state>
       </provider>

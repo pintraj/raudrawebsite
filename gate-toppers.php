@@ -43,7 +43,7 @@
                         <div class="topper-text">
 
                             <h2>AIR-2</h2>
-                            <h3> Yasi Gupta</h3>
+                            <h3> Yashi Gupta</h3>
                             </a>
                         </div>
                     </div>

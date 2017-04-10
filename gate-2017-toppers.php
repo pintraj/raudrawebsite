@@ -19,7 +19,7 @@ include "header.php";
                 </div>
                 <div class="col-md-10">
 
-                    <p>I am Yashi Gupta. I secured AIR 2 in GATE 2017. I watched sir's videos on Youtube. They have helped me alot to clear some of my concepts. He puts in alot of efforts and explains everything so nicely and easily. Thanks to Ravindra Sir and his team.
+                    <p>I am Yashi Gupta. I secured AIR 2 in GATE 2017. I watched sir's videos. They have helped me alot to clear  my concepts. He puts in alot of efforts and explains everything so nicely and easily. Thanks to Ravindra Sir and his team.
                     </p>`
 
                 </div>
