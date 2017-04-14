@@ -232,3 +232,13 @@ ol.carousel-indicators li {
     /*transition: transform 0.2s ease-in-out !important;*/
 
 }
+.col-md-3.video-testi {
+    margin: 15px;
+    padding: 0;
+}
+
+
+.testi-author {
+    font-size: 22px;
+    text-align: center;
+}

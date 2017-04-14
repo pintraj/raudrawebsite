@@ -31,7 +31,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air11">
-                <h2>Shivank Gupta: AIR 11</h2>
+                <h2>Shivank Gupta : AIR-11</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Shivank-Gupta-AIR-11.jpg" alt="">
@@ -51,7 +51,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air13">
-                <h2>Parul Gupta: AIR 13</h2>
+                <h2>Parul Gupta : AIR-13</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Parul-Gupta-AIR-13.jpg" alt="">
@@ -67,7 +67,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air15">
-                <h2>Himadri Banerjee: AIR 15</h2>
+                <h2>Himadri Banerjee : AIR-15</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Himadri-BanerjeeAIR-15.jpg " alt="">
@@ -86,7 +86,7 @@ include "header.php";
             </div>
 
             <div class="row" id="air19">
-                <h2>Anirban Biswas: AIR 19</h2>
+                <h2>Anirban Biswas : AIR-19</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Anirban-Biswas-AIR-19.jpg" alt="">
@@ -103,7 +103,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air20">
-                <h2>Abhishek Bhardwaj: AIR 20</h2>
+                <h2>Abhishek Bhardwaj : AIR-20</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/ABHISHEK-BHARDWAJ--RANK-20.jpg" alt="">
@@ -118,7 +118,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air21">
-                <h2>Monish Keswani: AIR 21</h2>
+                <h2>Monish Keswani : AIR-21</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Monish-Keswani-AIR-21.jpg" alt="">
@@ -140,7 +140,7 @@ include "header.php";
             </div>
 
             <div class="row" id="air22">
-                <h2>Tapan Bhardwaj: AIR 22</h2>
+                <h2>Tapan Bhardwaj : AIR-22</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Tapan-Baradwaj-AIR-22.jpg" alt="">
@@ -155,7 +155,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air24">
-                <h2>Sunandini Sanyal: AIR 24</h2>
+                <h2>Sunandini Sanyal : AIR-24</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/SUNANDINI%20SANYAL%20(AIR%2024).JPG" alt="">
@@ -171,7 +171,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air28">
-                <h2>Manish joshi: AIR 28</h2>
+                <h2>Manish Joshi : AIR-28</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Manish-joshi-AIR-28.jpg" alt="">
@@ -185,7 +185,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air31">
-                <h2>Amit Patil: AIR 31</h2>
+                <h2>Amit Patil : AIR-31</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Amit-Patil-AIR-31.jpg" alt="">
@@ -202,7 +202,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air37">
-                <h2>Sai Prasad Koushika: AIR 37</h2>
+                <h2>Sai Prasad Koushika : AIR-37</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Sai-Prasad-Koushika-AIR-37.jpg" alt="">
@@ -227,7 +227,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air39">
-                <h2>Kantikumar Lahoti: AIR 39</h2>
+                <h2>Kantikumar Lahoti : AIR-39</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Kantikumar-Lahoti--AIR-39.jpg" alt="">
@@ -244,7 +244,7 @@ include "header.php";
             </div>
 
             <div class="row" id="air43">
-                <h2>Jatin Mittal:AIR-43</h2>
+                <h2>Jatin Mittal : AIR-43</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Jatin-Mittal-AIR-43.jpg" alt="">
@@ -267,7 +267,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air60">
-                <h2>Sudheer Chandra M: AIR 60</h2>
+                <h2>Sudheer Chandra M : AIR-60</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Sudheer-Chandra-M-AIR-60.jpg" alt="">
@@ -289,7 +289,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air62">
-                <h2>Avinash Modi AIR 62</h2>
+                <h2>Avinash Modi : AIR-62</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Avinash-Modi-AIR-62.jpg" alt="">
@@ -298,7 +298,7 @@ include "header.php";
                 <div class="col-md-10">
 
                     <p>I did my B.Tech from IIT Roorkee in Computer Science. I am currently working in Visa Inc. from last 1.5 years. I always wanted to go for higher studies. There were two options : some university in USA or IIT/IISc. Due to financial restraint, I decided to give a try to GATE. </p>
-                    <p>I started preparing from Ravi Sir's e-classes around Mid October. His e-classes are precise and well groomed for GATE preparation, especially for aspirants who want to secure under 100 rank. </p>
+                    <p>I started preparing from Ravi Sir's e-clravinasses around Mid October. His e-classes are precise and well groomed for GATE preparation, especially for aspirants who want to secure under 100 rank. </p>
                         <p>Test series provided by Ravi sir is comprehensive and cover all topics to the required depth. Test series is a must if you dont want to lose those 5-10 marks in "THE" exam day which could cost you severely. 
 
                     </p>
@@ -306,7 +306,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air72">
-                <h2>Rahul sharma: AIR 72</h2>
+                <h2>Rahul Sharma : AIR-72</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Rahul-sharma-AIR-72.jpg" alt="">
@@ -356,7 +356,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air76">
-                <h2>Ravi shankar Karanam:AIR-76</h2>
+                <h2>Ravi Shankar Karanam : AIR-76</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Ravi-shankar-Karanam-76.jpg" alt="">
@@ -374,7 +374,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air77">
-                <h2>Shiva Kulshreshtha:AIR-77</h2>
+                <h2>Shiva Kulshreshtha : AIR-77</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Shiva-Kulshreshtha-AIR-77.jpg" alt="">
@@ -397,7 +397,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air79">
-                <h2>Rasna Goyal:AIR-79</h2>
+                <h2>Rasna Goyal : AIR-79</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Rasna-Goyal--79.jpg" alt="">
@@ -418,7 +418,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air90">
-                <h2>Anupama vijjapu:AIR-90</h2>
+                <h2>Anupama vijjapu : AIR-90</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Anupama-vijjapu-AIR-90.jpg" alt="">
@@ -437,7 +437,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air97">
-                <h2>Vaishali jhalani:AIR-97</h2>
+                <h2>Vaishali Jhalani : AIR-97</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Vaishali-jhalani-AIR-97.jpg" alt="">
@@ -455,7 +455,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air109">
-                <h2>SruthiGoyal: AIR 109</h2>
+                <h2>Sruthi Goyal : AIR-109</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Sruthi-Goyal-AIR-109.jpg" alt="">
@@ -478,7 +478,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air117">
-                <h2>Shashank Pal: AIR 117</h2>
+                <h2>Shashank Pal : AIR-117</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Shashank-Pal-AIR-117.jpg" alt="">
@@ -506,7 +506,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air119">
-                <h2>Murali Krishna: AIR 119</h2>
+                <h2>Murali Krishna : AIR-119</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Murali-Krishna-AIR-119.jpg" alt="">
@@ -526,7 +526,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air120">
-                <h2>Nagesh: AIR 119</h2>
+                <h2>Nagesh : AIR-119</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Nagesh--AIR-119.jpg" alt="">
@@ -545,7 +545,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air132">
-                <h2>Meet sheth: AIR 132</h2>
+                <h2>Meet Sheth : AIR-132</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Meet-sheth-132.jpg" alt="">
@@ -578,7 +578,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air136">
-                <h2>Sonu Dixit: AIR 136</h2>
+                <h2>Sonu Dixit : AIR-136</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/sonu-dixit-136.jpg" alt="">
@@ -594,7 +594,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air137">
-                <h2>Akash rana: AIR 137</h2>
+                <h2>Akash Rana : AIR-137</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Akash-rana-AIR--137.jpg" alt="">
@@ -609,7 +609,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air142">
-                <h2>Vicky Agarwal: AIR 142</h2>
+                <h2>Vicky Agarwal : AIR-142</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Vicky-Agarwal-AIR142.jpg" alt="">
@@ -625,7 +625,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air150">
-                <h2>Kalpesh Dusane : AIR 150</h2>
+                <h2>Kalpesh Dusane : AIR-150</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Kalpesh-Dusane-air-150.jpg" alt="">
@@ -646,7 +646,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air160">
-                <h2>Asis kumar panda: AIR 160</h2>
+                <h2>Asis Kumar Panda : AIR-160</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Asis-kumar-panda--160.jpg" alt="">
@@ -669,7 +669,7 @@ include "header.php";
             </div>
 
             <div class="row" id="air164">
-                <h2>Rajesh Koritela: AIR 164</h2>
+                <h2>Rajesh Koritela : AIR-164</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Rajesh-Koritela-AIR-164.jpg" alt="">
@@ -685,7 +685,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air165">
-                <h2>Kaushal Dubey: AIR 165</h2>
+                <h2>Kaushal Dubey : AIR-165</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Kaushal-Dubey-AIR-165.jpg" alt="">
@@ -707,7 +707,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air169">
-                <h2>Siddhant bhatt: AIR 169</h2>
+                <h2>Siddhant Bhatt : AIR-169</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Siddhant-bhatt-AIR-169.jpg" alt="">
@@ -722,7 +722,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air169">
-                <h2>Akshat Garg AIR 191</h2>
+                <h2>Akshat Garg : AIR-191</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Akshat-Garg-AIR-191.jpg" alt="">
@@ -740,7 +740,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air200">
-                <h2>Abhishek Uppar: AIR 200</h2>
+                <h2>Abhishek Uppar : AIR-200</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Abhishek-Uppar-AIR-200.jpg" alt="">
@@ -760,7 +760,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air200">
-                <h2>Debanjan ghatak: AIR 205</h2>
+                <h2>Debanjan Ghatak : AIR-205</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Debanjan%20ghatak%20AIR%20205.jpg" alt="">
@@ -782,12 +782,12 @@ include "header.php";
                     Thank you.
 
 
-                    </p>
+
 
                 </div>
             </div>
             <div class="row" id="air200">
-                <h2>Prateek Gupta 243</h2>
+                <h2>Prateek Gupta : AIR-243</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Prateek-Gupta-243.jpg" alt="">
@@ -810,7 +810,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air245">
-                <h2>Aman Omer: AIR 245</h2>
+                <h2>Aman Omer : AIR-245</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Aman-Omer-AIR-245.jpg" alt="">
@@ -831,7 +831,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Abhinav Arora: AIR 255</h2>
+                <h2>Abhinav Arora : AIR-255</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Abhinav-Arora-AIR-255.jpg" alt="">
@@ -851,7 +851,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Sagar Tikore: AIR 283</h2>
+                <h2>Sagar Tikore : AIR-283</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Sagar-Tikore-AIR-283.jpg" alt="">
@@ -870,7 +870,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Ayushi Mathur AIR 299</h2>
+                <h2>Ayushi Mathur : AIR-299</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Ayushi-Mathur-AIR-299.jpg" alt="">
@@ -893,7 +893,7 @@ include "header.php";
             </div>
 
             <div class="row" id="air255">
-                <h2>Samujjal das: AIR 302</h2>
+                <h2>Samujjal Das : AIR-302</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Samujjal-das-AIR-302.jpg" alt="">
@@ -913,7 +913,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Mohit gupta AIR 306</h2>
+                <h2>Mohit Gupta : AIR-306</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Mohit%20gupta%20AIR%20306.jpg" alt="">
@@ -949,7 +949,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>preyashi agarwal: AIR 312</h2>
+                <h2>Preyashi Agarwal : AIR-312</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/preyashi-agarwal-AIR-312.jpg" alt="">
@@ -972,7 +972,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Ravi singh: AIR 316</h2>
+                <h2>Ravi singh : AIR-316</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Ravi-singh-312.jpg" alt="">
@@ -994,7 +994,7 @@ include "header.php";
             </div>
 
             <div class="row" id="air255">
-                <h2>Viral Shah AIR 326</h2>
+                <h2>Viral Shah : AIR-326</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Viral-Shah-AIR-326.jpg" alt="">
@@ -1015,7 +1015,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Shaik Masthan:AIR-330</h2>
+                <h2>Shaik Masthan : AIR-330</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Shaik-Masthan-AIR-330.jpg" alt="">
@@ -1030,7 +1030,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Srijeet Chajtterjee Air- 344</h2>
+                <h2>Srijeet Chajtterjee: AIR-344</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Srijeet-Chajtterjee-Air-344.jpg" alt="">
@@ -1051,7 +1051,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Anmol maheshwari Air 344</h2>
+                <h2>Anmol maheshwari : AIR-344</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Anmol-maheshwari-344.jpg" alt="">
@@ -1074,7 +1074,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Rounak Agarwal Air- 353</h2>
+                <h2>Rounak Agarwal : AIR-353</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Rounak-Agarwal-Air--353.jpg" alt="">
@@ -1090,7 +1090,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Saloni Bansal AIR 374</h2>
+                <h2>Saloni Bansal : AIR-374</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Saloni-Bansal-AIR-374.jpg" alt="">
@@ -1123,7 +1123,7 @@ include "header.php";
             </div>
 
             <div class="row" id="air255">
-                <h2>Shashank Shanker khare: AIR 420</h2>
+                <h2>Shashank Shanker Khare : AIR-420</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Shashank-Shanker-khare-AIR-420.jpg" alt="">
@@ -1143,7 +1143,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Vineet Puliparambil: AIR 427</h2>
+                <h2>Vineet Puliparambil : AIR-427</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Vineet-Puliparambil-427.jpg" alt="">
@@ -1180,7 +1180,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Shivani karnewar: AIR 494</h2>
+                <h2>Shivani Karnewar : AIR-494</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Shivani-karnewar-AIR-494.jpg" alt="">
@@ -1203,7 +1203,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Abhishek Dhiman: AIR 510</h2>
+                <h2>Abhishek Dhiman : AIR-510</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Abhishek-dhiman-AIR-510.jpg" alt="">
@@ -1219,7 +1219,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Pramod Kumar Yadav AIR 524</h2>
+                <h2>Pramod Kumar Yadav : AIR-524</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Pramod-Kumar-Yadav-AIR-524.jpg" alt="">
@@ -1252,7 +1252,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Shefali Gupta AIR 539</h2>
+                <h2>Shefali Gupta : AIR-539</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/shefali-Gupta-AIR-539.jpg" alt="">
@@ -1269,7 +1269,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Rajarshi Banerjee AIR - 579</h2>
+                <h2>Rajarshi Banerjee : AIR-579</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Rajarshi-Banerjee-AIR---579.jpg" alt="">
@@ -1311,7 +1311,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Saurabh-Godse-AIR-746</h2>
+                <h2>Saurabh Godse : AIR-746</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Saurabh-Godse-AIR-746.jpg" alt="">
@@ -1344,7 +1344,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Amitabh_tiwari AIR - 957</h2>
+                <h2>Amitabh Tiwari : AIR-957</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/amitabh_tiwari-AIR---957.jpg" alt="">
@@ -1366,7 +1366,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Shruti Jain AIR 980</h2>
+                <h2>Shruti Jain : AIR-980</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Shruti-Jain--AIR-980.jpg" alt="">
@@ -1389,7 +1389,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Avni Jain AIR 983</h2>
+                <h2>Avni Jain : AIR-983</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Avni-Jain-AIR-983.jpg" alt="">
@@ -1409,7 +1409,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Vamsi krishna AIR 1191</h2>
+                <h2>Vamsi krishna : AIR-1191</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Vamsi-krishna-AIR-1191.jpeg" alt="">
@@ -1429,7 +1429,7 @@ include "header.php";
                 </div>
             </div>
             <div class="row" id="air255">
-                <h2>Rajesh Kumar Ranjan AIR -1752</h2>
+                <h2>Rajesh Kumar Ranjan : AIR -1752</h2>
                 <div class="col-md-2">
                     <div class="topper-image">
                         <img src="assets/images/testimonials/2017-toppers/Rajesh-Kumar-Ranjan-AIR-1752.jpg" alt="">
@@ -1453,7 +1453,6 @@ include "header.php";
                     </li>
 
 
-                    </p>
 
                 </div>
             </div>

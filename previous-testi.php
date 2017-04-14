@@ -9,7 +9,7 @@
 <div class="container">
 
     <div class="row" id="air5">
-        <h2>Timojit chatterjee:AIR 5</h2>
+        <h2>Timojit Chatterjee :AIR-5</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Timojit%20chatterjee.jpg" alt="">
@@ -20,7 +20,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Rishabh Singla (GATE AIR 8, ME IISc)</h2>
+        <h2>Rishabh Singla : (GATE AIR 8, ME IISc)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Rishabh%20Singla%20(GATE%20AIR%208,%20ME%20IISc).jpg" alt="">
@@ -31,7 +31,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Aman Madaan(MTech, IITB)</h2>
+        <h2>Aman Madaan :(MTech, IITB)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Aman%20Madaan%20(M.Tech(CSE),%20IIT%20Bombay.%20AIR%209(GATE),%20Working%20for%20VISA,USA).jpg" alt="">
@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Vaijenath"(AIR 13)</h2>
+        <h2>Vaijenath : AIR-13</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Vaijenath%20(AIR%2013-%202016).jpg" alt="">
@@ -53,7 +53,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Himanshu Pandey(M.E. IISC)</h2>
+        <h2>Himanshu Pandey: (M.E. IISC)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/HIMANSHU%20PANDEY,M.E.%20(IISc).jpg" alt="">
@@ -64,7 +64,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Akash Kanase (AIR 28-2016)</h2>
+        <h2>Akash Kanase : (AIR 28-2016)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Akash%20Kanase%20(AIR%2028-2016).jpg" alt="">
@@ -75,7 +75,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Pijush chakraborty(AIR 28)</h2>
+        <h2>Pijush Chakraborty : AIR-28</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Pijush%20chakraborty.jpg" alt="">
@@ -86,7 +86,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Chiranjeev kumar(AIR 47)</h2>
+        <h2>Chiranjeev Kumar : AIR-47</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Chiranjeev%20kumar.jpg" alt="">
@@ -97,7 +97,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Rajeev Kumar Gautam IIT-Bombay</h2>
+        <h2>Rajeev Kumar Gautam : IIT-Bombay</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Rajeev%20Kumar%20Gautam%20IIT-Bombay.jpg" alt="">
@@ -108,7 +108,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Nirmal Kumar Boran.IIT Delhi</h2>
+        <h2>Nirmal Kumar Boran : IIT Delhi</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Nirmal%20Kumar%20Boran.IIT%20Delhi.jpg" alt="">
@@ -120,7 +120,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Amani Kongara,IIIT-D</h2>
+        <h2>Amani Kongara : IIIT-D</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Amani%20Kongara,IIIT-D..jpg" alt="">
@@ -132,7 +132,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Nirmalendu Diwakar(IISC)</h2>
+        <h2>Nirmalendu Diwakar : (IISC)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Nirmalendu%20Diwakar.jpg" alt="">
@@ -144,7 +144,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Pallavi Chugh, IISc</h2>
+        <h2>Pallavi Chugh : IISc</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Pallavi%20Chugh,%20IISc.jpg" alt="">
@@ -156,7 +156,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Santosh Srinivas Karrotu,Indian Institute of Science, Bangalore</h2>
+        <h2>Santosh Srinivas Karrotu :Indian Institute of Science, Bangalore</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Santosh%20Srinivas%20Karrotu,Indian%20Institute%20of%20Science,%20Bangalore..jpg" alt="">
@@ -168,7 +168,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Suraj Kaushal (ME, IISc)</h2>
+        <h2>Suraj Kaushal : (ME, IISc)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Suraj%20Kaushal%20(ME,%20IISc).jpg" alt="">
@@ -180,7 +180,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Suvita Phulia (ME, IISc)</h2>
+        <h2>Suvita Phulia : (ME, IISc)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Suvita%20Phulia%20(ME,%20IISc).jpg" alt="">
@@ -192,7 +192,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Astha Jada (AIR 51)</h2>
+        <h2>Astha Jada : AIR-51</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Astha%20Jada.jpg" alt="">
@@ -204,7 +204,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Sneha sinha(AIR 52)</h2>
+        <h2>Sneha Sinha :AIR-52</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Sneha%20sinha.jpg" alt="">
@@ -216,7 +216,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Vikrant Singh(AIR 56)</h2>
+        <h2>Vikrant Singh : AIR-56</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Vikrant%20Singh.jpg" alt="">
@@ -228,7 +228,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Naga Raj(AIR 70)</h2>
+        <h2>Naga Raj :AIR-70</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Naga%20Raj.jpg" alt="">
@@ -240,7 +240,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Shivani Agarwal(AIR 71</h2>
+        <h2>Shivani Agarwal : AIR-71</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Shivani%20Agarwal.jpg" alt="">
@@ -252,7 +252,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Aakash Chaudhary(AIR 73)</h2>
+        <h2>Aakash Chaudhary : AIR-73</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Aakash%20Chaudhary.jpg" alt="">
@@ -264,7 +264,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Ajay Agrawal(AIR 82-2016)</h2>
+        <h2>Ajay Agrawal : (AIR 82-2016)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Ajay%20Agrawal(AIR%2082-2016).jpg" alt="">
@@ -276,7 +276,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Ajay singh(AIR 96)</h2>
+        <h2>Ajay Singh :AIR-96</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Ajay%20singh.jpg" alt="">
@@ -288,7 +288,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Peyush sopori (ME, IISc)</h2>
+        <h2>Peyush Sopori : (ME, IISc)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Peyush%20sopori%20(ME,%20IISc).jpg" alt="">
@@ -300,7 +300,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Ratnakar Bollu, IIT MADRAS</h2>
+        <h2>Ratnakar Bollu : IIT MADRAS</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Ratnakar%20Bollu,%20IIT%20MADRAS..jpg" alt="">
@@ -312,7 +312,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Pranjul, Mtech (IIT Kanpur)</h2>
+        <h2>Pranjul : Mtech (IIT Kanpur)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Pranjul,%20Mtech%20(IIT%20Kanpur).jpg" alt="">
@@ -324,7 +324,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Balender Kumar(IIT KANPUR)</h2>
+        <h2>Balender Kumar : (IIT KANPUR)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/BALENDER%20KUMAR%20IIT%20KANPUR.jpg" alt="">
@@ -336,7 +336,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Chandan Pandey (MTech, IIT kanpur)</h2>
+        <h2>Chandan Pandey : (MTech, IIT kanpur)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Chandan%20Pandey%20(MTech,%20IIT%20kanpur).jpg" alt="">
@@ -348,7 +348,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Ravish Kalyan IIT-KHARAGPUR M.Tech(1st yr)</h2>
+        <h2>Ravish Kalyan : IIT-KHARAGPUR M.Tech(1st yr)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Ravish%20Kalyan%20IIT-KHARAGPUR%20M.Tech(1st%20yr).jpg" alt="">
@@ -360,7 +360,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Mahathi (IIT Roorkee)</h2>
+        <h2>Mahathi : (IIT Roorkee)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/mahathi.jpg" alt="">
@@ -372,7 +372,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Shashank Sheshar Singh IIT-Roorkee</h2>
+        <h2>Shashank Sheshar Singh : IIT-Roorkee</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Shashank%20Sheshar%20Singh%20IIT-Roorkee..jpg" alt="">
@@ -384,7 +384,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Ankit Solomon IIT Kanpur.</h2>
+        <h2>Ankit Solomon : IIT Kanpur.</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Ankit%20Solomon%20IIT%20Kanpur..jpg" alt="">
@@ -395,7 +395,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Hardi Shah( AIR 145 -- GATE 2016 ).</h2>
+        <h2>Hardi Shah : ( AIR 145 -- GATE 2016 ).</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Hardi%20Shah(%20AIR%20145%20--%20GATE%202016%20).jpg" alt="">
@@ -406,7 +406,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Shivam Maheshwari( AIR 176 - GATE 2016)</h2>
+        <h2>Shivam Maheshwari : ( AIR 176 - GATE 2016)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Shivani%20Agarwal.jpg" alt="">
@@ -417,7 +417,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Srinivas IIT-KHARAGPUR</h2>
+        <h2>Srinivas :  IIT-KHARAGPUR</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Srinivas%20IIT-KHARAGPUR.jpg" alt="">
@@ -428,7 +428,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Sowmya Vempati IIT Kharagpur</h2>
+        <h2>Sowmya Vempati : IIT Kharagpur</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Sowmya%20Vempati%20IIT%20Kharagpur.jpg" alt="">
@@ -439,7 +439,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Sridhar Pratapa (MTech IITB, Microsoft)</h2>
+        <h2>Sridhar Pratapa : (MTech IITB, Microsoft)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Sridhar%20Pratapa%20(MTech%20IITB,%20Microsoft).jpg" alt="">
@@ -450,7 +450,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Sourav Bose(IIT- Bombay)</h2>
+        <h2>Sourav Bose : (IIT- Bombay)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Sourav%20Bose.jpg" alt="">
@@ -461,7 +461,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Hariom Tiwari,IIT</h2>
+        <h2>Hariom Tiwari :IIT</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Hariom%20Tiwari,IIT..jpg" alt="">
@@ -472,7 +472,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Munmun Chowdhury( M.tech, IIITH )</h2>
+        <h2>Munmun Chowdhury :( M.tech, IIITH )</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Munmun%20Chowdhury(%20M.tech,%20IIITH%20).jpg" alt="">
@@ -483,7 +483,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Vasanthi-(Oracle)</h2>
+        <h2>Vasanthi :(Oracle)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Vasanthi,Oracle.jpg" alt="">
@@ -494,7 +494,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Supriya Shakya.(NIT-Hamirpur)</h2>
+        <h2>Supriya Shakya :NIT-Hamirpur</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Supriya%20Shakya.jpg" alt="">
@@ -516,7 +516,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Sandeep Kumar (Google)</h2>
+        <h2>Sandeep Kumar : (Google)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Sandeep%20Kumar%20(Google).jpg" alt="">
@@ -527,7 +527,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Shreya roy chowdhury</h2>
+        <h2>Shreya Roy chowdhury</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Shreya%20roy%20chowdhury.jpg" alt="">
@@ -549,7 +549,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Vaibhav Jaiswal-(VISA)</h2>
+        <h2>Vaibhav Jaiswal:(VISA)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Vaibhav%20Jaiswal.jpg" alt="">
@@ -560,7 +560,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Ashraf ali shaik</h2>
+        <h2>Ashraf Ali Shaik</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Ashraf%20ali%20shaik.jpg" alt="">
@@ -582,7 +582,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Dhananjay Vashistha- CISCO</h2>
+        <h2>Dhananjay Vashistha : CISCO</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Dhananjay%20Vashistha.jpg" alt="">
@@ -593,7 +593,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Deepali Shukla.(CISCO)</h2>
+        <h2>Deepali Shukla : (CISCO)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Deepali%20Shukla..jpg" alt="">
@@ -604,7 +604,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Akshay Jindal.(Aircent)</h2>
+        <h2>Akshay Jindal : (Aircent)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/Akshay%20Jindal..jpg" alt="">
@@ -627,7 +627,7 @@
     </div>
 
     <div class="row" id="air5">
-        <h2>rajneesh pareek</h2>
+        <h2>Rajneesh Pareek</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/rajneesh%20pareek.jpg" alt="">
@@ -660,7 +660,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>vinayak ghatul ( Final year CSE)</h2>
+        <h2>vinayak ghatul : ( Final year CSE)</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/vinayak%20ghatul%20(%20Final%20year%20CSE).jpg" alt="">
@@ -671,7 +671,7 @@
         </div>
     </div>
     <div class="row" id="air5">
-        <h2>Sourav anand.</h2>
+        <h2>Sourav Anand.</h2>
         <div class="col-md-2">
             <div class="topper-image">
                 <img src="assets/images/testimonials/sourav%20anand.jpg" alt="">
