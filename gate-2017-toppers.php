@@ -355,6 +355,21 @@ include "header.php";
 
                 </div>
             </div>
+            <div class="row" id="air75">
+                <h2>Akshay Gupta- AIR 75</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Akshay%20Gupta-%20AIR%2075.jpeg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>
+                        Thanks’ to ravindra sir I get 75th rank in gate 2017. I prepared his leathers from  last 6 months only by following the plan he explained in his videos. In the time of self-doubt, confusion and anxiety, only thing keeps me going was ravindra sir’s great guidance and his videos. Thank your sir.
+                    </p>
+
+                </div>
+            </div>
             <div class="row" id="air76">
                 <h2>Ravi Shankar Karanam : AIR-76</h2>
                 <div class="col-md-2">
