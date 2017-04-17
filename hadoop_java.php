@@ -204,7 +204,7 @@ include "footer.php";
                 pictures of the bank pay in slip at <strong>fullstack.ravindrababu@gmail.com</strong> with subject line as <strong>"payment done for Hadoop & Java".</strong> Once it is done, you will be given
                 access to private  lecture videos with in 48 hours. You can watch the videos online anytime,
                 anywhere and any number of times. Please note that the videos are not downloadable. Sharing your access
-                or trying to sell or distribute videos is a legally punishable offense. Earlier we caught some people
+                or trying to sell or distribute videos is a legally punishable offence. Earlier we caught some people
                 doing this and they were punished legally and a huge penalty was imposed on them.</P>
 
         </div>

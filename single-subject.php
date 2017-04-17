@@ -111,7 +111,7 @@ include "header.php"
             </div>
             <button class="myBtn btn btn-green" style="margin: 10px 50%;"><span>Register Now</span></button>
             <div class="course-syllabus-title underline">Disclaimer</div>
-            <p>Please note that the videos are not downloadable. Sharing your access or trying to sell or distribute videos is a legally punishable offense. Earlier we caught some people doing this and they were punished legally and a huge penalty was imposed on them.</p>
+            <p>Please note that the videos are not downloadable. Sharing your access or trying to sell or distribute videos is a legally punishable offence. Earlier we caught some people doing this and they were punished legally and a huge penalty was imposed on them.</p>
         </div>
 
 

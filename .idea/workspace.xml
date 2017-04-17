@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55b0e963-d8e0-422c-a66e-6710e289aa97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gate-2017-toppers.php" afterPath="$PROJECT_DIR$/gate-2017-toppers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gate-toppers.php" afterPath="$PROJECT_DIR$/gate-toppers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend.php" afterPath="$PROJECT_DIR$/backend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cprogramming.php" afterPath="$PROJECT_DIR$/cprogramming.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gate-2018.php" afterPath="$PROJECT_DIR$/gate-2018.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gate-2019.php" afterPath="$PROJECT_DIR$/gate-2019.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoop_java.php" afterPath="$PROJECT_DIR$/hadoop_java.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlcss&amp;bootstrap.php" afterPath="$PROJECT_DIR$/htmlcss&amp;bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interviewpreperation.php" afterPath="$PROJECT_DIR$/interviewpreperation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java.php" afterPath="$PROJECT_DIR$/java.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python.php" afterPath="$PROJECT_DIR$/python.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-subject.php" afterPath="$PROJECT_DIR$/single-subject.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,37 +25,10 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gate-2017-toppers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gate-2017-toppers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="361" column="105" lean-forward="false" selection-start-line="361" selection-start-column="105" selection-end-line="361" selection-end-column="105" />
-              <folding>
-                <marker date="1492407024092" expanded="true" signature="85714:85715" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gate-toppers.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gate-toppers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="333" column="113" lean-forward="false" selection-start-line="333" selection-start-column="113" selection-end-line="333" selection-end-column="113" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>20</find>
-      <find>air 20</find>
-      <find>79</find>
-      <find>132</find>
       <find>420</find>
       <find>473</find>
       <find>427</find>
@@ -76,6 +55,10 @@
       <find>vais</find>
       <find>746</find>
       <find>76</find>
+      <find>75</find>
+      <find>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BchPukWb0CU?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;</find>
+      <find>offe</find>
+      <find>offen</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -89,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hadoop_java.php" />
         <option value="$PROJECT_DIR$/delete2.php" />
         <option value="$PROJECT_DIR$/assets/js/testminolas/app.js" />
         <option value="$PROJECT_DIR$/featuredvideos.php" />
@@ -110,6 +92,16 @@
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/gate-2017-toppers.php" />
         <option value="$PROJECT_DIR$/gate-toppers.php" />
+        <option value="$PROJECT_DIR$/single-subject.php" />
+        <option value="$PROJECT_DIR$/gate-2019.php" />
+        <option value="$PROJECT_DIR$/gate-2018.php" />
+        <option value="$PROJECT_DIR$/interviewpreperation.php" />
+        <option value="$PROJECT_DIR$/python.php" />
+        <option value="$PROJECT_DIR$/java.php" />
+        <option value="$PROJECT_DIR$/cprogramming.php" />
+        <option value="$PROJECT_DIR$/backend.php" />
+        <option value="$PROJECT_DIR$/htmlcss&amp;bootstrap.php" />
+        <option value="$PROJECT_DIR$/hadoop_java.php" />
       </list>
     </option>
   </component>
@@ -284,18 +276,17 @@
       <workItem from="1491973256563" duration="7641000" />
       <workItem from="1492062894976" duration="2750000" />
       <workItem from="1492236943682" duration="788000" />
-      <workItem from="1492406574080" duration="1065000" />
+      <workItem from="1492406574080" duration="2196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160582000" />
+    <option name="totallyTimeSpent" value="161713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24596465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24596465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -325,62 +316,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="56" lean-forward="false" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2535">
-          <caret line="169" column="1" lean-forward="false" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/color-1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121365">
-          <caret line="8091" column="17" lean-forward="false" selection-start-line="8091" selection-start-column="17" selection-end-line="8091" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/h3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-          <caret line="184" column="29" lean-forward="false" selection-start-line="184" selection-start-column="29" selection-end-line="184" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testimonials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4815">
-          <caret line="321" column="9" lean-forward="false" selection-start-line="321" selection-start-column="9" selection-end-line="321" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="95" column="53" lean-forward="false" selection-start-line="95" selection-start-column="53" selection-end-line="95" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old-testimonials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4590">
-          <caret line="306" column="9" lean-forward="true" selection-start-line="258" selection-start-column="15" selection-end-line="306" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/testminolas/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hadoop_java.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -427,13 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoop_java.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="220" column="20" lean-forward="false" selection-start-line="220" selection-start-column="20" selection-end-line="220" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -691,14 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interviewpreperation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="17" column="167" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="167" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gate-2017-toppers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -713,6 +633,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="333" column="113" lean-forward="false" selection-start-line="333" selection-start-column="113" selection-end-line="333" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-subject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="113" column="154" lean-forward="false" selection-start-line="113" selection-start-column="154" selection-end-line="113" selection-end-column="154" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interviewpreperation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="545" column="170" lean-forward="false" selection-start-line="545" selection-start-column="170" selection-end-line="545" selection-end-column="170" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="512" column="170" lean-forward="false" selection-start-line="512" selection-start-column="170" selection-end-line="512" selection-end-column="170" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="526" column="170" lean-forward="false" selection-start-line="526" selection-start-column="170" selection-end-line="526" selection-end-column="170" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cprogramming.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="437" column="166" lean-forward="false" selection-start-line="437" selection-start-column="166" selection-end-line="437" selection-end-column="166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop_java.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="206" column="85" lean-forward="false" selection-start-line="206" selection-start-column="85" selection-end-line="206" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlcss&amp;bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="254" column="166" lean-forward="false" selection-start-line="254" selection-start-column="166" selection-end-line="254" selection-end-column="166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="69" column="162" lean-forward="false" selection-start-line="69" selection-start-column="162" selection-end-line="69" selection-end-column="162" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gate-2019.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="58" column="166" lean-forward="false" selection-start-line="58" selection-start-column="166" selection-end-line="58" selection-end-column="166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gate-2018.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="58" column="166" lean-forward="false" selection-start-line="58" selection-start-column="166" selection-end-line="58" selection-end-column="166" />
           <folding />
         </state>
       </provider>

@@ -543,7 +543,7 @@ include "header.php";
                     <div class="course-des">
                         <div class="course-des-title underline">Disclaimer</div>
                         <div class="course-des-content">
-                            <p>Please note that the videos are not downloadable. Sharing your access or trying to sell or distribute videos is a legally punishable offense. Earlier we caught some people doing this and they were punished legally and a huge penalty was imposed on them.</p>
+                            <p>Please note that the videos are not downloadable. Sharing your access or trying to sell or distribute videos is a legally punishable offence. Earlier we caught some people doing this and they were punished legally and a huge penalty was imposed on them.</p>
 
 
                         </div>
