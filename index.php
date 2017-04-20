@@ -414,6 +414,9 @@ include "featuredvideos.php";
 <h2 style="text-align: center;"> Testimonials </h2>
 <?php
 include "testimonials.php";
+?>
+<h2 style="text-align: center">Video Testimonials</h2>
+<?php
 include "video-testimonials.php";
 
 include "mobile-testimonials.php";

@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="55b0e963-d8e0-422c-a66e-6710e289aa97" name="Default" comment="r">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/color-1.css" afterPath="$PROJECT_DIR$/assets/css/color-1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/h3.css" afterPath="$PROJECT_DIR$/assets/css/h3.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete-testi.php" afterPath="$PROJECT_DIR$/delete-testi.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studentspeak.php" afterPath="$PROJECT_DIR$/studentspeak.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video-testimonials.php" afterPath="$PROJECT_DIR$/video-testimonials.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +23,7 @@
       <file leaf-file-name="gate-2017-toppers.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gate-2017-toppers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21150">
+            <state relative-caret-position="22275">
               <caret line="1485" column="25" lean-forward="false" selection-start-line="1485" selection-start-column="25" selection-end-line="1485" selection-end-column="25" />
               <folding>
                 <marker date="1492439393986" expanded="true" signature="85714:85715" ph="..." />
@@ -34,32 +32,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delete-testi.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/delete-testi.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="36" column="18" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="36" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="video-testimonials.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/video-testimonials.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="719" column="101" lean-forward="false" selection-start-line="719" selection-start-column="101" selection-end-line="719" selection-end-column="101" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="studentspeak.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="studentspeak.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studentspeak.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="504" column="0" lean-forward="false" selection-start-line="504" selection-start-column="0" selection-end-line="504" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="458" column="100" lean-forward="false" selection-start-line="458" selection-start-column="100" selection-end-line="458" selection-end-column="100" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,7 +47,7 @@
       <file leaf-file-name="interviewpreperation.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interviewpreperation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1680">
+            <state relative-caret-position="8295">
               <caret line="553" column="16" lean-forward="false" selection-start-line="553" selection-start-column="16" selection-end-line="638" selection-end-column="22" />
               <folding />
             </state>
@@ -77,18 +57,8 @@
       <file leaf-file-name="h3.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/h3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="3780">
               <caret line="252" column="0" lean-forward="false" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="416" column="33" lean-forward="false" selection-start-line="416" selection-start-column="33" selection-end-line="416" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -98,9 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>524</find>
-      <find>62</find>
-      <find>21</find>
       <find>60</find>
       <find>109</find>
       <find>150</find>
@@ -128,6 +95,9 @@
       <find>test s</find>
       <find>fu</find>
       <find>my</find>
+      <find>850</find>
+      <find>524</find>
+      <find>941</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -169,11 +139,11 @@
         <option value="$PROJECT_DIR$/gate-2017-toppers.php" />
         <option value="$PROJECT_DIR$/assets/css/color-1.css" />
         <option value="$PROJECT_DIR$/delete-testi.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assets/css/h3.css" />
         <option value="$PROJECT_DIR$/register.php" />
-        <option value="$PROJECT_DIR$/studentspeak.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/video-testimonials.php" />
+        <option value="$PROJECT_DIR$/studentspeak.php" />
       </list>
     </option>
   </component>
@@ -207,7 +177,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,6 +223,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,12 +362,13 @@
       <workItem from="1492062894976" duration="2750000" />
       <workItem from="1492236943682" duration="788000" />
       <workItem from="1492406574080" duration="5292000" />
-      <workItem from="1492657944100" duration="12215000" />
+      <workItem from="1492657944100" duration="13946000" />
+      <workItem from="1492683483859" duration="853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177024000" />
+    <option name="totallyTimeSpent" value="179608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="-11" width="1303" height="780" extended-state="6" />
@@ -407,12 +378,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -479,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="512" column="170" lean-forward="false" selection-start-line="512" selection-start-column="170" selection-end-line="512" selection-end-column="170" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="526" column="170" lean-forward="false" selection-start-line="526" selection-start-column="170" selection-end-line="526" selection-end-column="170" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="206" column="85" lean-forward="false" selection-start-line="206" selection-start-column="85" selection-end-line="206" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="254" column="166" lean-forward="false" selection-start-line="254" selection-start-column="166" selection-end-line="254" selection-end-column="166" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,29 +728,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="416" column="33" lean-forward="false" selection-start-line="416" selection-start-column="33" selection-end-line="416" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gate-2017-toppers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21150">
+        <state relative-caret-position="22275">
           <caret line="1485" column="25" lean-forward="false" selection-start-line="1485" selection-start-column="25" selection-end-line="1485" selection-end-column="25" />
           <folding>
             <marker date="1492439393986" expanded="true" signature="85714:85715" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/h3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="252" column="0" lean-forward="false" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,16 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interviewpreperation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1680">
+        <state relative-caret-position="8295">
           <caret line="553" column="16" lean-forward="false" selection-start-line="553" selection-start-column="16" selection-end-line="638" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/delete-testi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="36" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -820,19 +762,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studentspeak.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="504" column="0" lean-forward="false" selection-start-line="504" selection-start-column="0" selection-end-line="504" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="366" column="85" lean-forward="false" selection-start-line="366" selection-start-column="85" selection-end-line="366" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/h3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="252" column="0" lean-forward="false" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video-testimonials.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="719" column="101" lean-forward="false" selection-start-line="719" selection-start-column="101" selection-end-line="719" selection-end-column="101" />
+        <state relative-caret-position="1">
+          <caret line="696" column="24" lean-forward="false" selection-start-line="696" selection-start-column="24" selection-end-line="696" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete-testi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="36" column="18" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentspeak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="458" column="100" lean-forward="false" selection-start-line="458" selection-start-column="100" selection-end-line="458" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

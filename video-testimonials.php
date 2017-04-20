@@ -25,6 +25,8 @@
                 <li data-target="#myCarousels" data-slide-to="6"></li>
                 <li data-target="#myCarousels" data-slide-to="7"></li>
                 <li data-target="#myCarousels" data-slide-to="8"></li>
+                <li data-target="#myCarousels" data-slide-to="9"></li>
+                <li data-target="#myCarousels" data-slide-to="10"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -237,7 +239,7 @@
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="studentspeak.php">
-                                <img src="assets/images/video-testi/12Sudheer%20Chandra%20M%20(AIR%2060)_1.jpg"
+                                <img src="assets/images/video-testi/13Rahul%20Sharma%20(AIR%2072).jpg"
                                      alt="gate-topper">
                         </div>
                         <div class="topper-text">
@@ -587,7 +589,7 @@
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="studentspeak.php">
-                                <img src="assets/images/video-testi/34Pramod%20Kumar%20Yadav%20(AIR%20524)_1.jpg
+                                <img src="assets/images/video-testi/34Pramod%20Kumar%20Yadav%20(AIR%20524)_1.jpg"
                                      alt="gate-topper">
                         </div>
                         <div class="topper-text">
@@ -637,7 +639,7 @@
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="studentspeak.php">
-                                <img src="assets/images/video-testi/37Rachit%20Kulkarni%20(AIR%20850)_1.jpg
+                                <img src="assets/images/video-testi/37Rachit%20Kulkarni%20(AIR%20850)_1.jpg"
                                      alt="gate-topper">
                         </div>
                         <div class="topper-text">
@@ -667,14 +669,14 @@
                     <div class="col-md-3">
                         <div class="topper-image">
                             <a href="studentspeak.php">
-                                <img src="assets/images/video-testi/38Suraj%20Kumar%20(AIR%20900)_1.jpg
+                                <img src="assets/images/video-testi/941%20om%20prakesh.jpg"
                                      alt="gate-topper">
                         </div>
                         <div class="topper-text">
 
 
                             <h2>AIR-941</h2>
-                            <h3>Nirav Bhavsar </h3>
+                            <h3>Om Prakesh </h3>
                             </a>
 
                         </div>
@@ -733,11 +735,12 @@
                 </div>
             </div>
             <a class="left carousel-control" href="#myCarousels" role="button" data-slide="prev">
-                <span class="fa fa-chevron-left controllers" aria-hidden="true"></span>
+                <span class="fa fa-chevron-left controllers" aria-hidden="true" style="
+    right: 25px; top: 25%;"></span>
                 <!--                    <span class="sr-only">Previous</span>-->
             </a>
             <a class="right carousel-control" href="#myCarousels" role="button" data-slide="next">
-                <span class="fa fa-chevron-right controllers" aria-hidden="true"></span>
+                <span class="fa fa-chevron-right controllers" aria-hidden="true" style="top: 25%;left: 25px;"></span>
                 <!--                    <span class="sr-only">Next</span>-->
             </a>
         </div>
