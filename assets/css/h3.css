@@ -242,3 +242,11 @@ ol.carousel-indicators li {
     font-size: 22px;
     text-align: center;
 }
+.name-testi {
+    font-size: 20px;
+    text-align: center;
+}
+div#myCarousels {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

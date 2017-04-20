@@ -116,7 +116,7 @@ include "header.php";
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <ul class="pricing p-green">
-                            <a href="fullstack.php.php"><li>
+                            <a href="fullstack.php"><li>
                                     <img src="assets/images/settings_g.svg" alt="">
                                     <big>Full Stack Development</big></a>
                             </li>
