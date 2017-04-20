@@ -50,7 +50,7 @@ include "header.php";
                             It will help you if you first watch a topic's video and then
                             take the test related to that topic. At the end of your preparation,
                             you can take the full length tests.  Once a test is released, you
-                            can take it any time before March 30, 2018. You will be allowed
+                            can take it any time before March 30, 2019. You will be allowed
                             to take a test only one time. For every test, you will immediately
                             see your result as well as the explanation. We will occasionally
                             add more tests whenever we feel the necessity. Please

@@ -15,6 +15,14 @@ include "header.php";
                     <iframe width="1200" height="500" src="https://www.youtube.com/embed/BchPukWb0CU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <div class="underline">Our Mentors</div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="image"><img src="assets/images/latestcourse/backend123.png" alt=""></div>
+                            <div class="name">Name</div>
+                        </div>
+                    </div>
+                </div>
                 <div class="mentor-list">
                     <ol>
                         <li><h2>Nihar Ranjan Sahoo : AIR-9</h2></li>

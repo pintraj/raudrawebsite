@@ -1471,6 +1471,25 @@ include "header.php";
 
                 </div>
             </div>
+            <div class="row" id="air255">
+                <h2>Bharat Sai.B</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Bharat-Sai.B.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>I am currently doing my B.Tech final year in CS in One of the old IIT's.
+                        My Entire B.Tech Went like this :
+                        "Every time I have an Exam,the first thing I would do is to search the related course videos by Ravindra Sir in youtube ". If there is someone whom i should thank the most in my entire B.Tech life it is you sir,Thanks a lot Sir.I have not only learnt a lot from you but you have been my biggest motivation ever.You make any concept Simple and clear.
+                          I have been a huge fan of you since 3 years for now.I have recently registered for Data Structures and Algorithms course sir.I am really happy that they helped me a lot and they have helped me in getting placed  for HOTSTAR company,Thanks for your videos sir.
+                    </p>
+
+
+
+                </div>
+            </div>
 
 
         </div>
