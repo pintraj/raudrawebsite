@@ -11,7 +11,7 @@
 <div class="container">
 
 <div class="row">
-    <div class="hidden-xs">
+    <div class="pintraj">
         <br>
         <div id="myCarousels" class="carousel slide" data-ride="carousel" >
             <!-- Indicators -->
@@ -734,12 +734,12 @@
 
                 </div>
             </div>
-            <a class="left carousel-control" href="#myCarousels" role="button" data-slide="prev">
+            <a class="left carousel-control hidden-sm hidden-xs" href="#myCarousels" role="button" data-slide="prev">
                 <span class="fa fa-chevron-left controllers" aria-hidden="true" style="
     right: 25px; top: 25%;"></span>
                 <!--                    <span class="sr-only">Previous</span>-->
             </a>
-            <a class="right carousel-control" href="#myCarousels" role="button" data-slide="next">
+            <a class="right carousel-control hidden-sm hidden-xs" href="#myCarousels" role="button" data-slide="next">
                 <span class="fa fa-chevron-right controllers" aria-hidden="true" style="top: 25%;left: 25px;"></span>
                 <!--                    <span class="sr-only">Next</span>-->
             </a>

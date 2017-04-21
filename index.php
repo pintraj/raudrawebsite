@@ -411,14 +411,16 @@ $_SESSION['user_id']='';
 <?php
 include "featuredvideos.php";
 ?>
-<h2 style="text-align: center;"> Testimonials </h2>
+<h2 style="text-align: center;" class="hidden-xs hidden-sm"> Testimonials </h2>
 <?php
 include "testimonials.php";
 ?>
 <h2 style="text-align: center">Video Testimonials</h2>
 <?php
 include "video-testimonials.php";
-
+?>
+<h2 class="hidden-lg hidden-md" style="text-align: center;">Testimonials</h2>
+<?php
 include "mobile-testimonials.php";
 include "footer.php";
 ?>

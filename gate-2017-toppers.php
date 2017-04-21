@@ -305,6 +305,20 @@ include "header.php";
 
                 </div>
             </div>
+            <div class="row" id="air63">
+                <h2>Ayush Lakshakar: AIR-62</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Ayush-Lakshakar-62.jpeg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>Ravindra sir's videos are awesome... His videos of how to keep things remember long time.. how to  keep oneself self motivated during exam time, what is your reason  and all other videos helped me a lot during exam time... I had very less time available for gate preparation..it is just because of his videos.. I m able to secure AIR 62 in GATE.. Thank you sir .. Thank you so much
+                    </p>
+
+                </div>
+            </div>
             <div class="row" id="air72">
                 <h2>Rahul Sharma : AIR-72</h2>
                 <div class="col-md-2">
@@ -448,6 +462,21 @@ include "header.php";
                         <p>So I had a great learning experience throughout the preparation time.
 
                     </p>
+
+                </div>
+            </div>
+            <div class="row" id="air96">
+                <h2>Ashis kumar: AIR-96</h2>
+                <div class="col-md-2">
+                    <div class="topper-image">
+                        <img src="assets/images/testimonials/2017-toppers/Ashis-kumar--96.jpeg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-10">
+
+                    <p>The Ravindrababu Ravula. Great teacher and speaker. His motivational(general) videos are very good for someone who needs to start preparation for GATE and Computer Networks lectures are best i have seen anywhere. He is always ready to solve queries of even an unknown person.
+                    </p>
+
 
                 </div>
             </div>
