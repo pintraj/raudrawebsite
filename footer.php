@@ -20,7 +20,7 @@
             </div>
             <p> <i class="fa fa-phone-square"></i> 1800 2744 514  &nbsp;&nbsp; <i class="fa fa-envelope-o"></i> gate2014.ravindra@gmail.com</p>
             <p>Raudra Eduservices Pvt. Ltd. © 2017</p>
-
+        </footer>
 
 <script>if ((Cookies.get('color-skin') != undefined) && (Cookies.get('color-skin') != 'color-1')) {
         $('.logo .header-logo img').attr('src', 'assets/images/logo-' + Cookies.get('color-skin') + '.png');

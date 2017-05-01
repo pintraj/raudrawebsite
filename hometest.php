@@ -63,5 +63,5 @@
     </div>
 </section>
 <div class="speak">
-    <button type="button" class="btn btn-primary talk" onclick="window.location.href='old-testimonials.php'">Read More</button>
+    <button type="button" class="btn btn-primary talk" onclick="window.location.href='testimonials.php'">Read More</button>
 </div>

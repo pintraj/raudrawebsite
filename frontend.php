@@ -91,9 +91,9 @@ include "header.php";
                                     </div>
                                 </div>
                                 <div class="media">
-                                    <div class="media-left"><a href="gate-2018.php" class="link"><img src="assets/images/latestcourse/Fullstack.png" alt="" class="media-image"/></a></div>
+                                    <div class="media-left"><a href="fullstack.php" class="link"><img src="assets/images/latestcourse/Fullstack.png" alt="" class="media-image"/></a></div>
                                     <div class="media-right vertical-middle-custom">
-                                        <a href="fullstack.php" class="link title">GATE</a>
+                                        <a href="fullstack.php" class="link title">Full Stack</a>
 
                                     </div>
                                 </div>

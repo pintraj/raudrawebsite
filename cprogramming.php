@@ -448,11 +448,11 @@ include "header.php";
                             <div class="title-widget">Popular Courses</div>
                             <div class="content-widget">
                                 <div class="media">
-                                    <div class="media-left"><a href="gate-2018.php" class="link"><img
+                                    <div class="media-left"><a href="gate-2019.php" class="link"><img
                                                     src="assets/images/latestcourse/GATE.png" alt=""
                                                     class="media-image"/></a></div>
                                     <div class="media-right vertical-middle-custom">
-                                        <a href="gate-2018.php" class="link title">GATE</a>
+                                        <a href="gate-2019.php" class="link title">GATE</a>
 
 
                                     </div>

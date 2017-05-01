@@ -23,24 +23,24 @@
                         <div class="course-des-content"><p>For the natural and social interaction it is necessary to understand human behavior. Personality is one of the fundamental aspects, by which we can understand behavioral dispositions. It is evident that there is a strong correlation between user's personality and the way they behave on social networks (e.g., Facebook). Gaining insights into a web user’s personality is very valuable for applications that rely on personalisation, such as: Recommender Systems, Personalized Advertising, Online Marketing, Sentiment Analysis/Opinion Mining, Deception Detection, Social Network Analysis and many others. This project aims for automatic recognition of Big-5 personality traits on social network (Facebook) using user's status text that can be compared against gold standard annotation obtained by means of the big 5 personality test.The five big5 personality traits includes:</p>
                             <ol>
                                 <li>
-                                    Extraversion: (x/e)(sociable vs shy)
-                                    <ul><li>This trait includes characteristics such as excitability, sociability, talkativeness, assertiveness and high amounts of emotional expressiveness.</li></ul>
+                                    <p>Extraversion: (x/e)(sociable vs shy)</p>
+                                    <ul><li><p>This trait includes characteristics such as excitability, sociability, talkativeness, assertiveness and high amounts of emotional expressiveness.</p></li></ul>
                                 </li>
                                 <li>
-                                    Neuroticism: (n)(neurotic vs calm)
-                                    <ul><li>Individuals high in this trait tend to experience emotional instability, anxiety, moodiness, irritability, and sadness.</li></ul>
+                                    <p>Neuroticism: (n)(neurotic vs calm)</p>
+                                    <ul><li><p>Individuals high in this trait tend to experience emotional instability, anxiety, moodiness, irritability, and sadness.</p></li></ul>
                                 </li>
                                 <li>
-                                    Agreeableness:(a)(friendly vs uncooperative)
-                                    <ul><li>This personality dimension includes attributes such as trust, altruism, kindness, affection, and other prosocial behaviors.</li></ul>
+                                    <p>Agreeableness:(a)(friendly vs uncooperative)</p>
+                                    <ul><li><p>This personality dimension includes attributes such as trust, altruism, kindness, affection, and other prosocial behaviors.</p></li></ul>
                                 </li>
                                 <li>
-                                    Conscientiousness:(c)(organized vs careless)
-                                    <ul><li>Common features of this dimension include high levels of thoughtfulness, with good impulse control and goal-directed behaviors. Those high in conscientiousness tend to be organized and mindful of details.</li></ul>
+                                    <p>Conscientiousness:(c)(organized vs careless)</p>
+                                    <ul><li><p>Common features of this dimension include high levels of thoughtfulness, with good impulse control and goal-directed behaviors. Those high in conscientiousness tend to be organized and mindful of details.</p></li></ul>
                                 </li>
                                 <li>
-                                    Openness: (o)(insightful vs unimaginative)
-                                    <ul><li>This trait features characteristics such as imagination and insight, and those high in this trait also tend to have a broad range of interests.</li></ul>
+                                    <p>Openness: (o)(insightful vs unimaginative)</p>
+                                    <ul><li><p>This trait features characteristics such as imagination and insight, and those high in this trait also tend to have a broad range of interests.</p></li></ul>
                                 </li>
 
                             </ol>
@@ -111,9 +111,9 @@
                                     </div>
                                 </div>
                                 <div class="media">
-                                    <div class="media-left"><a href="btech-projects.php" class="link"><img src="assets/images/latestcourse/Fullstack.png" alt="" class="media-image"/></a></div>
+                                    <div class="media-left"><a href="hadoop.php" class="link"><img src="assets/images/latestcourse/raudraHadoop.png" alt="" class="media-image"/></a></div>
                                     <div class="media-right vertical-middle-custom">
-                                        <a href="fullstack.php" class="link title">Full Stack</a>
+                                        <a href="hadoop.php" class="link title">Hadoop</a>
 
 
 
@@ -122,7 +122,7 @@
                                 <div class="media">
                                     <div class="media-left"><a href="gate-2018.php" class="link"><img src="assets/images/latestcourse/book2.png" alt="" class="media-image"/></a></div>
                                     <div class="media-right vertical-middle-custom">
-                                        <a href="fullstack.php" class="link title">GATE</a>
+                                        <a href="gate-2018.php" class="link title">GATE</a>
 
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@
                                         </div>
 
                                     </div>
-                                    <button class="myBtn btn btn-green">Register Now</button>
+                                    <button class="myBtn btn btn-green"><span>Closed</span></button>
                                 </div>
                             </div>
                         </div>

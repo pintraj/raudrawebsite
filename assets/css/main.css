@@ -1,3 +1,73 @@
+
+#home-page header.affix-top { box-shadow: none; }
+#home-page header.affix-top nav#topnav { height: 0px; visibility: hidden; }
+#home-page header.affix-top nav.navbar { background-color: rgba(0, 0, 0, 0.5); }
+#home-page header.affix-top nav.navbar a.navbar-brand, #home-page header.affix-top nav.navbar .navbar-nav > li > a { color: #ffffff; }
+#home-page header.affix-top nav.navbar a.navbar-brand:hover, #home-page header.affix-top nav.navbar .navbar-nav > li > a:hover { color: #ccc; }
+#home-page header.affix-top nav.navbar a.navbar-brand:hover.apply, #home-page header.affix-top nav.navbar .navbar-nav > li > a:hover.apply { color: #ffffff; }
+
+#land { overflow-x: hidden; background-image: url("../images/ravi.jpg"); background-size: cover; background-position: bottom right; height: 90vh; }
+#land .about-ravindra { padding-top: 60vh; font-size: 2.2em; margin-left: 5vw; color: #dcd9d9; }
+#land .about-ravindra .carousel-content { display: flex; }
+#land .about-ravindra #text-carousel { height: 30vh; position: absolute; }
+
+.our-courses { text-align: center; padding-bottom: 5vh; overflow-x: hidden; }
+.our-courses h2 { padding: 1.5vh 0vh; color: #315562; }
+.our-courses .padding-left-right { padding-left: 20px; padding-right: 20px; }
+.our-courses .shadow { box-shadow: 4px 4px 20px #888888; padding-top: 2px; padding-bottom: 20px; margin: 0px; }
+.our-courses .course-image { color: #f54343; width: 100%; height: 150px; background-size: cover; background-repeat: no-repeat; border: 1px solid #f1eaea; }
+.our-courses .course-image a { text-decoration: none; color: #f7a82e; }
+.our-courses .gate-course { background-image: url("../images/home/video-image.jpg"); background-position: center; }
+.our-courses .interview-preparation { background-image: url("../images/home/interview-preparation.jpg"); background-position: bottom; }
+.our-courses .c-language { background-image: url("../images/home/c-langaue.jpg"); }
+.our-courses .projects { background-image: url("../images/home/projects.jpg"); background-position: bottom; }
+.our-courses .register-course { width: 130px; height: 40px; font-size: 17px; position: relative; margin-right: 30px; background-color: transparent; border: 2px solid #f39403; color: #f39403; cursor: pointer; }
+.our-courses .register-course a { text-decoration: none; }
+.our-courses .register-course:hover { border: 2px solid #f7a82e; color: #f7a82e; background-color: #0b0b0b; }
+
+#about { padding: 5vh 0; text-align: center; background-color: #ffffff; }
+#about .items-sm { padding: 2vw; }
+#about .items-sm .item { cursor: pointer; border-bottom: 1px solid #dadada; }
+#about .items-sm .item h4 { font-size: 5vw; font-weight: 100; color: #222; padding-bottom: 0.3em; margin-top: 0.8em; }
+#about .items-sm .item p { font-size: 4vw; display: none; color: #555555; font-weight: 200; }
+#about .items-sm .item.active { cursor: default; }
+#about .items-sm .item.active h4 { color: #d75428; padding-bottom: 0.6em; }
+#about .items-sm .item.active p { display: block; }
+#about .about-tree { background: url("../images/about.png"); background-position: top center; background-size: 40vw auto; background-repeat: no-repeat; height: 50vw; padding-top: 13.5vw; margin-top: 3em; }
+#about .about-tree .about-item { border: 1px solid transparent; }
+#about .about-tree .about-item h4 { text-transform: uppercase; font-size: 2vw; }
+#about .about-tree .about-item p { font-size: 1.4vw; color: #959595; }
+#about .about-tree .about-left { text-align: right; }
+#about .about-tree .about-left .about-left-basics { margin: -2vw 11vw 0 0; }
+#about .about-tree .about-left .about-left-basics h4 { color: #7C3590; }
+#about .about-tree .about-left .about-left-depth { margin: 2vw 20vw 0 0; }
+#about .about-tree .about-left .about-left-depth h4 { color: #00A3E3; }
+#about .about-tree .about-left .about-left-easy { margin: 4.5vw 13vw 0 0; }
+#about .about-tree .about-left .about-left-easy h4 { color: #F58024; }
+#about .about-tree .about-left .about-left-curriculum { margin: 4.1vw 2vw 0 0; }
+#about .about-tree .about-left .about-left-curriculum h4 { color: #F05F7B; }
+#about .about-tree .about-right { text-align: left; }
+#about .about-tree .about-right .about-right-passion { margin: -1vw 0 0 19vw; }
+#about .about-tree .about-right .about-right-passion h4 { color: #EB529E; }
+#about .about-tree .about-right .about-right-motivator { margin: 4.5vw 0 0 17vw; }
+#about .about-tree .about-right .about-right-motivator h4 { color: #5D6969; }
+#about .about-tree .about-right .about-right-success { margin: 3.2vw 0 0 18vw; }
+#about .about-tree .about-right .about-right-success h4 { color: #149E98; }
+#about .about-tree .about-left .about-left-1 { margin-top: 185px; margin-right: -10px; color: #562065; }
+#about .about-tree .about-left .about-left-1 + p, #about .about-tree .about-left .about-left-1 + p + p { margin-right: 80px; }
+#about .about-tree .about-left .about-left-2 { margin-top: 20px; margin-right: 180px; color: #1f88b1; }
+#about .about-tree .about-left .about-left-2 + p, #about .about-tree .about-left .about-left-2 + p + p { margin-right: 155px; }
+#about .about-tree .about-left .about-left-3 { margin-top: 55px; margin-right: 20px; color: #ea7a22; }
+#about .about-tree .about-left .about-left-3 + p { margin-right: 85px; }
+#about .about-tree .about-left .about-left-4 { margin-top: 75px; color: #da4965; }
+#about .about-tree .about-left .about-left-4 + p { margin-right: -90px; }
+#about .about-tree .about-right .about-right-1 { margin-top: 170px; margin-left: 175px; color: #eb529e; }
+#about .about-tree .about-right .about-right-2 { margin-top: 95px; margin-left: 140px; color: #505656; }
+#about .about-tree .about-right .about-right-3 { margin-top: 85px; margin-left: 150px; color: #188c87; }
+
+#team { padding: 5vh 0; text-align: center; background-color: #ffffff; }
+#team .rockstars img { width: 100%; height: auto; }
+
 #videos { width: 80vw; margin: 0 auto; padding: 5vh 0 10vh; }
 #videos h2 { text-align: center; margin-bottom: 1em; }
 #videos .video-container-sm { position: relative; padding-bottom: 48.25%; /* 16:9 */ padding-top: 25px; height: 0; background-image: url("../images/home/video-image.jpg"); background-size: cover; }
@@ -49,6 +119,46 @@
 
 
 
+
+
+
+#news { padding: 5vh 0; text-align: center; background-color: #ffffff; }
+#news .main-news { margin-top: 5vh; }
+#news .main-news .col-sm-3 { padding: 0; }
+#news .news-border { padding: 0px; border: 1px solid #009688; }
+#news h4, #news p { padding: 15px 15px 0; }
+#news .email-margin { margin: 0 15px; }
+#news .email-margin input { border-radius: 0; padding: 6px 10px; height: auto; font-size: 1em; }
+#news .email-margin button { background-color: #009688; border-radius: 0; margin-bottom: 2em; }
+#news .current-news { width: 100%; height: 12em; background-color: #009688; color: #ffffff; padding-top: 3em; }
+#news .news-img { text-align: left; }
+#news .news-img img { height: 12em; width: 100%; }
+#news .read-more { font-size: 1em; margin-left: 15px; color: #009688; }
+
+#about-ravindra { padding-top: 13vh; text-align: center; }
+#about-ravindra .about-slide-container { background: #315562; }
+#about-ravindra .about-slide-container i { font-size: 30px; color: white; }
+#about-ravindra .about-slide-container h2 { color: white; text-align: center; text-shadow: 1px 1px white; }
+#about-ravindra .about-slide-container p { color: white; font-style: italic; }
+#about-ravindra .about-content { padding: 20px; background: #F4F4F4; }
+#about-ravindra .about-content img { height: 10%; }
+#about-ravindra .about-content p { text-align: justify; padding: 1em; color: #315562; }
+
+#faq { padding-top: 13vh; text-align: center; }
+#faq .faq-slide-container { background: #315562; }
+#faq .faq-slide-container i { font-size: 30px; color: white; }
+#faq .faq-slide-container h2 { color: white; text-align: center; text-shadow: 1px 1px white; }
+#faq .faq-content { background-color: #F5F5F5; padding: 5px; margin: 10px; border: 0px solid #315562; border-radius: 50px; }
+#faq .faq-content h4 { padding-left: 50px; padding-right: 50px; text-align: left; color: #315562; }
+#faq .faq-content p { padding-left: 50px; padding-right: 50px; text-align: justify; }
+
+#contact { padding-top: 13vh; text-align: center; }
+#contact .contact-container { height: 55vh; }
+#contact .contact-container i { font-size: 70px; }
+
+.courses-offered { padding-top: 13vh; padding-bottom: 5vh; margin-left: 1vw; margin-right: 1vw; text-align: center; }
+.courses-offered .course-tile { text-align: center; border: 2px solid #ccc; margin-top: 20px; margin-bottom: 20px; }
+.courses-offered .course-tile .tile-heading { border-bottom: 2px solid #ccc; }
 .testimonials-2 {
 
     position: relative;

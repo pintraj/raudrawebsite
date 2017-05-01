@@ -129,7 +129,7 @@ include "header.php";
                                 <span>Valid for 1 year</span>
                             </li>
                             <li>
-                                <button class="myBtn-stack">Join Now</button>
+                                <button class="">Coming Soon</button>
                             </li>
                         </ul>
                     </div>

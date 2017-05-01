@@ -88,9 +88,9 @@
                                         </div>
                                     </div>
                                     <div class="media">
-                                        <div class="media-left"><a href="btech-projects.php" class="link"><img src="assets/images/latestcourse/Fullstack.png" alt="" class="media-image"/></a></div>
+                                        <div class="media-left"><a href="hadoop.php" class="link"><img src="assets/images/latestcourse/raudraHadoop.png" alt="" class="media-image"/></a></div>
                                         <div class="media-right vertical-middle-custom">
-                                            <a href="fullstack.php" class="link title">Full Stack</a>
+                                            <a href="hadoop.php" class="link title">Hadoop</a>
 
 
 

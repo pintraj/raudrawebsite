@@ -635,9 +635,9 @@ include "header.php";
                                     </div>
                                 </div>
                                 <div class="media">
-                                    <div class="media-left"><a href="fullstack.php" class="link"><img src="assets/images/latestcourse/Fullstack.png" alt="" class="media-image"/></a></div>
+                                    <div class="media-left"><a href="cprogramming.php" class="link"><img src="assets/images/latestcourse/c.png" alt="" class="media-image"/></a></div>
                                     <div class="media-right vertical-middle-custom">
-                                        <a href="fullstack.php" class="link title">Full Stack</a>
+                                        <a href="cprogramming.php" class="link title">C-Programming</a>
 
 
 

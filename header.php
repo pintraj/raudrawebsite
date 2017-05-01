@@ -109,7 +109,15 @@ session_start();
 
                         <li ><a href="testimonial.php" class="main-menu">Testimonials</a></li>
                         <li ><a href="register.php" class="main-menu">Register</a></li>
-                        <li ><a href="feedback.php" class="main-menu">Career Guidance</a></li>
+                        <li class="dropdown" ><a href="#" class="main-menu">Guidance</a>
+                            <ul class="dropdown-menu edugate-dropdown-menu-1 hidden-sm hidden-xs">
+                                <li><a href="feedback.php" class="link-page">Career</a></li>
+                                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdX8iIDG-Go3xx_F4L4iYlakEmTfJEn2xgtwnNy7ZzIhW74-Q/viewform" target="_blank" class="link-page">Schedule</a></li>
+
+
+
+                            </ul>
+                        </li>
                         <li class="hidden-sm hidden-xs"><a href="faq.php" class="main-menu">FAQ</a></li>
                         <li ><a href="about.php" class="main-menu">About</a></li>
                    <!--     <li ><a href="contact.php" class="main-menu">Contact us</a></li>-->
