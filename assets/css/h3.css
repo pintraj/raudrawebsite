@@ -250,3 +250,21 @@ div#myCarousels {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.ml {
+    text-align: center;
+}
+.question ol li {
+    font-size: 20px;
+}
+.btn.btn-outline .btn.btn-outline:hover {
+    color: #315562;
+    border: 1px solid #315562;
+    background-color: transparent;
+    transition: background-color 0.3s ease-in;
+}
+a.btn.btn-outline {
+    border-color: black;
+    color: black;
+    border: 1px solid;
+    background-color: #fffbfb;
+}

@@ -120,6 +120,7 @@ session_start();
                         </li>
                         <li class="hidden-sm hidden-xs"><a href="faq.php" class="main-menu">FAQ</a></li>
                         <li ><a href="about.php" class="main-menu">About</a></li>
+                        <li ><a href="about.php" class="main-menu">Focus Program</a></li>
                    <!--     <li ><a href="contact.php" class="main-menu">Contact us</a></li>-->
                     </ul>
                 </nav>
