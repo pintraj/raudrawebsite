@@ -23,31 +23,31 @@ include "header.php";
                         <div class="course-des-title underline">Course Info</div>
                         <div class="course-des-content">
                             <p>
-                                We are launching FOCUS GATE 2018 BATCH - Limited group of students come together to prepare for GATE 2018. We are launching this for all those students who want to prepare full time, who needs a convenient environment, who needs guidance from experts and who are determined to crack GATE 2018</p>
+                                We are launching FOCUS BATCH 2018- Limited group of students come together to prepare for GATE 2018. We are launching this for all those students who want to prepare full time, who needs a convenient environment, who needs guidance from experts and who are determined to crack GATE 2018</p>
 
-                            <p>We are creating an environment where students (GATE aspirants) can come to learn and excel. This is exclusively offered to the registered students who feel that they need a better place to study. This is a dedicated space where students can spend their preparation time by watching the videos in a very structured manner. You will have Mentors round the clock to guide you.</p>
+                            <p>We are creating an environment where students (GATE aspirants) can come to learn and excel. This is exclusively offered to the registered students who feel that they need a better place to study. This is a dedicated space where students can spend their preparation time by watching the videos in a very structured manner.</p>
 
 
                             <p>We are providing study space which is pleasant and ideal for studying. We will help in preparing a timetable for the students to organise their preparation for GATE 2018.</p>
 
                             <p>We will provide you with the Online discussion forum to clarify any doubts and the same forum can be used for learning, communicating and interacting. They can also be used for peer reviews and assessment of student learning. Well-posed questions and active participation is the heart of meaningful discussion forums. </p>
 
-                                <p>This facility is offered in Hyderabad as of now and Students who want to utilise this facility can reserve their seat. We charge Rs. 100 per day and the student can spend any days as per his convenience. Some can only come for one day or for one week or for the balance 10 months till GATE. All depends on the availability of the seat and the convenience of yours. The facility will be open 24 hrs and the student can come and study anytime of his choice.
+                                <p>This facility is offered in Hyderabad as of now and Students who want to utilise this facility can reserve their seat. The facility will be open 24 hrs and the student can come and study anytime of his choice.
                             </p>
 
 
 
                         </div>
-                        <div class="news-list">
+                        <!--<div class="news-list">
                             <div class="list-expand-title underline">Pre-Requirements</div>
                             <div class="row">
                                 <div class="col-md-12 col-sm-6 col-xs-6">
-                                    <p>On technically you don't need to have any prerequisites. But the candidates should carry a laptop when you come to the workspace.
+                                    <p>Technically there are no prerequisites.
                                     </p>
                                 </div>
 
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                     <!--course syllubus -->
 
@@ -59,7 +59,7 @@ include "header.php";
                                 <li>How many days are mandatory to stay for this course.?</li>
                                 <p>10 MONTHS. We expect a student to be with us for at least 10 months from June.</p>
                                 <li>Selection Process?</li>
-                                <p>Register on this form, and since there are limited seats. so the selection priority is as follows
+                                <p>Register by filling the form in the below link,and since there are limited seats. so the selection priority is as follows.
                                     <br>1. Current Gate registered <br>2. Previous Gate Registered students
                                     <br>3. Current other course registered student
                                     <br>4. Non-Registered</p>

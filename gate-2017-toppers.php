@@ -201,27 +201,7 @@ include "header.php";
 
                 </div>
             </div>
-            <div class="row" id="air35">
-                <h2>Venkat sirivisetti : AIR-35</h2>
-                <div class="col-md-2">
-                    <div class="topper-image">
-                        <img src="assets/images/testimonials/2017-toppers/Venkat-sirivisetti-AIR-35-compressor.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-md-10">
 
-                    <p>Hello all, </p>
-
-                    <p>ravindra babu sir's videos has been a great source of motivation for me. The way he explains the concepts
-                        is superb. He can explain even the hard concepts to near perfection in a easy and simple way. I specially
-                        like his videos on TOC, Algorithms and CN. One doesn't require any other text book or material if they follow
-                        the videos. The standard of questions in test series was very good and worthy taking them.
-                         
-
-                    </p>
-
-                </div>
-            </div>
             <div class="row" id="air37">
                 <h2>Sai Prasad Koushika : AIR-37</h2>
                 <div class="col-md-2">
