@@ -4968,8 +4968,18 @@ ul.list-detail li i {
     margin-bottom: 50px
 }
 
+@media screen and (min-width:900px) {
+    .courses-detail-wrapper {
+
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+
+
+}
 .courses-detail-wrapper {
-    margin-bottom: 60px
+    margin-bottom: 60px;
+
 }
 
 .event-detail-related .underline {

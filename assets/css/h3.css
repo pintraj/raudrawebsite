@@ -252,6 +252,8 @@ div#myCarousels {
 }
 .ml {
     text-align: center;
+    background-color: #f1efef;
+    padding: 50px;
 }
 .question ol li {
     font-size: 20px;
@@ -266,5 +268,21 @@ a.btn.btn-outline {
     border-color: black;
     color: black;
     border: 1px solid;
-    background-color: #fffbfb;
+    background-color: rgba(255,255,255,0.25);
+    border-radius: 4px;
+}
+.ml-course-info {
+    margin-left: 5%;
+}
+.raudra-map {
+    margin-left: 15%;
+}
+.courses-detail-wrapper.remove-padding {
+    margin-bottom: 0px !important;
+}
+a.btn.btn-outline:hover {
+    background-color: #eaeaea;
+}
+.ml-course-info ol li {
+    font-size: 19px;
 }
