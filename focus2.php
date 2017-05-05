@@ -15,28 +15,45 @@ include "header.php";
                 <div class="col-md-12 layout-left"><h1 class="course-title">Call for the Soldiers (Focus Program)</h1>
 
                     <div class="course-video">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/brd91nmHAzc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/brd91nmHAzc?rel=0&amp;showinfo=0" frameborder="0"
+                                allowfullscreen></iframe>
 
                         <div class="clearfix"></div>
                     </div>
                     <div class="course-des">
                         <div class="course-des-title underline">Course Info</div>
                         <div class="course-des-content">
-                            <p>We are launching FOCUS BATCH 2018 for all those students who are excited to learn Applied Machine Learning techniques from the industry experts, who  want to prepare for GATE full time, who need a convenient environment, who need guidance from experts . This program consists the following courses.</p>
+                            <p>We are launching FOCUS BATCH 2018 for all those students who are excited to learn Applied
+                                Machine Learning techniques from the industry experts, who want to prepare for GATE full
+                                time, who need a convenient environment, who need guidance from experts . This program
+                                consists the following courses.</p>
 
-                            <div class="ml-course-info"><ol>
-                                    <li>The Applied Machine Learning course will have a classroom experience. The course will be taught by our EXPERT TEAM. We expect our focus batch students to be fully committed to finish our course work and to attend all the classes in person. The complete syllabus for the course will be uploaded soon.</li>
-                                    <li>The focus batch will also prepare for GATE from our videos under the supervision of our mentors. We are providing a dedicated study space which is pleasant and ideal for studying. We will help the students in preparing a timetable to organise their preparation for GATE 2018.</li>
+                            <div class="ml-course-info">
+                                <ol>
+                                    <li>The Applied Machine Learning course will have a classroom experience. The course
+                                        will be taught by our EXPERT TEAM. We expect our focus batch students to be
+                                        fully committed to finish our course work and to attend all the classes in
+                                        person. The complete syllabus for the course will be uploaded soon.
+                                    </li>
+                                    <li>The focus batch will also prepare for GATE from our videos under the supervision
+                                        of our mentors. We are providing a dedicated study space which is pleasant and
+                                        ideal for studying. We will help the students in preparing a timetable to
+                                        organise their preparation for GATE 2018.
+                                    </li>
 
-                                </ol></div>
+                                </ol>
+                            </div>
 
-                            <p>We will provide you with the online discussion forum to clarify any doubts and the same forum can be used for learning, communicating and interacting, and peer reviews. Well-posed questions and active participation is the heart of meaningful discussion forums.</p>
+                            <p>We will provide you with the online discussion forum to clarify any doubts and the same
+                                forum can be used for learning, communicating and interacting, and peer reviews.
+                                Well-posed questions and active participation is the heart of meaningful discussion
+                                forums.</p>
 
 
-
-                            <p>This facility is offered in Hyderabad as of now and students who want to utilise this facility can reserve their seat. We charge Rs. 100 per day. The facility will be open 24 hrs and the student can come and study anytime of his choice.</p>
-
-
+                            <p>This facility is offered in Hyderabad as of now and students who want to utilise this
+                                facility can reserve their seat. We charge Rs. 100 per day. The facility will be open 24
+                                hrs and the student can come and study anytime of his choice.</p>
 
 
                         </div>
@@ -44,7 +61,8 @@ include "header.php";
                             <div class="list-expand-title underline">Prerequisites</div>
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 col-xs-6">
-                                    <p>There are no prerequisites to get enrolled for this course. But the candidates should carry a laptop when they come to the study space.
+                                    <p>There are no prerequisites to get enrolled for this course. But the candidates
+                                        should carry a laptop when they come to the study space.
 
                                     </p>
                                 </div>
@@ -53,10 +71,421 @@ include "header.php";
                         </div>
                     </div>
                     <!--course syllubus -->
+                    <div class="course-syllabus">
+                        <div class="course-syllabus-title underline">Courses syllabus</div>
+                        <div class="course-table">
+                            <div class="outer-container">
+                                <div class="inner-container">
+                                    <div class="table-header">
+                                        <table class="edu-table-responsive">
+                                            <thead>
+
+                                            </thead>
+                                        </table>
+                                    </div>
+                                    <div class="table-body">
+                                        <table class="edu-table-responsive table-hover">
+                                            <tbody>
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">1. Introduction to ML/AI.
+                                                </td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Why learn ML/AI?
+
+</span></a>
+                                                    <ol type="I">
+                                                        <li>Explosion of data.</li>
+                                                        <li>Making data interpretable.
+                                                        </li>
+                                                        <li>Too many problems to solve, too few people: Skills gap.</li>
+                                                    </ol>
+                                                </td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>What types of problems are well suited for ML? Which are not?
 
 
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>5 examples of  real world problems which use ML.
+
+
+</span></a></td>
+                                            </tr>
+
+
+                                            <tr class="spacing-table">
+                                                <td colspan="4"></td>
+                                            </tr>
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">2. Machine Learning: a
+                                                    10,000 feet view:
+                                                </td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Supervised learning:.</span></a>
+                                                    <ol type="I">
+                                                        <li>Classification.</li>
+                                                        <li>Regression.</li>
+                                                    </ol>
+                                                </td>
+
+
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Clustering/Unsupervised learning
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Semi-supervised learning.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Miscellaneous topics: visualization.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Importance of feature engineering.
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Running Example: Predicting if a patient will be admitted in a hospital.
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Business problem definition.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Defining business objectives.
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Data collection and pre-processing.
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Understanding the data deeply: preliminary data analysis.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Understand the real world constraints of the domain.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>From business objectives to mathematical objectives: defining the loss function or metric.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Data preparation.
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Feature engineering.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Exploring various techniques.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Exploiting the best techniques and building a proof-of-concept.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Document and get feedback.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Iterate and improve constantly.
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Build a productionizalible model to deploy.
+
+
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Monitoring the models in production.
+
+
+
+
+
+</span></a></td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">3.First ML algorithm:
+                                                    Logistic regression
+
+                                                </td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Example: TBD.
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Understand the dataset, define objectives and loss functions.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Concept map of logistic regression.
+
+
+</span></a></td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">4.Naive bayes.</td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">5. K-Nearest Neighbor.</td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">6. Decision Trees.</td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">7. Ensembles: RandomForest, Boosted decision Trees.
+                                                </td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">8. Stacking and blending.
+                                                </td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">9. Support Vector Machines.
+                                                </td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">10. Classical Neural Nets.
+                                                </td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">11. K Means and KMeans++.
+                                                </td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">12. Hierarchical clustering.
+
+                                                </td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">13. t-SNE: visualizing high dimensional data.
+
+                                                </td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">14. Featurizing data:
+
+
+                                                </td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Featurizing tabular data.
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Techniques to engineer relational features.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Scaling and centering.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Binning smartly.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>interaction features.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Featuring text data: word2Vec.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Featuring image data.
+
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Featurizing speech data.
+
+
+</span></a></td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">15. Loss functions and metrics.
+
+
+
+                                                </td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>AUC
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Log-Loss
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Precision-Recall
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>0-1 loss.
+
+</span></a></td>
+                                            </tr>
+                                            <tr class="table-row">
+                                                <td class="left col-1"><i
+                                                            class="bg-green mr25 fa fa-caret-right"></i><span>Other loss functions.
+
+</span></a></td>
+                                            </tr>
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">16. Deep Learning: a gentle introduction.
+
+
+
+
+                                                </td>
+                                            </tr>
+
+
+                                            <tr class="heading-content">
+                                                <td colspan="4" class="left heading-content">17. Case studies: 30 real world problems discussed in detail.
+
+
+
+
+                                                </td>
+                                            </tr>
+
+
+
+
+
+
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    <!--course syllubus ends here-->
                     <div class="course-des">
-                        <div class="course-des-title underline">FAQ</div>
+                        <div class="course-des-title underline">FAQ's</div>
                         <div class="question">
                             <ol>
                                 <li>What is the total duration of this course?</li>
@@ -71,36 +500,45 @@ include "header.php";
                                 </p>
                                 <li>Is there any selection criteria?
                                 </li>
-                                <p>The course is open for everyone including the unregistered students. If the number of applicants is more than 300, the priority is as given below. <br>
+                                <p>The course is open for everyone including the unregistered students. If the number of
+                                    applicants is more than 300, the priority is as given below. <br>
                                 <ol type="A">
                                     <li>Current GATE registered students</li>
-                                    <li>Previous GATE registered students </li>
-                                    <li>Current other course registered students </li>
+                                    <li>Previous GATE registered students</li>
+                                    <li>Current other course registered students</li>
                                     <li>Others</li>
                                 </ol>
                                 </p>
                                 <li>Facilities provided?
                                 </li>
-                                <p>AC study rooms, uninterrupted high speed Internet, WiFi access, individual study space.
+                                <p>AC study rooms, uninterrupted high speed Internet, WiFi access, individual study
+                                    space.
 
 
                                 </p>
                                 <li>What is the fees for this course?
                                 </li>
-                                <p>We charge Rs. 100 per day or you can pay us on monthly basis also. We leave this to your discretion.</p>
+                                <p>We charge Rs. 100 per day or you can pay us on monthly basis also. We leave this to
+                                    your discretion.</p>
                                 <li>Will there be periodic assessment of the student?
                                 </li>
-                                <p>Yes, there will be periodic assessment of the student. This course requires high level of involvement from the students for the complete duration of the course. At any time during the course, if our team believes that you are not meeting the expectations of the course, you may be asked to leave the course.
+                                <p>Yes, there will be periodic assessment of the student. This course requires high
+                                    level of involvement from the students for the complete duration of the course. At
+                                    any time during the course, if our team believes that you are not meeting the
+                                    expectations of the course, you may be asked to leave the course.
                                 </p>
 
 
                                 <li>How will this course be beneficial for you?
                                 </li>
-                                <p> A student will be preparing simultaneously for both GATE and ML. You will be exposed to Industry problems / situations and you will get the hands-on experience to solve them.</p>
+                                <p> A student will be preparing simultaneously for both GATE and ML. You will be exposed
+                                    to Industry problems / situations and you will get the hands-on experience to solve
+                                    them.</p>
 
                                 <li>Do we provide placement assistance?
                                 </li>
-                                <p>Yes, we can refer you to the product based companies upon succcessful completion of the course with good grades throughout the course.
+                                <p>Yes, we can refer you to the product based companies upon succcessful completion of
+                                    the course with good grades throughout the course.
                                 </p>
 
                                 <li>What is the complete syllabus of the course?
@@ -108,16 +546,19 @@ include "header.php";
                                 <p>The detailed syllabus will be uploaded soon.
                                 </p>
 
-                                <li>How are classes conducted for ML? Is it offline or online? What is the course commencement Date?
+                                <li>How are classes conducted for ML? Is it offline or online? What is the course
+                                    commencement Date?
                                 </li>
                                 <p>The classes for ML are OFFLINE. The classes will start from 15 June, 2017.
                                 </p>
 
                                 <li>How many students are expected to be admitted in a batch?</li>
-                                <p>We are planning to offer admission to 300 students (300 is Ravi sir's favorite movie).</p>
+                                <p>We are planning to offer admission to 300 students (300 is Ravi sir's favorite
+                                    movie).</p>
 
                                 <li>Is it necessary to sit in ML course?</li>
-                                <p>Yes, it is mandatory to attend the classes of ML and complete the assignments. These assignments will be announced during the respective classes.
+                                <p>Yes, it is mandatory to attend the classes of ML and complete the assignments. These
+                                    assignments will be announced during the respective classes.
 
                                 </p>
                                 <li>Accommodation?
@@ -126,14 +567,64 @@ include "header.php";
                                 </p>
                                 <li>Certification for ML?
                                 </li>
-                                <p>Yes, we provide the certificate on the successful completion of the course and the grades that student acquired during the course work (assignments and exams) will be reflected on the certificate.
+                                <p>Yes, we provide the certificate on the successful completion of the course and the
+                                    grades that student acquired during the course work (assignments and exams) will be
+                                    reflected on the certificate.
                                 </p>
                                 <li>Is it necessary to carry laptops?
                                 </li>
                                 <p>Yes, you need to carry your own laptop.
                                 </p>
+                                <li>What is the Applied Machine Learning (AML) course all about?
+                                </li>
+                                <p>The AML course attempts to teach students/course-participants some of the core ideas in machine learning, data-science and AI that would help the participants go from a real world business problem to a first cut, working and deployable ML solution to the problem. Of course, some of the high performing participants could go on to build world class solutions for real world solutions. Our primary focus is to help participants build real world ML products using the skills they learn in this course.
+                                </p>
+                                <li>Who are the target audience for this course?
+                                </li>
+                                <p>We are building our course content and teaching methodology to cater to the needs to students at various levels of expertise and varying background skills. This course can be taken by anyone with a working knowledge of a modern programming language like C/C++/Java/Python. We expect the average student to spend at least 5 hours a week over a 6 month period amounting to a 125+ hours of effort. More the effort, better the results. Here is a list of customers who would benefit from our course:
+                                <ol type="A">
+                                    <li>Undergrad (BS/BTech/BE) students in engineering and science.</li>
+                                    <li>Grad(MS/MTech/ME/MCA) students in engineering and science.</li>
+                                    <li>Working professionals: Software engineers, Business analysts, Product managers, Program managers, Managers, Startup teams building ML products/services.</li>
+                                    <li>ML Scientists and ML engineers preparing for job-interviews.</li>
+                                </ol>
+                                </p>
+                                <li>What outcomes can each of the audience expect?
+                                </li>
+                                <p>We expect all of our participants to be able to go from an open ended business problem to a working, first-cut and productionizable ML solution. Undergrad/Grad students could use this course to work on their projects that would involve considerable ML components. They could also use the portfolio they build to strengthen their resume for ML engineer positions in the industry. Working professional could use this course to showcase their learnings to their peers and teams so as to move from software-engineering roles to ML engineer roles if they choose. Product managers would be able to gain a deeper understanding of ML which they can use to better design their products.
 
+                                </p>
+                                <li>What are the prerequisites for this course? When does this course begin? How long would it take?
+                                </li>
+                                <p>The only prerequisite for this course is a working knowledge of a modern programming language like Java/C++/Python or an ability to read pseudocode. The course will begin on Aug-15th, 2017. The first iteration of this course would be over a 6 month period wherein we will release new content regularly as and when we create it.
+                                </p>
+                                <li>Would this course be very theoretical or practical in nature?
+                                </li>
+                                <p>This course will focus on practical knowledge more than mathematical or theoretical rigor. That doesn't mean that we would water down the content. We will try and balance the theory and practice while giving more preference to the practical and applied aspects of ML as the course name suggests. Through the course, we will work on 30+ case studies of real world ML problems and datasets to help students grasp the practical nuances of building ML solutions. For each idea/algorithm in ML, we would provide examples to provide the intuition and show how the idea to used in the real world.
+                                </p>
+                                <li>Will you give me a certificate at the completion at the end of this course?
+                                </li>
+                                <p>Yes, we do give a course completion certificate.  We help participants solve real world ML problems using publicly available datasets. We encourage the participants to  document their work (code, plots, models and outcomes) on github. This github profile could be used by our participants to showcase their work to their peers and potential employers. This is similar in idea to a portfolio for photographers, models, artists, designers etc. Ideally, we would love to see our participants build ML products and startups.
+                                </p>
+                                <li>How are you different from Coursera’s Machine learning course by Prof. Andrew Ng, Udacity’s nanodegree program etc?
+                                </li>
+                                <p>We love the work done by Coursera, Udacity and Udemy in this field. We are standing on their shoulders to push the horizon a little further. Following are the key differences:
+                                <ol type="A">
+                                    <li>AML is very applied in nature. We cover topics like posing a real world, open ended business problem into a ML problem and  machine learning process while leveraging case based teaching.
+                                    </li>
+                                    <li>Our courses are targeted at a significantly wider audience than other courses:  every one from a 12th grade student to a ML Scientist can benefit from them. </li>
+                                    <li>Our courses are hyper-personalized through ideas like Content maps(explained later) which help students learn at their own pace to reach varying degrees of expertise. This course is designed in such a way that an ML expert can revise the fundamentals using this course in just a day. This course is also designed such that someone who has no background in ML can spend 6-12 months learning all the details in depth.
+                                    </li>
+                                    <li>Instead of giving a course completion certificate, we help our participants build a high quality portfolio to showcase their skills to potential employers.
+                                    </li>
+                                    <li>Unlike some of the online courses, we provide a 24 hour guarantee to respond to any questions you might have regarding the content in the course. We believe that helping our students as quickly as possible keeps them motivated.
+                                    </li>
+                                    <li>We have contextual comments where in any student can leave us a question/comment/rating at any instance of time in the videos. This enables us to understand the students’ concerns and modify the content accordingly. We believe in
+                                    </li>
+                                </ol>
+                                <p>This is our first attempt at building the best applied ML course in the world to cater the widest possible audience.</p>
 
+                                </p>
 
 
                             </ol>
@@ -141,112 +632,16 @@ include "header.php";
 
 
                     </div>
-                    <!--faq new pattern -->
-                    <div class="accordion-faq">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="underline">Commonly asked Questions</div>
-                                <div id="accordion-1" class="panel-group accordion">
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1-1" aria-expanded="true" class="accordion-toggle collapsed">1. How long will it take to get the access after the payment?</a></h5></div>
-                                        <div id="collapse-1-1" aria-expanded="false" style="height: 0px;" class="panel-collapse collapse">
-                                            <div class="panel-body">Student will receive the credentials with in 48 hrs from the time we receive an email regarding Payment.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1-2" aria-expanded="true" class="accordion-toggle collapsed">2. What if I face any technical difficulties?</a></h5></div>
-                                        <div id="collapse-1-2" style="" aria-expanded="true" class="panel-collapse collapse">
-                                            <div class="panel-body">In case you face any problems, you can email us directly to the specified email id. As such, no one faced any technical problems till now.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading">
-                                            <h5 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1-3" aria-expanded="false" class="accordion-toggle collapsed">
-                                                    3. is my internet connection good enough for videos without buffering?
-                                                </a>
-                                            </h5>
-                                        </div>
-                                        <div id="collapse-1-3" style="height: 0px;" aria-expanded="false" class="panel-collapse collapse">
-                                            <div class="panel-body">You can login as guest and watch the computer network videos here to test whether your internet connection is good enough or not. We recommend internet connections of atleast 1mbps.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading">
-                                            <h5 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1-4" aria-expanded="true" class="accordion-toggle collapsed">
-                                                    4. Is each and every topic taught by Ravindrababu Ravula?
-                                                </a>
-                                            </h5>
-                                        </div>
-                                        <div id="collapse-1-4" style="" aria-expanded="true" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Yes. Even though a team of experts from IISc and IITs work with him to produce the quality material, all the classes will be taught by Ravindrababu himself.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1-5" aria-expanded="false" class="accordion-toggle collapsed">5. Do I have to watch all the videos regularly?</a></h5></div>
-                                        <div id="collapse-1-5" style="height: 0px;" aria-expanded="false" class="panel-collapse collapse">
-                                            <div class="panel-body">It is not required that you watch them daily. You can do it at your own convenience. Any time, any place, any computer.                                               </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="underline">GATE Course Specific FAQs</div>
-                                <div id="accordion-2" class="panel-group accordion">
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-2-1" aria-expanded="false" class="accordion-toggle collapsed">1. Will test series be provided?</a></h5></div>
-                                        <div id="collapse-2-1" aria-expanded="false" style="height: 0px;" class="panel-collapse collapse">
-                                            <div class="panel-body">Yes, test series will be provided from the month of JUNE-2017. You can find the schedule
-                                                <a href="gatexcel80.php"><strong>here.</strong></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-2-2" aria-expanded="false" class="accordion-toggle">2. Will all the previous GATE questions be solved in your videos?</a></h5></div>
-                                        <div id="collapse-2-2" style="" aria-expanded="true" class="panel-collapse collapse ">
-                                            <div class="panel-body">Most of the previous GATE questions will be solved in our video lectures.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-2-3" aria-expanded="false" class="accordion-toggle collapsed">3. Do I need to prepare from any textbooks or the videos enough?</a></h5></div>
-                                        <div id="collapse-2-3" style="height: 0px;" aria-expanded="false" class="panel-collapse collapse">
-                                            <div class="panel-body">Our videos will be self sufficient for the GATE exam, but in case if you get time, it is better to refer to textbook as well. It is not mandatory.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-2-4" aria-expanded="true" class="accordion-toggle collapsed">4. How long will it take to get the access after the payment?</a></h5></div>
-                                        <div id="collapse-2-4" style="" aria-expanded="true" class="panel-collapse collapse">
-                                            <div class="panel-body">Student will receive the credentials with in 24 hrs from the time we receive an email regarding Payment.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel">
-                                        <div class="panel-heading"><h5 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-2-5" aria-expanded="false" class="accordion-toggle collapsed">5. Is coaching very important to crack GATE and get into IITs?</a></h5></div>
-                                        <div id="collapse-2-5" style="height: 0px;" aria-expanded="false" class="panel-collapse collapse">
-                                            <div class="panel-body">It is just like a sport where a coach will help you cut short your learning time using his experience. Ravindra has helped many students achieve great success with his experience. Coaching will definitely help you save lot of time and avoid lots of mistakes. You might hear some people saying that you can crack GATE with out coaching but it is estimated that nearly 20000 students are taking GATE CS after taking coaching from some coaching centres. If you are preparing only for one or two years and if you are not taking coaching, it is like running a race while others are on motor bikes. People who are suggesting that you prepare on your own are not going to take GATE on your behalf. It is your life and we suggest that you do not take any chances.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--faq ends here-->
-
                     <!--venu starts from here-->
                     <div class="news-list">
                         <div class="list-expand-title underline">Venue</div>
                         <div class="row">
                             <div class="col-md-12 col-sm-6 col-xs-6">
-                                <div class="raudra-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.9430707195497!2d78.35052001487742!3d17.462438688033693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93b3f0000001%3A0x57dd07d512be374b!2sRaudra+EduServices+Pvt.Limited!5e0!3m2!1sen!2sin!4v1493835253014" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+                                <div class="raudra-map">
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.9430707195497!2d78.35052001487742!3d17.462438688033693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93b3f0000001%3A0x57dd07d512be374b!2sRaudra+EduServices+Pvt.Limited!5e0!3m2!1sen!2sin!4v1493835253014"
+                                            width="600" height="450" frameborder="0" style="border:0"
+                                            allowfullscreen></iframe>
+                                </div>
                             </div>
 
                         </div>
@@ -255,7 +650,6 @@ include "header.php";
 
                 </div>
                 <!--courses sidebar starts from here-->
-
 
 
             </div>
@@ -273,11 +667,6 @@ include "header.php";
 <?php
 include "footer.php";
 ?>
-
-
-
-
-
 
 
 </div>

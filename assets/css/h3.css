@@ -286,3 +286,29 @@ a.btn.btn-outline:hover {
 .ml-course-info ol li {
     font-size: 19px;
 }
+.outer-container.custom-table-pos {
+    position: static;
+}
+
+.apply-now-fixed {
+    position: fixed;
+    bottom: 50%;
+    right: 0;
+}
+a.btn.btn-outline.fixed-posi-apply {
+    border-radius: 50%;
+    width: 75px;
+    margin-right: 5px;
+    height: 75px;
+    padding: 15px;
+    line-height: 20px;
+    background-color: #242c42;
+    color: white;
+    font-weight: bold;
+}
+.selection-procedure {
+    font-size: 20px;
+}
+a.btn.btn-outline.fixed-posi-apply:hover {
+    background-color: chocolate;
+}
