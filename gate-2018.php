@@ -195,7 +195,7 @@ include "footer.php";
 
             <P> After the payment is done, you can email us the screen shot or picture of transaction details or the
                 pictures of the bank pay in slip at <strong>gate2014.ravindra@gmail.com</strong> with subject line as <strong>"payment done for GATE-2018".</strong> Once it is done, you will be given
-                access to private GATE lecture videos with in 24 hours. You can watch the videos online anytime,
+                access to private GATE lecture videos with in 24 - 48 hours. You can watch the videos online anytime,
                 anywhere and any number of times. Please note that the videos are not downloadable. Sharing your access
                 or trying to sell or distribute videos is a legally punishable offense. Earlier we caught some people
                 doing this and they were punished legally and a huge penalty was imposed on them.</P>

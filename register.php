@@ -115,6 +115,26 @@ include "header.php";
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3">
+                        <ul class="pricing p-blue">
+                            <a href="java.php"><li>
+                                    <img src="assets/images/settings_b.svg" alt="">
+                                    <big>JAVA</big></a>
+                            </li>
+                            <li>Video Lectures</li>
+                            <li style="height: 78px; vertical-align: middle; display: table-cell;"><span style="color: white;">raudraedus</span>Assignments</li>
+
+                            <li>Project Implementation</li>
+                            <li>Support through E-Mail</li>
+                            <li>
+                                <h3>Rs 5,000/-</h3>
+                                <span>Valid for 1 year</span>
+                            </li>
+                            <li>
+                                <button class="myBtn-java">Join Now</button>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3">
                         <ul class="pricing p-green">
                             <a href="fullstack.php"><li>
                                     <img src="assets/images/settings_g.svg" alt="">
@@ -133,26 +153,7 @@ include "header.php";
                             </li>
                         </ul>
                     </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3">
-                        <ul class="pricing p-blue">
-                            <a href="java.php"><li>
-                                <img src="assets/images/settings_b.svg" alt="">
-                                <big>JAVA</big></a>
-                            </li>
-                            <li>Video Lectures</li>
-                            <li style="height: 78px; vertical-align: middle; display: table-cell;"><span style="color: white;">raudraedus</span>Assignments</li>
 
-                            <li>Project Implementation</li>
-                            <li>Support through E-Mail</li>
-                            <li>
-                                <h3>Rs 5,000/-</h3>
-                                <span>Valid for 1 year</span>
-                            </li>
-                            <li>
-                                <button class="myBtn-java">Join Now</button>
-                            </li>
-                        </ul>
-                    </div>
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <ul class="pricing p-red">
                             <a href="python.php"><li>
@@ -169,7 +170,7 @@ include "header.php";
                                 <span>Valid for 1 year</span>
                             </li>
                             <li>
-                                <button class="myBtn-stack">Join Now</button>
+                                <button class="">Coming Soon</button>
                             </li>
                         </ul>
                     </div>

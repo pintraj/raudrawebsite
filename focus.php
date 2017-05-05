@@ -22,11 +22,12 @@ include "header.php";
                     <div class="course-des">
                         <div class="course-des-title underline">Course Info</div>
                         <div class="course-des-content">
-                            <p>We are launching FOCUS BATCH 2018 for all those students who want to prepare for GATE full time, who need a convenient environment, who need guidance from experts, who are excited to learn Applied Machine Learning techniques from the industry experts. This program consists the following courses.</p>
+                            <p>We are launching FOCUS BATCH 2018 for all those students who are excited to learn Applied Machine Learning techniques from the industry experts, who  want to prepare for GATE full time, who need a convenient environment, who need guidance from experts . This program consists the following courses.</p>
 
                             <div class="ml-course-info"><ol>
-                                    <li>The focus batch will prepare for GATE from our videos under the supervision of our mentors. We are providing a dedicated study space which is pleasant and ideal for studying. We will help the students in preparing a timetable to organise their preparation for GATE 2018.</li>
                                     <li>The Applied Machine Learning course will have a classroom experience. The course will be taught by our EXPERT TEAM. We expect our focus batch students to be fully committed to finish our course work and to attend all the classes in person. The complete syllabus for the course will be uploaded soon.</li>
+                                    <li>The focus batch will also prepare for GATE from our videos under the supervision of our mentors. We are providing a dedicated study space which is pleasant and ideal for studying. We will help the students in preparing a timetable to organise their preparation for GATE 2018.</li>
+
                                 </ol></div>
 
                             <p>We will provide you with the online discussion forum to clarify any doubts and the same forum can be used for learning, communicating and interacting, and peer reviews. Well-posed questions and active participation is the heart of meaningful discussion forums.</p>
@@ -43,7 +44,7 @@ include "header.php";
                             <div class="list-expand-title underline">Prerequisites</div>
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 col-xs-6">
-                                    <p>There are no prerequisites to get enrolled for this course. But the candidates should carry a laptop when they come to the workspace.
+                                    <p>There are no prerequisites to get enrolled for this course. But the candidates should carry a laptop when they come to the study space.
 
                                     </p>
                                 </div>
@@ -55,10 +56,10 @@ include "header.php";
 
 
                     <div class="course-des">
-                        <div class="course-des-title underline">FAQ</div>
+                        <div class="course-des-title underline">FAQ's</div>
                         <div class="question">
                             <ol>
-                                <li>What is the Total Duration of this course?</li>
+                                <li>What is the total duration of this course?</li>
                                 <p>We expect a student to be with us for at least 10 months from 15 June, 2017.
                                 </p>
                                 <li>Is it a full time course? Is it mandatory to stay for the whole period?
@@ -70,34 +71,51 @@ include "header.php";
                                 </p>
                                 <li>Is there any selection criteria?
                                 </li>
-                                <p>Yes and moreover as there are limited seats, there is a selection priority as follows: <br>
-                                   A. Current GATE registered students <br>
-                                   B. Previous GATE registered students <br>
-                                   C. Current other course registered students <br>
-                                   D. Others
-
+                                <p>The course is open for everyone including the unregistered students. If the number of applicants is more than 300, the priority is as given below. <br>
+                                   <ol type="A">
+                                     <li>Current GATE registered students</li>
+                                   <li>Previous GATE registered students </li>
+                                   <li>Current other course registered students </li>
+                                   <li>Others</li>
+                                </ol>
                                 </p>
                                 <li>Facilities provided?
                                 </li>
-                                <p>AC Study Rooms, Uninterrupted High Speed Internet, Wifi Access, Individual workspace.
+                                <p>AC study rooms, uninterrupted high speed Internet, WiFi access, individual study space.
 
 
                                 </p>
-                                <li> What is the Fees for this course?
+                                <li>What is the fees for this course?
                                 </li>
                                 <p>We charge Rs. 100 per day or you can pay us on monthly basis also. We leave this to your discretion.</p>
                                 <li>Will there be periodic assessment of the student?
                                 </li>
                                 <p>Yes, there will be periodic assessment of the student. This course requires high level of involvement from the students for the complete duration of the course. At any time during the course, if our team believes that you are not meeting the expectations of the course, you may be asked to leave the course.
                                 </p>
+
+
                                 <li>How will this course be beneficial for you?
                                 </li>
-                                <p> A student will be preparing simultaneously for both GATE and ML. You will be exposed to Industrial problems / situations and you will get the hands-on experience to solve them.
+                                <p> A student will be preparing simultaneously for both GATE and ML. You will be exposed to Industry problems / situations and you will get the hands-on experience to solve them.</p>
+
+                                <li>Do we provide placement assistance?
+                                </li>
+                                <p>Yes, we can refer you to the product based companies upon succcessful completion of the course with good grades throughout the course.
                                 </p>
+
+                                <li>What is the complete syllabus of the course?
+                                </li>
+                                <p>The detailed syllabus will be uploaded soon.
+                                </p>
+
                                 <li>How are classes conducted for ML? Is it offline or online? What is the course commencement Date?
                                 </li>
                                 <p>The classes for ML are OFFLINE. The classes will start from 15 June, 2017.
                                 </p>
+
+                                <li>How many students are expected to be admitted in a batch?</li>
+                                <p>We are planning to offer admission to 300 students (300 is Ravi sir's favorite movie).</p>
+
                                 <li>Is it necessary to sit in ML course?</li>
                                 <p>Yes, it is mandatory to attend the classes of ML and complete the assignments. These assignments will be announced during the respective classes.
 
@@ -114,6 +132,10 @@ include "header.php";
                                 </li>
                                 <p>Yes, you need to carry your own laptop.
                                 </p>
+
+
+
+
                             </ol>
                         </div>
 

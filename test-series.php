@@ -142,7 +142,7 @@ include "footer.php";
             </table>
 
             <P> After the payment is done, you can email us the screen shot or picture of transaction details or the
-                pictures of the bank pay in slip at <strong>gate2014.ravindra@gmail.com</strong>with subject line as <strong>"payment done for Test-series".</strong> Once it is done, you will be given access to the test series within 24 hours. Each test can be taken only once from the date of its activation till 30 March, 2018. Please note that the content is not downloadable. Sharing your access or trying to sell or distributing the content is a legally punishable offence.</P>
+                pictures of the bank pay in slip at <strong>gate2014.ravindra@gmail.com</strong>with subject line as <strong>"payment done for Test-series".</strong> Once it is done, you will be given access to the test series within 24- 48 hours. Each test can be taken only once from the date of its activation till 30 March, 2018. Please note that the content is not downloadable. Sharing your access or trying to sell or distributing the content is a legally punishable offence.</P>
 
         </div>
 
