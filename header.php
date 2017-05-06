@@ -91,7 +91,7 @@ session_start();
         </div>-->
     </div>
     <div class=" header-main_1 homepage-01">
-        <div class="phone-note hidden-xs hidden-sm">
+        <div class="phone-note">
             Due to heavy traffic we are not able to take calls currently. Please email us your queries at gate2014.ravindra@gmail.com
         </div>
         <div class="container">
