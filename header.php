@@ -114,9 +114,9 @@ session_start();
                             </ul>
                         </li>
 
-                        <li ><a href="testimonial.php" class="main-menu">Testimonials</a></li>
+                        <!--<li ><a href="testimonial.php" class="main-menu">Testimonials</a></li>-->
                         <li ><a href="register.php" class="main-menu">Register</a></li>
-                        <li class="dropdown" ><a href="#" class="main-menu">Guidance</a>
+                        <li class="dropdown hidden-sm hidden-xs" ><a href="#" class="main-menu">Guidance</a>
                             <ul class="dropdown-menu edugate-dropdown-menu-1 hidden-sm hidden-xs">
                                 <li><a href="feedback.php" class="link-page">Career</a></li>
                                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdX8iIDG-Go3xx_F4L4iYlakEmTfJEn2xgtwnNy7ZzIhW74-Q/viewform" target="_blank" class="link-page">Schedule</a></li>

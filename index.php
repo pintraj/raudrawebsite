@@ -49,7 +49,7 @@ $_SESSION['user_id']='';
                         </div>
                         <div class="col-md-2 col-sm-4 col-xs-6">
 
-                            <a href="fullstack.php"><img src="assets/images/strip/fullstack1.png"></a>
+                            <a href="#"><img src="assets/images/strip/fullstack1.png"></a>
                             </a>
                         </div>
                         <div class="col-md-2 col-sm-4 col-xs-6">
@@ -112,19 +112,19 @@ $_SESSION['user_id']='';
 </div>
 <!--header slider ends here-->
 <!--gate toppers -->
-<div CLASS="section section-padding">
+<!--<div CLASS="section section-padding">
     <div class="container">
         <div class="gate-topper-list">
             <hr>
             <h2>CONGRATULATIONS to our GATE-2017 Toppers</h2>
             <?php
-            include "gate-toppers.php";
-            include "mobile-2.php";
+/*            //include "gate-toppers.php";
+            //include "mobile-2.php";
 
-            ?>
+            */?>
         </div>
     </div>
-</div>
+</div>-->
 
 <!--gate toppers ends-->
 
@@ -416,17 +416,17 @@ $_SESSION['user_id']='';
 <?php
 include "featuredvideos.php";
 ?>
-<h2 style="text-align: center;" class="hidden-xs hidden-sm"> Testimonials </h2>
+<!--<h2 style="text-align: center;" class="hidden-xs hidden-sm"> Testimonials </h2>-->
 <?php
-include "testimonials.php";
+//include "testimonials.php";
 ?>
-<h2 style="text-align: center">Video Testimonials</h2>
+<!--<h2 style="text-align: center">Video Testimonials</h2>-->
 <?php
-include "video-testimonials.php";
+//include "video-testimonials.php";
 ?>
-<h2 class="hidden-lg hidden-md" style="text-align: center;">Testimonials</h2>
+<!--<h2 class="hidden-lg hidden-md" style="text-align: center;">Testimonials</h2>-->
 <?php
-include "mobile-testimonials.php";
+//include "mobile-testimonials.php";
 include "footer.php";
 ?>
 
