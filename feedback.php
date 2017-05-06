@@ -238,9 +238,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                                 Your form validation is successful!
                                             </div>
                                             <div class="tab-pane active" id="tab1">
-                                                <h3 class="block">Provide your account details</h3>
+                                                <h3 class="block">Provide your  details</h3>
                                                 <div class="form-group">
-                                                    <label class="control-label col-md-3">Your Name
+                                                    <label class="control-label col-md-3"> Name
                                                         <span class="required"> * </span>
                                                     </label>
                                                     <div class="col-md-4">

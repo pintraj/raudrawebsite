@@ -84,9 +84,16 @@ session_start();
                 <div class="socials"><a href="https://www.facebook.com/ravindra.ravula" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a><a href="https://plus.google.com/100601401117543080491" target="_blank" class="google"><i class="fa fa-google-plus"></i></a><a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ" target="_blank" class="google"><i class="fa fa-youtube-play"></i></a></div>
                 <div class="group-sign-in"><!--<a href="login.php" class="login">login</a>--><!--<a href="register.php" class="register">register</a>--></div>
             </div>
+
         </div>
+        <!--<div class="phone-notice">
+            Due to heavy traffic we are not able to take calls currently. Please email us your queries at gate2014.ravindra@gmail.com
+        </div>-->
     </div>
     <div class=" header-main_1 homepage-01">
+        <div class="phone-note hidden-xs hidden-sm">
+            Due to heavy traffic we are not able to take calls currently. Please email us your queries at gate2014.ravindra@gmail.com
+        </div>
         <div class="container">
             <div class="header-main-wrapper">
                 <div class="navbar-heade">

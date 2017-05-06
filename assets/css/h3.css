@@ -312,3 +312,13 @@ a.btn.btn-outline.fixed-posi-apply {
 a.btn.btn-outline.fixed-posi-apply:hover {
     background-color: chocolate;
 }
+.phone-note {
+    font-size: 22px;
+    text-align: center;
+    background-color: darkred;
+    font-weight: bold;
+    width: 100%;
+    z-index: 1000;
+    color: white;
+}
+
