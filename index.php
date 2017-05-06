@@ -127,6 +127,9 @@ $_SESSION['user_id']='';
 </div>-->
 
 <!--gate toppers ends-->
+<?php
+include "focus-program.php";
+?>
 
 <div class="section section-padding choose-course-2">
     <div class="container">
