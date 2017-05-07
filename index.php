@@ -18,17 +18,15 @@ $_SESSION['user_id']='';
                     <div class="container">
                         <div class="ravi-intro">
 
-                            <div class="bannertext  hidden-xs">
-                                Ravindra has emerged as a leader in the areas of technical and engineering training.
-                                He taught, inspired and motivated thousands of students across the globe to achieve
-                                great success in life. He has helped many students to get into premier institutes in
-                                India like IISc, IIT's, NIT's etc. Many students from India and abroad are able to
-                                crack the interviews of big league companies like Google, Microsoft, Amazon, Cisco
-                                etc through his coaching.
+                            <div class="bannertext  ">
+                                <h1 style="text-align: center;color: white;" class="hidden-xs">CALL FOR THE SOLIDERS</h1> <h1 style="text-align: center;color: white;" class="hidden-xs">FOCUS PROGRAM </h1>
+                                <h3 style="text-align: center;color: white;" class="hidden-sm hidden-md hidden-lg">CALL FOR THE SOLIDERS FOCUS PROGRAM </h3>
+                                <hr>
+                                We are launching FOCUS BATCH 2018 for all those students who are excited to learn Applied Machine Learning techniques from a senior <strong>scientist who is the head of Machine Learning team </strong>in a Fortune500 company. And who want to prepare for GATE full time, who need a convenient environment, who need guidance from experts . This program consists of the following courses.
                             </div>
 
                         </div>
-                        <a href="about.php" class="read-more hidden-sm hidden-xs">Read More</a>
+                        <a href="focus.php" class="read-more">Read More</a>
                     </div>
                     <!--<div class="gate-toppers">
                         <p>Congralutions our GATE 2017 Toppers</p>
@@ -47,7 +45,7 @@ $_SESSION['user_id']='';
                             <a href="interviewpreperation.php"> <img src="assets/images/strip/interview prep1.png"></a>
                             </a>
                         </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
+                        <div class="col-md-2 col-sm-4 hidden-xs">
 
                             <a href="#"><img src="assets/images/strip/fullstack1.png"></a>
                             </a>
@@ -57,17 +55,17 @@ $_SESSION['user_id']='';
                             <a href="gate-2018.php"><img src="assets/images/strip/gate1.png"></a>
                             </a>
                         </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
+                        <div class="col-md-2 col-sm-4 hidden-xs">
 
                             <a href="btech-projects.php"><img src="assets/images/strip/projects1.png"></a>
                             </a>
                         </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
+                        <div class="col-md-2 col-sm-4 hidden-xs">
 
                             <a href="hadoop.php"><img src="assets/images/strip/hadoop1.png"></a>
                             </a>
                         </div>
-                        <div class="col-md-2 col-sm-3 col-xs-6">
+                        <div class="col-md-2 col-sm-3 hidden-xs">
 
                             <a href="java.php"><img src="assets/images/strip/java1.png"></a>
                             </a>
@@ -128,7 +126,7 @@ $_SESSION['user_id']='';
 
 <!--gate toppers ends-->
 <?php
-include "focus-program.php";
+//include "focus-program.php";
 ?>
 
 <div class="section section-padding choose-course-2">

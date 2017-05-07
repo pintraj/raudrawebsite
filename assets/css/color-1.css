@@ -8075,19 +8075,34 @@ div.ravi-intro:after{
     background-image: url("../images/one.jpg");
     overflow-x: hidden;
     background-size: cover;
-    background-position: bottom left;
-    /*background-position-x: right;*/
-    background-position-y: bottom;
     height: 70vh;
 }
 
-.read-more{
-    clear: both;
-    text-align: center;
-    border: 2px solid gray;
-    padding: 5px;
-    margin: 10px auto 10px 66%;
-    display: inline-block;
+@media screen and (max-width: 700px){
+    .bannertext {
+
+        /*line-height: 1.5;*/
+        color: #ffffff;
+        font-size: 16px;
+        /*letter-spacing: 0.4px;*/
+        font-weight: bold;
+        margin-top: 2%;
+
+    }
+    .read-more{
+        clear: both;
+        text-align: center;
+        border: 2px solid gray;
+        padding: 5px;
+        margin: 10px 30%;
+        display: inline-block;
+    }
+
+    .topbanner{
+
+        background-position: bottom right;
+    }
+
 }
 
 
@@ -8108,19 +8123,36 @@ div.ravi-intro:after{
     /*font-weight: bold;*/
     font-size: 24px;
 }
-.bannertext {
-    width: 59%;
-    /*text-align: justify;*/
-    float: right;
-    /*padding-top: 77px;*/
-    line-height: 1.5;
-    color: #ffffff;
-    font-size: 20px;
-    letter-spacing: 0.4px;
-    font-weight: bold;
-    margin-top: 5%;
+
+@media screen and (min-width: 701px) {
+    .bannertext {
+        width: 59%;
+        /*text-align: justify;*/
+        float: right;
+        /*padding-top: 77px;*/
+        line-height: 1.5;
+        color: #ffffff;
+        font-size: 20px;
+        letter-spacing: 0.4px;
+        font-weight: bold;
+        margin-top: 5%;
+
+    }
+
+    .read-more{
+        clear: both;
+        text-align: center;
+        border: 2px solid gray;
+        padding: 5px;
+        margin: 10px auto 10px 66%;
+        display: inline-block;
+    }
+    .topbanner{
+        background-position: 30% 45%;
+    }
 
 }
+
 h4.coursetitle {
     font-size: 24px;
     font-weight: bold;
@@ -8164,11 +8196,11 @@ a.main-menu {
 }
 
 @media screen and (max-width:480px) {
-    .strip{
-        top : -140px;
-    }
+    /*.strip{*/
+        /*top : -140px;*/
+    /*}*/
     .content{
-        height:600px;
+        height:500px;
     }
 }
 }

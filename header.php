@@ -91,7 +91,7 @@ session_start();
         </div>-->
     </div>
     <div class=" header-main_1 homepage-01">
-        <div class="phone-note">
+        <div class="phone-note hidden-xs">
             Due to heavy traffic we are not able to take calls currently. Please email us your queries at gate2014.ravindra@gmail.com
         </div>
         <div class="container">
@@ -109,8 +109,6 @@ session_start();
                                 <li><a href="interviewpreperation.php" class="link-page">Job Interview Preparation</a></li>
                                 <li><a href="technologies.php" class="link-page">Technologies</a></li>
                                 <li class="dropdown"><a href="btech-projects.php" class="main-menu">B.Tech Projects</a></li>
-
-
                             </ul>
                         </li>
 
