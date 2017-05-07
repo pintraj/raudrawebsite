@@ -28,10 +28,10 @@ $_SESSION['user_id']='';
                         </div>
                         <a href="focus.php" class="read-more">Read More</a>
                     </div>
-                    <div class="gate-toppers">
+                    <!--<div class="gate-toppers">
                         <p>Congralutions our GATE 2017 Toppers</p>
                         <a href="#" class="hidden-sm hidden-xs">Click Here</a>
-                    </div>
+                    </div>-->
 
 
                 </div>
