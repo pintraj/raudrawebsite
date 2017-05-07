@@ -112,7 +112,7 @@ session_start();
                             </ul>
                         </li>
 
-                        <!--<li ><a href="testimonial.php" class="main-menu">Testimonials</a></li>-->
+                        <li ><a href="testimonial.php" class="main-menu">Testimonials</a></li>
                         <li ><a href="register.php" class="main-menu">Register</a></li>
                         <li class="dropdown hidden-sm hidden-xs" ><a href="#" class="main-menu">Guidance</a>
                             <ul class="dropdown-menu edugate-dropdown-menu-1 hidden-sm hidden-xs">

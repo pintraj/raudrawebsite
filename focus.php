@@ -12,7 +12,7 @@ include "header.php";
     <div class="container">
         <div class="courses-detail-wrapper remove-padding">
             <div class="row">
-                <div class="col-md-12 layout-left"><h1 class="course-title">Call for the Soldiers (Focus Program)</h1>
+                <div class="col-md-12 layout-left"><h1 class="course-title">CALL FOR OUR 300 WARRIORS FOCUS PROGRAM</h1>
 
                     <div class="course-video">
                         <iframe width="560" height="315"
