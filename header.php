@@ -13,6 +13,8 @@ session_start();
     <link type="text/css" rel="stylesheet" href="assets/font/font-icon/font-awesome-4.4.0/css/font-awesome.css">
     <link type="text/css" rel="stylesheet" href="assets/font/font-icon/font-svg/css/Glyphter.css">
     <link type="text/css" rel="stylesheet" href="assets/font/font-icon/font-svg/css/Glyphter.css">
+    <link rel="shortcut icon" href="assets/images/favicon.png">
+
     <!-- LIBRARY CSS-->
     <link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="assets/libs/animate/animate.css">
