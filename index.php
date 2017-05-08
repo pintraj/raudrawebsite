@@ -22,11 +22,11 @@ $_SESSION['user_id']='';
                                 <h1 style="text-align: center;color: white;" class="hidden-xs">CALL FOR OUR 300 WARRIORS</h1> <h1 style="text-align: center;color: white;" class="hidden-xs">FOCUS PROGRAM </h1>
                                 <h3 style="text-align: center;color: white;" class="hidden-sm hidden-md hidden-lg">CALL FOR OUR 300 WARRIORS FOCUS PROGRAM </h3>
                                 <hr>
-                                We are launching FOCUS BATCH 2018 for all those students who are excited to learn Applied Machine Learning techniques from a Senior <strong>Scientist who is the head of Machine Learning team </strong>in a Fortune500 company. And who want to prepare for the GATE full time, who need a convenient environment, who need guidance from experts . This program consists of the following courses.
+                                We are launching FOCUS BATCH 2018 for all those students who are excited to learn Applied Machine Learning techniques from a Senior Scientist who is the lead of Machine Learning team in a Fortune500 company. And who want to prepare for the GATE full time, who need a convenient environment, who need guidance from experts . This program consists of the following courses.
                             </div>
 
                         </div>
-                        <a href="focus.php" class="read-more">Read More</a>
+                        <a href="focus.php" class="read-more" style="color: white;">Read More</a>
                     </div>
                     <!--<div class="gate-toppers">
                         <p>Congralutions our GATE 2017 Toppers</p>
