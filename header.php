@@ -99,7 +99,10 @@ session_start();
         <div class="container">
             <div class="header-main-wrapper">
                 <div class="navbar-heade">
-                    <div class="logo logo-xs pull-left"><a href="index.php" class="header-logo"><img src="assets/images/logo-new.jpg" alt="" class="img-responsive"/></a></div>
+                    <div class="logo logo-xs pull-left" style="
+    height: 50px;
+    width: 200px;
+"><a href="index.php" class="header-logo"><img src="assets/images/logo-new.jpg" alt="" class="img-responsive"/></a></div>
                     <button type="button" data-toggle="collapse" data-target=".navigation" class="navbar-toggle edugate-navbar"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                 </div>
                 <nav class="navigation collapse navbar-collapse pull-right">
@@ -128,6 +131,8 @@ session_start();
                         <li class="hidden-sm hidden-xs"><a href="faq.php" class="main-menu">FAQ</a></li>
                         <li ><a href="about.php" class="main-menu">About</a></li>
                         <li ><a href="focus.php" class="main-menu">Focus Program</a></li>
+                        <li ><a href="favourite-books.php" class="main-menu">Favourite Books</a></li>
+
                    <!--     <li ><a href="contact.php" class="main-menu">Contact us</a></li>-->
                     </ul>
                 </nav>

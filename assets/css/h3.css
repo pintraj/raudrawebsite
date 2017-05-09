@@ -321,4 +321,9 @@ a.btn.btn-outline.fixed-posi-apply:hover {
     z-index: 1000;
     color: white;
 }
-
+.sb {
+    text-align: center;
+}
+.books-lit ol li {
+    font-size: 22px;
+}

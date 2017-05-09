@@ -16,6 +16,7 @@
                 <a href="about.php" style="color: white; margin: 0 1em">About</a>
                 <a href="faq.php" style="color: white; margin: 0 1em">FAQ</a>
                 <a href="register.php" style="color: white; margin: 0 1em">Register</a>
+                <a href="favourite-books.php" style="color: white; margin: 0 1em">Favourite Books</a>
             </nav>
             </div>
             <p> <i class="fa fa-phone-square"></i> 1800 2744 514  &nbsp;&nbsp; <i class="fa fa-envelope-o"></i> gate2014.ravindra@gmail.com</p>
