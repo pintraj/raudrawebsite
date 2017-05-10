@@ -11,7 +11,7 @@ include "header.php";
     <div class="row">
         <div class="container">
             <div class="sb">
-                <h1>Favourite Books</h1>
+                <h1>Favourite Books of Ravindrababu Ravula</h1>
 
             </div>
             <div class="books-lit">
@@ -19,11 +19,12 @@ include "header.php";
                     <li>The Power of NOW by Eckhart Tolle </li>
                     <li>The Magic of Thinking Big by David J.Schwartz</li>
                     <li>Will Power by Roy Baumeister , John Tierney</li>
+                    <li>Wings of Fire: An Autobiography of APJ Abdul Kalam</li>
                     <li>Elon Musk Autobiography</li>
                     <li>Steve Jobs Autobiography</li>
                     <li>Warren Buffet Autobiography</li>
                     <li>Delivering Happiness by Tony Hsieh</li>
-                    <li>Happiness Track </li>
+                    <li>Happiness Track by Emma Seppala</li>
                     <li>Good to Great by Jim Collins</li>
                     <li>Innovator's Dilemma by Clayton M. Christensen</li>
                     <li>Shoe Dog by Phil Knight</li>
