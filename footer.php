@@ -1,6 +1,5 @@
-<?php
-?>
-<footer>
+
+<!--<footer>-->
     <div class="footer-top">
         <div class="container">
 
@@ -10,6 +9,7 @@
         <div class="container">
 
     </div>
+
         <footer>
             <div class="footerbottom">
             <nav>
@@ -43,4 +43,3 @@
 <script src="assets/js/main.js"></script>
 <!-- LOADING SCRIPTS FOR PAGE-->
 <script src="assets/js/pages/faq.js"></script>
-
